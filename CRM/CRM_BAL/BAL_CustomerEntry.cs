@@ -13,8 +13,9 @@ namespace CRM_BAL
     {
         public int Flag { get; set; }
         //public string Cust_ID { get; set; }
+        public int EmployeeID { get; set; }
         public string Cust_ID { get; set; }
-
+        public string CustTitle { get; set; }
         public string FirstName { get; set; }
 
         public string LastName { get; set; }
@@ -42,7 +43,8 @@ namespace CRM_BAL
         public string SourceOfEnquiry { get; set; }
 
         public int SourceEnquiryID { get; set; }
-
+        public string CustSystemPhotoPath { get; set; }
+        public string CustActualPhotoPath { get; set; }
         public string S_Status { get; set; }
 
         public string C_Date { get; set; }

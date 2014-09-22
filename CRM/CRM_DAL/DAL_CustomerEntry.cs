@@ -24,10 +24,12 @@ namespace CRM_DAL
                 cmd = new SqlCommand("SP_Customer", con);
                 cmd.CommandType = CommandType.StoredProcedure;
                 cmd.Parameters.AddWithValue("@Flag", 1);
+                cmd.Parameters.AddWithValue("@EmployeeID", bcustomer.EmployeeID);
                 cmd.Parameters.AddWithValue("@Cust_ID", bcustomer.Cust_ID);
+                cmd.Parameters.AddWithValue("@CustTitle", bcustomer.CustTitle);
                 cmd.Parameters.AddWithValue("@FirstName", bcustomer.FirstName);
                 cmd.Parameters.AddWithValue("@LastName", bcustomer.LastName);
-                cmd.Parameters.AddWithValue("@Date_Of_Birth", bcustomer.Date_Of_Birth);
+                cmd.Parameters.AddWithValue("@Date_Of_Birth",bcustomer.Date_Of_Birth);
                 cmd.Parameters.AddWithValue("@Occupation", bcustomer.Occupation);
                 cmd.Parameters.AddWithValue("@Mobile_No", bcustomer.Mobile_No);
                 cmd.Parameters.AddWithValue("@PhoneNo", bcustomer.PhoneNo);
@@ -39,6 +41,8 @@ namespace CRM_DAL
                 cmd.Parameters.AddWithValue("@Country", bcustomer.Country);
                 cmd.Parameters.AddWithValue("@SourceOfEnquiry", bcustomer.SourceOfEnquiry);
                 cmd.Parameters.AddWithValue("@SourceEnquiryID", bcustomer.SourceEnquiryID);
+                cmd.Parameters.AddWithValue("@CustSystemPhotoPath", bcustomer.CustSystemPhotoPath);
+                cmd.Parameters.AddWithValue("@CustActualPhotoPath", bcustomer.CustActualPhotoPath);
                 cmd.Parameters.AddWithValue("@S_Status", bcustomer.S_Status);
                 cmd.Parameters.AddWithValue("@C_Date", bcustomer.C_Date);
                 int i = cmd.ExecuteNonQuery();

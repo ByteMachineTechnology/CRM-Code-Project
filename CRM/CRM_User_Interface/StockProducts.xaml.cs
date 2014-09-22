@@ -30,6 +30,9 @@ namespace CRM_User_Interface
     {  public SqlConnection con = new SqlConnection(ConfigurationSettings.AppSettings["ConstCRM"].ToString());
         SqlCommand cmd;
         SqlDataReader dr;
+        public int StockID;
+        string Prd;
+        double AQTY, Price;
         public StockProducts()
         {
             InitializeComponent();
@@ -38,7 +41,7 @@ namespace CRM_User_Interface
 
         private void btnAdm_StockDetails_Exit_Click(object sender, RoutedEventArgs e)
         {
-            grd_StockDetails.Visibility = System.Windows.Visibility.Hidden;
+            this .Close ();
         }
 
         private void btnAdm_StockD_Refresh_Click(object sender, RoutedEventArgs e)
@@ -165,8 +168,58 @@ namespace CRM_User_Interface
 
         private void dgvAdm_FinalProcurement_SelectedCellsChanged(object sender, SelectedCellsChangedEventArgs e)
         {
+            object item = dgvAdm_StockDetails.SelectedItem;
+            StockID = Convert.ToInt32((dgvAdm_StockDetails.SelectedCells[0].Column.GetCellContent(item) as TextBlock).Text);
+            //loadStockProducts();
+            frmCRM_Adm_Dashbord ad = new frmCRM_Adm_Dashbord();
+            txtStockPID.Text = StockID.ToString();
+            ad.Productname(txtStockPID.Text);
+            DialogResult = true;
+            this.Close();
 
         }
+        public void loadStockProducts()
+        {
+           // cmbInvoiceStockProducts.Text = "---Select---";
+            try
+            {
+                con.Open();
+                DataSet ds = new DataSet();
+                DataTable dt = new DataTable();
+                string qry = "Select  S.ID,S.Domain_ID , S.Product_ID ,S.Brand_ID ,S.P_Category ,S.Model_No_ID ,S.Color_ID " +
+                             ",D.Domain_Name + ' , ' + P.Product_Name + ' , ' + B.Brand_Name + ' , ' + PC.Product_Category + ' , ' + M.Model_No + ' , ' + C.Color AS Products " +
+                             " S.AvilableQty , S.FinalPrice " +
+                             "From StockDetails S " +
+                             "INNER JOIN tb_Domain D on D.ID=S.Domain_ID " +
+                             "INNER JOIN tlb_Products P on P.ID=S.Product_ID " +
+                             "INNER JOIN tlb_Brand B on B.ID=S.Brand_ID " +
+                             "INNER JOIN tlb_P_Category PC on PC.ID=S.P_Category " +
+                             "INNER JOIN tlb_Model M on M.ID=S.Model_No_ID " +
+                             "INNER JOIN tlb_Color C on C.ID=S.Color_ID " +
+                             "where S.S_Status='Active' and S.ID='" + StockID + "' ORDER BY S.C_Date ASC ";
+                cmd = new SqlCommand(qry, con);
+                SqlDataAdapter da = new SqlDataAdapter(cmd);
+                // con.Open();
+                da.Fill(ds);
 
+                if (ds.Tables[0].Rows.Count > 0)
+                {
+                   // cmbInvoiceStockProducts.SelectedValuePath = ds.Tables[0].Columns["ID"].ToString();
+                   // cmbInvoiceStockProducts.ItemsSource = ds.Tables[0].DefaultView;
+                   // cmbInvoiceStockProducts.DisplayMemberPath = ds.Tables[0].Columns["Products"].ToString();
+                    Prd = ds.Tables[0].Columns["Products"].ToString();
+                    AQTY =Convert .ToDouble ( ds.Tables[0].Columns["AvilableQty"]);
+                    Price = Convert.ToDouble(ds.Tables[0].Columns["FinalPrice"]);
+                }
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+            finally { con.Close(); }
+
+
+        }
     }
 }

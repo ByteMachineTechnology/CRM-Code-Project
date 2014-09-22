@@ -38,7 +38,9 @@ namespace CRM_User_Interface
         public SqlConnection con = new SqlConnection(ConfigurationSettings.AppSettings["ConstCRM"].ToString());
         SqlCommand cmd;
         SqlDataReader dr;
-
+        string caption = "Green Future Glob";
+         string yarvalue, year, month, g, pm_c, pm_ch, pm_f, pm_ins, insd, monthvalue, occu, dob, cd, bday, IDCB, chc, chdatae;
+         double y1, m1, o, p, availqty, ba;
         SaveFileDialog sfd = new SaveFileDialog();
 
         static int PK_ID;
@@ -48,8 +50,13 @@ namespace CRM_User_Interface
         byte[] pictureView;
         string maincked, CName, soe;
         string bpg, cid1;
-        int fetcdoc, Cust_id;
+        public int i1, i2, i3;
+          public string warryearmonth, STR_Value, STR_Y_M, StartDate, EndDate;
+       public  int cid, I, ID, i;
+       public int fetcdoc, Cust_id, SID;
         int exist, vsoe;
+       
+       
         List<string> checkedStuff;
         static DataTable dtstat = new DataTable();
         double MA;
@@ -68,6 +75,12 @@ namespace CRM_User_Interface
         DAL_AddProducts daddprd = new DAL_AddProducts();
        // DAL_AddProduct dalprd = new DAL_AddProduct();
 
+        BAL_CustomerEntry centry = new BAL_CustomerEntry();
+        DAL_CustomerEntry dentry = new DAL_CustomerEntry();
+
+          BAL_Installment bins = new BAL_Installment();
+        DAL_Installment dins = new DAL_Installment();
+
         BAL_Pre_Procurement bpreproc = new BAL_Pre_Procurement();
         DAL_Pre_Procurement dpreproc = new DAL_Pre_Procurement();
 
@@ -80,6 +93,9 @@ namespace CRM_User_Interface
 
         BAL_AddCampaignNotes balcompnots = new BAL_AddCampaignNotes();
         DAL_AddCampaignNotes dalcompnots = new DAL_AddCampaignNotes();
+
+          BAL_PaymentModes balpm = new BAL_PaymentModes();
+        DAL_PaymentMode dalpm = new DAL_PaymentMode();
 
         BAL_CustomerEntry bcustomer = new BAL_CustomerEntry();
         DAL_CustomerEntry dcustomer = new DAL_CustomerEntry();
@@ -98,6 +114,13 @@ namespace CRM_User_Interface
 
         BAL_ContactCustomer bcontcust = new BAL_ContactCustomer();
         DAL_ContactCustomer dcontcust = new DAL_ContactCustomer();
+
+        BAL_InvoiceDetails binvd = new BAL_InvoiceDetails();
+        DAL_InvoiceDetails dinvd = new DAL_InvoiceDetails();
+
+          BAL_Warranty balw = new BAL_Warranty();
+       // BAL_Warranty balw = new BAL_Warranty();
+        DAL_Warranty dalw = new DAL_Warranty();
 
 
         #region Load Event
@@ -5269,7 +5292,41 @@ namespace CRM_User_Interface
         private void btnSaleProductsFetch_Click(object sender, RoutedEventArgs e)
         {
             StockProducts sp = new StockProducts();
-            sp.Show();
+            sp.ShowDialog();
+
+            if (sp.DialogResult == true)
+            {
+
+                try
+                {
+                    con.Open();
+                    DataSet ds = new DataSet();
+                    // DataTable dt = new DataTable();
+                    string qry = "Select  ID,Products123,AvilableQty, FinalPrice,Warranty from StockDetails where S_Status='Active' and ID='" + sp.txtStockPID.Text + "'  ";
+                    cmd = new SqlCommand(qry, con);
+                    SqlDataAdapter da = new SqlDataAdapter(cmd);
+                    DataTable dt = new DataTable();
+                    // con.Open();
+                    da.Fill(dt);
+
+                    if (dt.Rows.Count > 0)
+                    {
+                        // cmbInvoiceStockProducts.SelectedValuePath = ds.Tables[0].Columns["ID"].ToString();
+                        // cmbInvoiceStockProducts.ItemsSource = ds.Tables[0].DefaultView;
+                        // cmbInvoiceStockProducts.DisplayMemberPath = ds.Tables[0].Columns["Products"].ToString();
+                        txtInvoice_Products.Text = dt.Rows[0]["Products123"].ToString();
+                        txtInvoice_AvailabeQty.Text = dt.Rows[0]["AvilableQty"].ToString();
+                        txtInvoiceActualPrice.Text = dt.Rows[0]["FinalPrice"].ToString();
+                        lblInvcWarranty.Content = dt.Rows[0]["Warranty"].ToString();
+                    }
+                }
+                catch (Exception)
+                {
+
+                    throw;
+                }
+                finally { con.Close(); }
+            }
         }
         #endregion FollowupView Buttin Event
 
@@ -5331,25 +5388,25 @@ namespace CRM_User_Interface
             }
         }
 
-        int i;
+        //int i;
 
         public void FollowupProduct_SaveDetails()
         {
             if (dtstat.Rows.Count > 0)
             {
-                for (i = 0; i < dtstat.Rows.Count; i++)
-                {                    
+                for (i1 = 0; i1 < dtstat.Rows.Count; i++)
+                {
                     balfollwproducts.Flag = 1;
                     balfollwproducts.FolloupProductID = Convert.ToInt32(txtFollowupID.Text);
-                    balfollwproducts.FProductID = Convert.ToInt32(dtstat.Rows[i]["ID"].ToString());
+                    balfollwproducts.FProductID = Convert.ToInt32(dtstat.Rows[i1]["ID"].ToString());
                     balfollwproducts.S_Status = "Active";
                     balfollwproducts.C_Date = System.DateTime.Now.ToShortDateString();
                     dalfollow.FollwupProducts_Save_Insert_Update_Delete(balfollwproducts);
                     MessageBox.Show("Done");
                 }
             }
-            
-            
+
+
         }
        
         public void FillData_FollowupDetails()
@@ -10629,20 +10686,1167 @@ namespace CRM_User_Interface
 
         private void btnSaleEmployeeNameFetch_Click(object sender, RoutedEventArgs e)
         {
+            frm_FetchEmployeeDetails fed = new frm_FetchEmployeeDetails();
+            // txtSaleEmployeeName.Text = cen.ToString();
+            // fed.Show();
+            fed.ShowDialog();
 
+            if (fed.DialogResult == true)
+            {
+
+                con.Open();
+                string sqlquery1 = "Select ID,EmployeeID,EmployeeFirstName + ' ' + EmployeeLastName as NAME,Designation,S_Status from tbl_Employee where ID='" + fed.txtFEmpID.Text + "' and S_Status='Active' ";
+                SqlCommand cmd = new SqlCommand(sqlquery1, con);
+                SqlDataAdapter adp = new SqlDataAdapter(cmd);
+                DataTable dt = new DataTable();
+                adp.Fill(dt);
+                if (dt.Rows.Count > 0)
+                {
+                    txtEMPID.Text = dt.Rows[0]["ID"].ToString();
+                    txtSaleEmployeeName.Text = dt.Rows[0]["NAME"].ToString();
+                }
+                con.Close();
+
+            }
         }
         #endregion AddProducts Function
+#region Sale
 
         private void menu_CustomerTabs_Click(object sender, RoutedEventArgs e)
         {
             grd_SalesPurches.Visibility = Visibility;
         }
 
+        private void btnSaleExit_Click(object sender, RoutedEventArgs e)
+        {
+            tbCustSales.Visibility = Visibility.Hidden;
+        }
+
+        private void btnSaleContactNameFetch_Click(object sender, RoutedEventArgs e)
+        {
+            frm_FetchContactCustomerDetailsxaml fccd = new frm_FetchContactCustomerDetailsxaml();
+
+            fccd.ShowDialog();
+
+            if (fccd.DialogResult == true)
+            {
+                txtContactCDID11.Text = fccd.txtCCDID.Text;
+
+                try
+                {
+                    con.Open();
+                    DataSet ds = new DataSet();
+                    // DataTable dt = new DataTable();
+                    string qry = "select  ID,ContactCustID,CTitle + ' ' + FirstName + ' ' +LastName   as Name,MobileNo,EmialID,MailingStreet from tlb_ContactCustomer where S_Status='Active' and ID='" + fccd.txtCCDID.Text + "'";
+                    cmd = new SqlCommand(qry, con);
+                    SqlDataAdapter da = new SqlDataAdapter(cmd);
+                    DataTable dt = new DataTable();
+                    // con.Open();
+                    da.Fill(dt);
+
+                    if (dt.Rows.Count > 0)
+                    {
+                        // cmbInvoiceStockProducts.SelectedValuePath = ds.Tables[0].Columns["ID"].ToString();
+                        // cmbInvoiceStockProducts.ItemsSource = ds.Tables[0].DefaultView;
+                        // cmbInvoiceStockProducts.DisplayMemberPath = ds.Tables[0].Columns["Products"].ToString();
+                        txtSaleCCustomerID.Text = dt.Rows[0]["ContactCustID"].ToString();
+                        txtSaleCCustomerName.Text = dt.Rows[0]["Name"].ToString();
+                        txtSaleCCustMobile.Text = dt.Rows[0]["MobileNo"].ToString();
+                        txtSaleCCustAddress.Text = dt.Rows[0]["MailingStreet"].ToString();
+                        txtSaleCCustEmailid.Text = dt.Rows[0]["EmialID"].ToString();
+
+                    }
+                }
+                catch (Exception)
+                {
+
+                    throw;
+                }
+                finally { con.Close(); }
+
+            }
+        }
+
+        private void txtInvoice_Qty_TextChanged(object sender, TextChangedEventArgs e)
+        {
+             double d = 0;
+            if (txtInvoice_Qty.Text == "")
+            {
+                txtInvoice_TotalPriceofQty.Text = txtInvoiceActualPrice.Text;
+            }
+            else if (txtInvoiceActualPrice.Text != "" && txtInvoice_Qty.Text != "")
+            {
+                o = Convert.ToDouble(txtInvoice_AvailabeQty.Text);
+                p = Convert.ToDouble(txtInvoice_Qty.Text);
+                if (o >= p)
+                {
+                    double actualprice = Convert.ToDouble(txtInvoiceActualPrice.Text);
+                    double q = Convert.ToDouble(txtInvoice_Qty.Text);
+                    double tprice = actualprice * q;
+                    txtInvoice_TotalPriceofQty.Text = tprice.ToString();
+                }
+                else
+                {
+                    MessageBox.Show("Please Select within the range of Available Quantity");
+                    txtInvoice_Qty.Text = "";
+                }
+
+            }
+            else if (txtInvoice_Qty.Text == d.ToString())
+            {
+                txtInvoice_TotalPriceofQty.Text = txtInvoiceActualPrice.Text;
+            }
+            double rem = o - p;
+            txtInvoice_remainingqty.Content = rem.ToString();
+            FetchtaxDetails();
+        }
+           public void FetchtaxDetails()
+        {
+            cmbInvoice_Tax1.Text = "---Select---";
+            try
+            {
+                con.Open();
+                DataSet ds = new DataSet();
+                cmd = new SqlCommand("select Tax_Type, Tax_Percentage from tlb_AddTax  where S_Status='Active'", con);
+                SqlDataAdapter da = new SqlDataAdapter(cmd);
+                // con.Open();
+                da.Fill(ds);
+                if (ds.Tables[0].Rows.Count > 0)
+                {
+
+                    // cmbInvoice_Tax1.Items.Insert(0, "---Select---");
+
+                    cmbInvoice_Tax1.ItemsSource = ds.Tables[0].DefaultView;
+
+                    cmbInvoice_Tax1.DisplayMemberPath = ds.Tables[0].Columns["Tax_Type"].ToString();
+                    cmbInvoice_Tax1.SelectedValuePath = ds.Tables[0].Columns["Tax_Percentage"].ToString();
+
+                }
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+            finally { con.Close(); }
+        }
+
+
+        private void cmbInvoice_Tax1_DropDownClosed(object sender, EventArgs e)
+        {
+            calculatetax();
+        }
+           public void calculatetax()
+        {
+            if (txtInvoice_TotalPriceofQty.Text == "")
+            {
+                MessageBox.Show("Please Enter Quantity ");
+            }
+            else if (txtInvoice_TotalPriceofQty.Text != "" && cmbInvoice_Tax1.SelectedItem.ToString() != "")
+            {
+                double totprice = Convert.ToDouble(txtInvoice_TotalPriceofQty.Text);
+                double tx = Convert.ToDouble(cmbInvoice_Tax1.SelectedValue.ToString());
+                double stot = ((totprice * tx) / 100);
+                txtInvoice_SubToatal.Text = (totprice + stot).ToString();
+            }
+         }
 
 
 
+        private void hlAddTax_Click(object sender, RoutedEventArgs e)
+        {
+              ADD_Tax adt = new ADD_Tax();
+            adt.ShowDialog();
+            FetchtaxDetails();
+        }
+
+        private void btninvoice_addProduct_Click(object sender, RoutedEventArgs e)
+        {
+             if (Invoic_Add_Validation() == true)
+                return;
+            ckeck_addProduct();
+            if (dtstat.Rows.Count == 0)
+            {
+                dtstat.Columns.Add("SrNo");
+
+                dtstat.Columns.Add("Products");
+                dtstat.Columns.Add("ID");
+                dtstat.Columns.Add("Warranty");
+                dtstat.Columns.Add("RatePer_Product");
+                dtstat.Columns.Add("Qty");
+                dtstat.Columns.Add("Total_Price");
+                dtstat.Columns.Add("Tax Name");
+                dtstat.Columns.Add("Taxes %");
+                dtstat.Columns.Add("SubTotal");
+                dtstat.Columns.Add("availqty");
+
+                // dtstat.Columns["availqty"].Visible = false;
+            }
+
+            DataRow dr = dtstat.NewRow();
+            dr["SrNo"] = lblinvoiceSr.Content;
+            dr["Products"] = txtInvoice_Products.Text;
+            dr["ID"] = SID;
+            dr["Warranty"] = lblInvcWarranty.Content.ToString();
+            dr["RatePer_Product"] = txtInvoiceActualPrice.Text;
+            dr["Qty"] = txtInvoice_Qty.Text;
+
+            dr["Total_Price"] = txtInvoice_TotalPriceofQty.Text;
+            dr["Tax Name"] = cmbInvoice_Tax1.Text;
+            dr["Taxes %"] = cmbInvoice_Tax1.SelectedValue.ToString();
+
+            dr["SubTotal"] = txtInvoice_SubToatal.Text;
+            dr["availqty"] = txtInvoice_AvailabeQty.Text;
+            //  availqty =Convert .ToDouble ( txtInvoice_AvailabeQty.Text);
+            dtstat.Rows.Add(dr);
+
+            lblinvoiceSr.Content = (Convert.ToInt32(lblinvoiceSr.Content) + 1).ToString();
+            // txtProduct.Text = "";
+            // cmb1();
+            //cmb2();
+            //cmbtShortCode.SelectedIndex = 1;
+            //txtQty.Text = "";
+            // txtRateAndUnit.Text = "";
+            //txtSubTotal.Text = "";
+
+            Dgrd_InvoiceADDProducts.ItemsSource = dtstat.DefaultView;
+            Dgrd_InvoiceADDProducts.Columns[2].Visibility = Visibility.Hidden;
+            Dgrd_InvoiceADDProducts.Columns[9].Visibility = Visibility.Hidden;
+            // Dgrd_InvoiceADDProducts.Columns[0].Visibility = Visibility.Hidden;
+
+            if (dtstat.Rows.Count > 0)
+            {
+                double invamt = 0.00;
+                foreach (DataRow drow in dtstat.Rows)
+                {
+
+                    invamt += Convert.ToDouble(drow["SubTotal"].ToString());
+                }
+
+                txtInvoice_InvcTotalAmount.Text = Convert.ToString(invamt);
+
+            }
+            clearAddText();
+        }
+  public bool Invoic_Add_Validation()
+        {
+            bool res = false;
+            if (cmbInvoice_Tax1.SelectedValue == null)
+            {
+                res = true;
+                MessageBox.Show("Please Select TAX ", caption, MessageBoxButton.OK, MessageBoxImage.Error);
+            }
+            else
+                if (txtInvoice_Qty.Text == "")
+                {
+                    res = true;
+                    MessageBox.Show("Please Insert Quantity ", caption, MessageBoxButton.OK, MessageBoxImage.Error);
+
+                }
+                else if (txtInvoice_Products.Text == "")
+                {
+                    res = true;
+                    MessageBox.Show("Please Select Products ", caption, MessageBoxButton.OK, MessageBoxImage.Error);
+                }
+            return res;
+        }
+        public void ckeck_addProduct()
+        {
+            if (dtstat.Rows.Count > 0)
+            {
+                if (dtstat.Columns[1].ToString() == txtInvoice_Products.Text)
+                {
+                    MessageBox.Show("Already Present");
+                }
+            }
+        }
+
+        public void clearAddText()
+        {
+            txtInvoice_AvailabeQty.Text = "";
+            txtInvoice_Qty.Text = "";
+            txtInvoiceActualPrice.Text = "";
+            txtInvoice_TotalPriceofQty.Text = "";
+            txtInvoice_SubToatal.Text = "";
+            cmbInvoice_Tax1.ItemsSource = null;
+            FetchtaxDetails();
+            txtInvoice_Products.Text = null;
+            // loadStockProducts();
+            // Dgrd_InvoiceADDProducts.ItemsSource = null;
+            txtInvoice_remainingqty.Content = "";
+            // txtInvoice_InvcTotalAmount.Text = "";
+
+        }
+
+
+        private void btninvoice_clearProduct_Click(object sender, RoutedEventArgs e)
+        {
+            clearAllAddedProducts();
+        }
+           public void clearAllAddedProducts()
+        {
+            txtInvoice_AvailabeQty.Text = "";
+            txtInvoice_Qty.Text = "";
+            txtInvoiceActualPrice.Text = "";
+            txtInvoice_TotalPriceofQty.Text = "";
+            txtInvoice_SubToatal.Text = "";
+            cmbInvoice_Tax1.ItemsSource = null;
+            FetchtaxDetails();
+            txtInvoice_Products.Text = null;
+            //loadStockProducts();
+            Dgrd_InvoiceADDProducts.ItemsSource = null;
+            txtInvoice_remainingqty.Content = "";
+            txtInvoice_InvcTotalAmount.Text = "";
 
 
 
+        }
+        #endregion Sale
+
+        private void txtInvoice_InstalPaidAmount_TextChanged(object sender, TextChangedEventArgs e)
+        {
+             if (txtInvoice_InstalPaidAmount.Text == "")
+            {
+                txtInvoice_InstalBalanceAmount.Text = txtInvoice_InstalTotalAmount.Text;
+            }
+            else if (txtInvoice_InstalTotalAmount.Text != "" && txtInvoice_InstalPaidAmount.Text != "")
+            {
+                double invoice_TAmount = Convert.ToDouble(txtInvoice_InstalTotalAmount.Text);
+                double invoice_PAmount = Convert.ToDouble(txtInvoice_InstalPaidAmount.Text);
+                double invoice_BAmount = invoice_TAmount - invoice_PAmount;
+                txtInvoice_InstalBalanceAmount.Text = invoice_BAmount.ToString();
+            }
+        }
+         public void loadyear()
+        {
+            cmdInvoice_InstalYear.Text = "---Select---";
+            cmdInvoice_InstalYear.Items.Add("1 Year");
+            cmdInvoice_InstalYear.Items.Add("2 Year");
+            cmdInvoice_InstalYear.Items.Add("3 Year");
+            cmdInvoice_InstalYear.Items.Add("4 Year");
+            cmdInvoice_InstalYear.Items.Add("5 Year");
+
+        }
+        public void loadMonth()
+        {
+            cmdInvoice_InstalMonth.Text = "---Select---";
+            cmdInvoice_InstalMonth.Items.Add("1 Month");
+            cmdInvoice_InstalMonth.Items.Add("2 Month");
+            cmdInvoice_InstalMonth.Items.Add("3 Month");
+            cmdInvoice_InstalMonth.Items.Add("4 Month");
+            cmdInvoice_InstalMonth.Items.Add("5 Month");
+            cmdInvoice_InstalMonth.Items.Add("6 Month");
+            cmdInvoice_InstalMonth.Items.Add("7 Month");
+            cmdInvoice_InstalMonth.Items.Add("8 Month");
+            cmdInvoice_InstalMonth.Items.Add("9 Month");
+            cmdInvoice_InstalMonth.Items.Add("10 Month");
+            cmdInvoice_InstalMonth.Items.Add("11 Month");
+
+        }
+        private void rdo_Invoice_Yearlyinstallment_Checked(object sender, RoutedEventArgs e)
+        {
+             if (rdo_Invoice_Yearlyinstallment.IsChecked == true)
+            {
+                cmdInvoice_InstalYear.Visibility = Visibility;
+                loadyear();
+                cmdInvoice_InstalMonth.Visibility = Visibility.Hidden;
+                // rdo_Invoice_Yearlyinstallment. = true;
+                //  rdoInvoice_rdo_Invoice_Monthlyinstallment.IsEnabled = false ;
+
+            }
+            else if (rdo_Invoice_Yearlyinstallment.IsChecked == false)
+            {
+                loadyear();
+                txtInvoice_InstalAmountPermonth.Text = "";
+
+            }
+        }
+
+        private void rdoInvoice_rdo_Invoice_Monthlyinstallment_Checked(object sender, RoutedEventArgs e)
+        {
+             if (rdoInvoice_rdo_Invoice_Monthlyinstallment.IsChecked == true)
+            {
+                cmdInvoice_InstalMonth.Visibility = Visibility;
+                cmdInvoice_InstalYear.Visibility = Visibility.Hidden;
+                loadMonth();
+            }
+            else if (rdoInvoice_rdo_Invoice_Monthlyinstallment.IsChecked == false)
+            {
+                loadMonth();
+                txtInvoice_InstalAmountPermonth.Text = "";
+
+            }
+        }
+
+        private void btnInvoice_InstalSaveandPrint_Click(object sender, RoutedEventArgs e)
+        {
+            if (Installment_Validation() == true)
+                return;
+            FetchCustomerID();
+            SaveInvoiceDetails();
+            Save_CommonBill();
+            SaveInstallment();
+            Clear_SaveInstallment();
+            //clear_CustomerFields();
+            clearAllAddedProducts();
+        }
+         public bool Installment_Validation()
+        {
+            bool inst = false;
+            if (txtInvoice_InstalPaidAmount.Text == "")
+            {
+                inst = true;
+                MessageBox.Show("Please Enter Paid Amount", caption, MessageBoxButton.OK, MessageBoxImage.Error);
+            }
+            else if (dpInvoice_Instalpermonth.Text == "")
+            {
+                inst = true;
+                MessageBox.Show("Please Select Date", caption, MessageBoxButton.OK, MessageBoxImage.Error);
+
+            }
+            // else if(rdo_Invoice_Yearlyinstallment. =="")
+            //{ inst =true ;
+            //MessageBox.Show("Please Enter Paid Amount", caption, MessageBoxButton.OK, MessageBoxImage.Error);
+
+            //}
+            // else if(dpInvoice_Instalpermonth.Text =="")
+            //{ inst =true ;
+            //MessageBox.Show("Please Enter Paid Amount", caption, MessageBoxButton.OK, MessageBoxImage.Error);
+
+            //}
+            return inst;
+        }
+        public void SaveInstallment()
+        {
+            bins.Flag = 1;
+            bins.Customer_ID = I;
+            bins.Bill_No = lblbillno.Content.ToString();
+            bins.Total_Price = Convert.ToDouble(txtInvoice_InstalTotalAmount.Text);
+            bins.Paid_Amount = Convert.ToDouble(txtInvoice_InstalPaidAmount.Text);
+            bins.Balance_Amount = Convert.ToDouble(txtInvoice_InstalBalanceAmount.Text);
+            bins.Monthly_Amount = Convert.ToDouble(txtInvoice_InstalAmountPermonth.Text);
+            if (rdo_Invoice_Yearlyinstallment.IsChecked == true)
+            {
+                string yearins = cmdInvoice_InstalYear.SelectedValue.ToString();
+
+                if (yearins == "1 Year")
+                {
+                    yarvalue = "12";
+                }
+                if (yearins == "2 Year")
+                {
+                    yarvalue = "24";
+                }
+                if (yearins == "3 Year")
+                {
+                    yarvalue = "36";
+                }
+                if (yearins == "4 Year")
+                {
+                    yarvalue = "48";
+                }
+                if (yearins == "5 Year")
+                {
+                    yarvalue = "60";
+                }
+
+                bins.Installment_Year = yarvalue;
+                bins.Installment_Month = "NO";
+
+            }
+            else if (rdoInvoice_rdo_Invoice_Monthlyinstallment.IsChecked == true)
+            {
+                string monthins = cmdInvoice_InstalMonth.SelectedValue.ToString();
+                if (monthins == "1 Month")
+                {
+                    monthvalue = "1";
+                }
+                if (monthins == "2 Month")
+                {
+                    monthvalue = "2";
+                }
+                if (monthins == "3 Month")
+                {
+                    monthvalue = "3";
+                }
+                if (monthins == "4 Month")
+                {
+                    monthvalue = "4";
+                }
+                if (monthins == "5 Month")
+                {
+                    monthvalue = "5";
+                }
+                if (monthins == "6 Month")
+                {
+                    monthvalue = "6";
+                }
+                if (monthins == "7 Month")
+                {
+                    monthvalue = "7";
+                }
+                if (monthins == "8 Month")
+                {
+                    monthvalue = "8";
+                }
+                if (monthins == "9 Month")
+                {
+                    monthvalue = "9";
+                }
+                if (monthins == "10 Month")
+                {
+                    monthvalue = "10";
+                }
+                if (monthins == "11 Month")
+                {
+                    monthvalue = "11";
+                }
+                bins.Installment_Year = "NO";
+                bins.Installment_Month = monthvalue;
+
+            }
+
+
+            bins.Installment_Date = dpInvoice_Instalpermonth.SelectedDate.ToString();
+            bins.S_Status = "Active";
+            bins.C_Date = System.DateTime.Now.ToShortDateString();
+            bins.Ins = "Not_Nill";
+            dins.Save_Installment(bins);
+            MessageBox.Show("Installment Added Succsessfully ");
+
+        }
+        public void Clear_SaveInstallment()
+        {
+            txtInvoice_InstalTotalAmount.Text = "";
+            txtInvoice_InstalPaidAmount.Text = "";
+            txtInvoice_InstalBalanceAmount.Text = "";
+            txtInvoice_InstalAmountPermonth.Text = "";
+            dpInvoice_Instalpermonth.Text = "";
+            rdo_Invoice_Yearlyinstallment.IsChecked = false;
+            rdoInvoice_rdo_Invoice_Monthlyinstallment.IsChecked = false;
+            cmdInvoice_InstalYear.Visibility = Visibility.Hidden;
+            cmdInvoice_InstalMonth.Visibility = Visibility.Hidden;
+        }
+         public void FetchCustomerID()
+        {
+            string q = "Select ID from tlb_Customer where Cust_ID='" + txtcustomeridnew.Text + "'";
+            cmd = new SqlCommand(q, con);
+            DataTable dt = new DataTable();
+            SqlDataAdapter adp = new SqlDataAdapter(cmd);
+
+            adp.Fill(dt);
+            if (dt.Rows.Count > 0)
+            {
+                I = Convert.ToInt32(dt.Rows[0]["ID"]);
+            }
+
+        }
+         public void FetchProductsID()
+        {
+
+            DataSet ds = new DataSet();
+            string qry = "Select ID from StockDetails where Products123='" + g + "' and  S_Status='Active'  ";
+            cmd = new SqlCommand(qry, con);
+            SqlDataAdapter da = new SqlDataAdapter(cmd);
+            // con.Open();
+            da.Fill(ds);
+
+            if (ds.Tables[0].Rows.Count > 0)
+            {
+                txtid.Text = ds.Tables[0].Rows[0]["ID"].ToString();
+            }
+        }
+           public void SaveInvoiceDetails()
+        {
+            if (dtstat.Rows.Count > 0)
+            {
+                int i;
+                for (i = 0; i < dtstat.Rows.Count; i++)
+                {
+                    //  int rowCount = ((DataTable)this.Dgrd_InvoiceADDProducts.DataSource).Rows.Count;
+
+                    g = dtstat.Rows[i]["Products"].ToString();
+                    FetchProductsID();
+                    // string s = "  Select  S.ID,S.Domain_ID , S.Product_ID ,S.Brand_ID ,S.P_Category ,S.Model_No_ID ,S.Color_ID  From StockDetails S where ID='"+cmbInvoiceStockProducts .SelectedItem .GetHashCode ()+"' and  S.S_Status='Active' ORDER BY S.C_Date ASC";
+                    DataSet ds = new DataSet();
+                    string qry = "Select  Domain_ID , Product_ID ,Brand_ID ,P_Category ,Model_No_ID ,Color_ID From StockDetails S where ID='" + txtid.Text + "' and  S.S_Status='Active' ";
+                    cmd = new SqlCommand(qry, con);
+                    SqlDataAdapter da = new SqlDataAdapter(cmd);
+                    // con.Open();
+                    da.Fill(ds);
+
+                    if (ds.Tables[0].Rows.Count > 0)
+                    {
+                        txtd.Text = ds.Tables[0].Rows[0]["Domain_ID"].ToString();
+                        txtP.Text = ds.Tables[0].Rows[0]["Product_ID"].ToString();
+                        txtB.Text = ds.Tables[0].Rows[0]["Brand_ID"].ToString();
+                        txtPC.Text = ds.Tables[0].Rows[0]["P_Category"].ToString();
+                        txtM.Text = ds.Tables[0].Rows[0]["Model_No_ID"].ToString();
+                        txtC.Text = ds.Tables[0].Rows[0]["Color_ID"].ToString();
+                    }
+
+                    binvd.Flag = 1;
+                    binvd.Customer_ID = Convert.ToInt32(txtContactCDID11.Text);
+                    binvd.EmployeeID = Convert.ToInt32(txtEMPID.Text);
+                    binvd.Bill_No = lblbillno.Content.ToString();
+                    binvd.Domain_ID = Convert.ToInt32(txtd.Text);
+                    binvd.Product_ID = Convert.ToInt32(txtP.Text);
+                    binvd.Brand_ID = Convert.ToInt32(txtB.Text);
+                    binvd.P_Category = Convert.ToInt32(txtPC.Text);
+                    binvd.Model_No_ID = Convert.ToInt32(txtM.Text);
+                    binvd.Color_ID = Convert.ToInt32(txtC.Text);
+                    binvd.Products123 = dtstat.Rows[i]["Products"].ToString();
+                    binvd.Per_Product_Price = Convert.ToDouble(dtstat.Rows[i]["RatePer_Product"].ToString());
+                    binvd.Qty = Convert.ToDouble(dtstat.Rows[i]["Qty"].ToString());
+                    binvd.C_Price = Convert.ToDouble(dtstat.Rows[i]["Total_Price"].ToString());
+                    binvd.Tax_Name = dtstat.Rows[i]["Tax Name"].ToString();
+                    binvd.Tax = Convert.ToDouble(dtstat.Rows[i]["Taxes %"].ToString());
+                    binvd.Total_Price = Convert.ToDouble(dtstat.Rows[i]["SubTotal"].ToString());
+                    if (pm_c == "Cash")
+                    {
+                        binvd.Payment_Mode = "Cash";
+                    }
+                    else if (pm_ch == "Cheque")
+                    {
+                        binvd.Payment_Mode = "Cheque";
+                    }
+                    else if (pm_f == "Finance")
+                    {
+                        binvd.Payment_Mode = "Finance";
+                    }
+                    else if (pm_ins == "Installment")
+                    {
+                        binvd.Payment_Mode = "Installment";
+                    }
+                    binvd.Warranty = dtstat.Rows[i]["Warranty"].ToString();
+                    binvd.S_Status = "Active";
+                    binvd.C_Date = System.DateTime.Now.ToShortDateString();
+                    dinvd.InvoiceDetails_Save(binvd);
+                    MessageBox.Show("Done");
+                    updateQuantity();
+                    Save_Warranty();
+                }
+            }
+
+        }
+        public void Save_Warranty()
+        {
+            for (int i = 0; i < dtstat.Rows.Count; i++)
+            {
+                balw.Flag = 1;
+                balw.Customer_ID = I;
+                balw.Bill_No = lblbillno.Content.ToString();
+                balw.Products123 = dtstat.Rows[i]["Products"].ToString();
+                balw.Warranty = dtstat.Rows[i]["Warranty"].ToString();
+                string warr = dtstat.Rows[i]["Warranty"].ToString();
+                warryearmonth = warr;
+                string[] STRVAL = warryearmonth.Split('-');
+                STR_Value = STRVAL[0];
+                STR_Y_M = STRVAL[1];
+                // string STR_YEAR = STRVAL[2];
+                // string DATE = STR_MONTH + "/" + STR_DATE1 + "/" + STR_YEAR;
+                if (STR_Y_M == "Year")//for years
+                {
+                    int v1 = Convert.ToInt32(STR_Value) * 12;
+                    balw.Warr_Months = v1.ToString();
+
+                    balw.Warr_StartDate = System.DateTime.Now.ToShortDateString();
+
+
+                    int strvalue = Convert.ToInt32(STR_Value);
+                    balw.Warr_EndDate = System.DateTime.Now.AddYears(strvalue).ToShortDateString();
+
+                    StartDate = System.DateTime.Now.ToShortDateString();
+                    EndDate = System.DateTime.Now.AddYears(strvalue).ToShortDateString();
+
+                    Calculate_Warr_RemainingDate();
+                    balw.Warr_RemainingDate = txtwarr_rem.Text;
+                    //count months
+                    DateTime sdate1 = System.DateTime.Today;
+
+                    DateTime endd1 = System.DateTime.Now.AddYears(strvalue);
+                    // DateTime asxz =Convert .ToDateTime ( "04-04-2014");
+                    int compMonth = (endd1.Month + endd1.Year * 12) - (sdate1.Month + sdate1.Year * 12);
+                    double daysInEndMonth = (endd1 - endd1.AddMonths(1)).Days;
+                    double months = compMonth + (sdate1.Day - endd1.Day) / daysInEndMonth;
+                    int finalmonth = Convert.ToInt32(months);
+
+                    balw.Warr_RemainingMonths = finalmonth.ToString(); ;
+                    //count days
+                    System.DateTime sdate = System.DateTime.Today;
+                    System.DateTime endd = System.DateTime.Now.AddYears(strvalue);
+                    System.TimeSpan rem = (endd).Subtract(sdate);
+                    string a = rem.ToString();
+                    string[] warrdays = a.Split('.');
+                    string ddays = warrdays[0];
+                    string timedd = warrdays[1];
+
+                    balw.Warr_RemainingDays = ddays;
+
+                    balw.Extend_Y_M = "";
+                    balw.C_ExtendDate = "";
+                    balw.Paid_Amount = "";
+                    balw.Warr_Status = "Not_Extended";
+                    balw.S_Status = "Active";
+                    balw.C_Date = System.DateTime.Now.ToShortDateString();
+                    dalw.Warranty_Save(balw);
+                    MessageBox.Show("Warranty Added Succsessfully", caption, MessageBoxButton.OK);
+                }
+                else if (STR_Y_M == "Month")
+                {
+
+                    balw.Warr_Months = STR_Value;
+                    balw.Warr_StartDate = System.DateTime.Now.ToShortDateString();
+
+
+                    int strvalue = Convert.ToInt32(STR_Value);
+                    balw.Warr_EndDate = System.DateTime.Now.AddMonths(strvalue).ToShortDateString();
+
+                    StartDate = System.DateTime.Now.ToShortDateString();
+                    EndDate = System.DateTime.Now.AddMonths(strvalue).ToShortDateString();
+
+                    Calculate_Warr_RemainingDate();
+                    balw.Warr_RemainingDate = txtwarr_rem.Text;
+                    //count months
+                    DateTime sdate1 = System.DateTime.Today;
+
+                    DateTime endd1 = System.DateTime.Now.AddMonths(strvalue);
+                    // DateTime asxz =Convert .ToDateTime ( "04-04-2014");
+                    int compMonth = (endd1.Month + endd1.Year * 12) - (sdate1.Month + sdate1.Year * 12);
+                    double daysInEndMonth = (endd1 - endd1.AddMonths(1)).Days;
+                    double months = compMonth + (sdate1.Day - endd1.Day) / daysInEndMonth;
+                    int finalmonth = Convert.ToInt32(months);
+
+                    balw.Warr_RemainingMonths = finalmonth.ToString(); ;
+                    //count days
+                    System.DateTime sdate = System.DateTime.Today;
+                    System.DateTime endd = System.DateTime.Now.AddMonths(strvalue);
+                    System.TimeSpan rem = (endd).Subtract(sdate);
+                    string a = rem.ToString();
+                    string[] warrdays = a.Split('.');
+                    string ddays = warrdays[0];
+                    string timedd = warrdays[1];
+
+                    balw.Warr_RemainingDays = ddays;
+
+                    balw.Extend_Y_M = "";
+                    balw.C_ExtendDate = "";
+                    balw.Paid_Amount = "";
+                    balw.Warr_Status = "Not_Extended";
+                    balw.S_Status = "Active";
+                    balw.C_Date = System.DateTime.Now.ToShortDateString();
+                    dalw.Warranty_Save(balw);
+                    MessageBox.Show("Warranty Added Succsessfully", caption, MessageBoxButton.OK);
+
+
+
+                }
+
+            }
+        }
+        public void Calculate_Warr_RemainingDate()
+        {
+            DateTime commondate1 = Convert.ToDateTime(StartDate);
+            DateTime dob1 = Convert.ToDateTime(EndDate);
+            //CRM_DAL.
+            DateDiff dateDifference = new DateDiff(commondate1, dob1);
+            txtwarr_rem.Text = dateDifference.tesydate();
+            //txtwarrmonth_rem.Text = dateDifference.monthcal().ToString ();
+
+        }
+        public void updateQuantity()
+        {
+            for (int i = 0; i < dtstat.Rows.Count; i++)
+            {
+                binvd.Flag = 1;
+                binvd.Products123 = g;
+                binvd.ID = Convert.ToInt32(dtstat.Rows[i]["ID"].ToString());
+                binvd.Bill_No = lblbillno.Content.ToString();
+                double d = Convert.ToDouble(dtstat.Rows[i]["availqty"].ToString());
+                double q = Convert.ToDouble(dtstat.Rows[i]["Qty"].ToString());
+                double tq = d - q;
+                binvd.AvilableQty = tq;
+                binvd.SaleQty = Convert.ToDouble(dtstat.Rows[i]["Qty"].ToString());
+                binvd.S_Status = "Active";
+                binvd.C_Date = System.DateTime.Now.ToShortDateString();
+                dinvd.Update_QTY(binvd);
+                MessageBox.Show("Quantity updated ");
+            }
+        }
+
+        private void btnInvoice_InstalClear_Click(object sender, RoutedEventArgs e)
+        { Clear_SaveInstallment();
+
+        }
+
+        private void btnInvoice_InstalExit_Click(object sender, RoutedEventArgs e)
+        {
+             GRDInvoice_Installment.Visibility = Visibility.Hidden;
+            Clear_SaveInstallment();
+        }
+
+        private void btnInvoice_CH_SaveandPrint_Click(object sender, RoutedEventArgs e)
+        {
+             if (cash_Validation() == true)
+                return;
+            FetchCustomerID();
+            SaveInvoiceDetails();
+            Save_CommonBill();
+            SaveCheque();
+            // updateQuantity();
+            //clear_CustomerFields();
+            clearAllAddedProducts();
+            clear_AllCheque();
+        }
+          public void Save_CommonBill()
+        {
+            binvd.Flag = 1;
+            binvd.Customer_ID = I;
+            binvd.Employee_ID = Convert.ToInt32(txtSaleEmployeeName.Text);//Here set a id not value change 
+            binvd.Bill_No = lblbillno.Content.ToString();
+            if (pm_c == "Cash")
+            {
+                binvd.Payment_Mode = "Cash";
+                binvd.Total_Price = Convert.ToDouble(txtInvoice_C_PaidAmount.Text);
+                binvd.Paid_Amount = Convert.ToDouble(txtInvoice_C_PaidAmount.Text);
+                binvd.Balance_Amount = Convert.ToDouble(txtInvoice_C_BalanceAmount.Text);
+            }
+            else if (pm_ch == "Cheque")
+            {
+                binvd.Payment_Mode = "Cheque";
+                binvd.Total_Price = Convert.ToDouble(btnInvoice_CH_InvcTAmount.Text);
+                binvd.Paid_Amount = 0;
+                binvd.Balance_Amount = 0;
+            }
+            else if (pm_f == "Finance")
+            {
+                binvd.Payment_Mode = "Finance";
+            }
+            else if (pm_ins == "Installment")
+            {
+                binvd.Payment_Mode = "Installment";
+                binvd.Total_Price = Convert.ToDouble(txtInvoice_InstalTotalAmount.Text);
+                binvd.Paid_Amount = Convert.ToDouble(txtInvoice_InstalPaidAmount.Text);
+                binvd.Balance_Amount = Convert.ToDouble(txtInvoice_InstalBalanceAmount.Text);
+            }
+            binvd.S_Status = "Active";
+            binvd.C_Date = System.DateTime.Now.ToShortDateString();
+            dinvd.CommonBillNo_Save(binvd);
+            MessageBox.Show("Common bill Added", caption, MessageBoxButton.OK);
+
+        }
+         public bool cash_Validation()
+        {
+            bool rc = false;
+            if (btnInvoice_CH_Amount.Text == "")
+            {
+                rc = true;
+                MessageBox.Show("Please Inter Cheque Amount ", caption, MessageBoxButton.OK, MessageBoxImage.Error);
+            }
+            else if (btnInvoice_CH_chequeno.Text == "")
+            {
+                rc = true;
+                MessageBox.Show("Please Inter Cheque Number ", caption, MessageBoxButton.OK, MessageBoxImage.Error);
+            }
+            else if (dpInvoice_CH_ChequeDate.Text == "")
+            {
+                rc = true;
+                MessageBox.Show("Please Select Date ", caption, MessageBoxButton.OK, MessageBoxImage.Error);
+            }
+            else if (cmbInvoic_CH_BankName.SelectedItem == "")
+            {
+                rc = true;
+                MessageBox.Show("Please Select Bank Name ", caption, MessageBoxButton.OK, MessageBoxImage.Error);
+            }
+            return rc;
+        }
+        public void SaveCheque()
+        {
+            if (cash_Validation() == true)
+                return;
+            balpm.Flag = 1;
+            balpm.Customer_ID = I;
+            balpm.Bill_No = lblbillno.Content.ToString();
+            balpm.Total_Price = Convert.ToDouble(btnInvoice_CH_InvcTAmount.Text);
+            balpm.Cheque_Amount = Convert.ToDouble(btnInvoice_CH_Amount.Text);
+            balpm.Cheque_No = btnInvoice_CH_chequeno.Text;
+            balpm.Cheque_Date = dpInvoice_CH_ChequeDate.SelectedDate.ToString();
+            balpm.Cheque_Bank_Name = cmbInvoic_CH_BankName.Text;
+            balpm.IsClear = "Active";
+            balpm.S_Status = "Active";
+            balpm.C_Date = System.DateTime.Now.ToShortDateString();
+            dalpm.Save_Cheque(balpm);
+            MessageBox.Show("Cheque details added succssfully");
+            FetchBankName();
+        }
+         public void FetchBankName()
+        {
+            cmbInvoic_CH_BankName.Text = "Select Bank Name";
+            try
+            {
+                con.Open();
+                DataSet ds = new DataSet();
+                cmd = new SqlCommand("select Distinct ID,Cheque_Bank_Name from tlb_Cheque  where S_Status='Active'", con);
+                SqlDataAdapter da = new SqlDataAdapter(cmd);
+                DataTable dt = new DataTable();
+                // con.Open();
+                da.Fill(dt);
+
+                if (dt.Rows.Count > 0)
+                {
+                    cmbInvoic_CH_BankName.ItemsSource = ds.Tables[0].DefaultView;
+                    cmbInvoic_CH_BankName.DisplayMemberPath = dt.Rows[0]["Cheque_Bank_Name"].ToString();
+                    cmbInvoic_CH_BankName.SelectedValuePath = dt.Rows[0]["ID"].ToString();
+                    // cmbInvoic_CH_BankName.SelectedValuePath = dt.Rows[0]["ID"].GetHashCode;
+                    // cmbInvoic_CH_BankName.ItemsSource = dt.DefaultView;
+                    //cmbInvoic_CH_BankName.DisplayMemberPath  = dt.Rows[0]["Cheque_Bank_Name"].ToString();
+                }
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+            finally { con.Close(); }
+        }
+        public void clear_AllCheque()
+        {
+            btnInvoice_CH_InvcTAmount.Text = "";
+            btnInvoice_CH_chequeno.Text = "";
+            btnInvoice_CH_Amount.Text = "";
+            dpInvoice_CH_ChequeDate.Text = "";
+            cmbInvoic_CH_BankName.ItemsSource = null;
+            FetchBankName();
+        }
+       
+        private void btnInvoice_CH_Clear_Click(object sender, RoutedEventArgs e)
+        {
+            clear_AllCheque();
+        }
+
+        private void btnInvoice_CH_Exit_Click(object sender, RoutedEventArgs e)
+        {
+              GRDInvoice_Cheque.Visibility = Visibility.Hidden;
+        }
+
+        private void txtInvoice_C_PaidAmount_TextChanged(object sender, TextChangedEventArgs e)
+        {
+            if (txtInvoice_C_PaidAmount.Text == "")
+            {
+                double zero = 0;
+                txtInvoice_C_BalanceAmount.Text = zero.ToString();
+            }
+            else if (txtInvoice_C_PaidAmount.Text != "")
+            {
+                double tcamt = Convert.ToDouble(txtInvoice_C_InvcTotalAmount.Text);
+                double pcamt = Convert.ToDouble(txtInvoice_C_PaidAmount.Text);
+                double btamt = (tcamt - pcamt);
+                txtInvoice_C_BalanceAmount.Text = btamt.ToString(); ;
+            }
+            else if (txtInvoice_C_InvcTotalAmount.Text == txtInvoice_C_PaidAmount.Text)
+            {
+
+                double zero = 0;
+                txtInvoice_C_BalanceAmount.Text = zero.ToString();
+            }
+        }
+
+        private void btnInvoice_C_SaveandPrint_Click(object sender, RoutedEventArgs e)
+        {
+            CustomerID_fetch2();
+            Save_Customer();
+
+            FetchCustomerID();
+
+            SaveInvoiceDetails();
+
+            Save_CommonBill();
+            SaveCash();
+            //updateQuantity();
+            // clear_CustomerFields();
+            clearAllAddedProducts();
+        }
+         public void CustomerID_fetch2()
+        {
+
+            int id1 = 0;
+            // SqlConnection con = new SqlConnection(constring);
+            con.Open();
+            SqlCommand cmd = new SqlCommand("select (COUNT(ID)) from tlb_Customer", con);
+            id1 = Convert.ToInt32(cmd.ExecuteScalar());
+            id1 = id1 + 1;
+            txtcustomeridnew.Text = "# Customer/" + id1.ToString();
+            con.Close();
+
+
+        }
+         public void femp(string cmbemp1, string empname)
+         {
+             txtEMPID.Text = cmbemp1;
+             txtSaleEmployeeName.Text = empname;
+         }
+         public void Productname(string pname)
+         {
+             txtProductID11.Text = pname;
+             // txtSaleEmployeeName.Text = empname;
+         }
+         public void ContactCDname(string cname)
+         {
+             txtContactCDID11.Text = cname;
+             // txtSaleEmployeeName.Text = empname;
+         }
+        public void Save_Customer()
+        {
+            try
+            {
+                con.Open();
+                DataSet ds = new DataSet();
+                // DataTable dt = new DataTable();
+                string qry = "select  ID,CTitle, FirstName ,LastName,DateOfBirth,MobileNo,PhoneNo,SourceOfEnquiry,SourceEnquiryID,Occupation,EmialID,MailingStreet ,MailingCity,MailingState,MailingZip,MailingCountry,CustomerSystemPhotoPath,CustomerActualPhotoPath from tlb_ContactCustomer where S_Status='Active' and ID='" + txtContactCDID11.Text + "'";
+                cmd = new SqlCommand(qry, con);
+                SqlDataAdapter da = new SqlDataAdapter(cmd);
+                DataTable dt = new DataTable();
+                // con.Open();
+                da.Fill(dt);
+
+                if (dt.Rows.Count > 0)
+                {
+
+                    //txtSaleCCustomerID.Text = dt.Rows[0]["ContactCustID"].ToString();
+                    //txtSaleCCustomerName.Text = dt.Rows[0]["Name"].ToString();
+                    //txtSaleCCustMobile.Text = dt.Rows[0]["MobileNo"].ToString();
+                    //txtSaleCCustAddress.Text = dt.Rows[0]["MailingStreet"].ToString();
+                    //txtSaleCCustEmailid.Text = dt.Rows[0]["EmialID"].ToString();
+
+                    centry.Flag = 1;
+                    centry.EmployeeID = Convert.ToInt32(txtEMPID.Text);
+                    centry.Cust_ID = txtcustomeridnew.Text;
+                    centry.CustTitle = dt.Rows[0]["CTitle"].ToString();
+                    centry.FirstName = dt.Rows[0]["FirstName"].ToString();
+                    centry.LastName = dt.Rows[0]["LastName"].ToString();
+                    centry.Date_Of_Birth = dt.Rows[0]["DateOfBirth"].ToString();
+
+                    centry.Mobile_No = dt.Rows[0]["MobileNo"].ToString();
+                    centry.PhoneNo = dt.Rows[0]["PhoneNo"].ToString();
+
+                    centry.SourceOfEnquiry = dt.Rows[0]["SourceOfEnquiry"].ToString();
+                    centry.SourceEnquiryID = Convert.ToInt32(dt.Rows[0]["SourceEnquiryID"].ToString());
+                    centry.Occupation = dt.Rows[0]["Occupation"].ToString();
+                    centry.Email_ID = dt.Rows[0]["EmialID"].ToString();
+                    centry.Address = dt.Rows[0]["MailingStreet"].ToString();
+                    centry.City = dt.Rows[0]["MailingCity"].ToString();
+                    centry.State = dt.Rows[0]["MailingState"].ToString();
+                    centry.ZipNo = dt.Rows[0]["MailingZip"].ToString();
+                    centry.Country = dt.Rows[0]["MailingCountry"].ToString();
+
+                    centry.CustSystemPhotoPath = dt.Rows[0]["CustomerSystemPhotoPath"].ToString();
+                    centry.CustActualPhotoPath = dt.Rows[0]["CustomerActualPhotoPath"].ToString();
+
+                    centry.S_Status = "Active";
+                    centry.C_Date = System.DateTime.Now.ToString();
+                    dentry.Customer_Save_Insert_Update_Delete(centry);
+                    MessageBox.Show("Customer Added sucsessfully ", caption, MessageBoxButton.OK);
+
+
+                }
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+            finally { con.Close(); }
+        }
+      
+        public void SaveCash()
+        {
+            balpm.Flag = 1;
+            balpm.Customer_ID = I;
+            balpm.Bill_No = lblbillno.Content.ToString();
+            balpm.Total_Price = Convert.ToDouble(txtInvoice_C_PaidAmount.Text);
+            balpm.Paid_Amount = Convert.ToDouble(txtInvoice_C_PaidAmount.Text);
+            balpm.Balance_Amount = Convert.ToDouble(txtInvoice_C_BalanceAmount.Text);
+            balpm.S_Status = "Active";
+            balpm.C_Date = System.DateTime.Now.ToShortDateString();
+            dalpm.Save_Cash(balpm);
+            MessageBox.Show("Cash Value Added Successfully");
+        }
+
+        private void txtInvoice_C_Clear_Click(object sender, RoutedEventArgs e)
+        {
+             clearAllAddedProducts();
+        }
+
+        private void txtInvoice_C_Exit_Click(object sender, RoutedEventArgs e)
+        {
+             GRDInvoce_Cash.Visibility = Visibility.Hidden;
+        }
+
+        private void PaymentMode_Button_Click(object sender, RoutedEventArgs e)
+        {
+            if ((sender as Button) == btnInvoice_Cash)
+            {
+
+                btnInvoice_Cash.Visibility = Visibility;
+                GRDInvoce_Cash.Visibility = Visibility;
+                pm_c = "Cash";
+                txtInvoice_C_InvcTotalAmount.Text = txtInvoice_InvcTotalAmount.Text;
+            }
+            else if ((sender as Button) == btnInvoice_Cheque)
+            {
+                GRDInvoice_Cheque.Visibility = Visibility;
+                btnInvoice_Cheque.Visibility = Visibility;
+                pm_ch = "Cheque";
+                btnInvoice_CH_InvcTAmount.Text = txtInvoice_InvcTotalAmount.Text;
+                FetchBankName();
+            }
+            else if ((sender as Button) == btnInvoice_Finance)
+            {
+                btnInvoice_Finance.Visibility = Visibility;
+                GRDInvoice_Finance.Visibility = Visibility;
+                pm_f = "Finance";
+                //Text = txtInvoice_InvcTotalAmount.Text;
+
+            }
+            else if ((sender as Button) == btnInvoice_Installment)
+            {
+                GRDInvoice_Installment.Visibility = Visibility;
+                btnInvoice_Installment.Visibility = Visibility;
+                pm_ins = "Installment";
+                txtInvoice_InstalTotalAmount.Text = txtInvoice_InvcTotalAmount.Text;
+            }
+
+
+            else
+            {
+
+                MessageBox.Show("Wrong");
+
+            }
+        }
+
+        private void tbCustSales_MouseEnter(object sender, MouseEventArgs e)
+        {
+            BillID_fetch();
+        }
+        public void BillID_fetch()
+        {
+
+            int id1 = 0;
+
+            con.Open();
+            SqlCommand cmd = new SqlCommand("Select (COUNT(ID)) from tlb_Bill_No", con);
+            id1 = Convert.ToInt32(cmd.ExecuteScalar());
+            id1 = id1 + 1;
+
+            lblbillno.Content = "Bill No/" + id1.ToString();
+
+
+            // txtvalueid.Text = "Bill No 786/ " + id1.ToString();
+            //  txtvalueid.Text = "Bill No 786/ " + id1.ToString();
+
+            con.Close();
+
+        }
     }
 }
