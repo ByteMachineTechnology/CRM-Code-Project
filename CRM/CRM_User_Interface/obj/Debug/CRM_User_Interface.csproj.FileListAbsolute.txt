@@ -211,11 +211,9 @@ C:\Users\Dexter\Desktop\Backup CRM\18 Sept 2014\20 Sept 2014\CRM\CRM_User_Interf
 C:\Users\Dexter\Desktop\Backup CRM\18 Sept 2014\20 Sept 2014\CRM\CRM_User_Interface\obj\Debug\CRM_User_Interface.Properties.Resources.resources
 C:\Users\Dexter\Desktop\Backup CRM\18 Sept 2014\20 Sept 2014\CRM\CRM_User_Interface\obj\Debug\CRM_User_Interface.csproj.GenerateResource.Cache
 C:\Users\Dexter\Desktop\Backup CRM\18 Sept 2014\20 Sept 2014\CRM\CRM_User_Interface\obj\Debug\CRM_User_Interface.csprojResolveAssemblyReference.cache
-<<<<<<< HEAD
 C:\Users\Nazia Tabassum\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\bin\Debug\CRM_User_Interface.exe.config
 C:\Users\Nazia Tabassum\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\obj\Debug\CRM_User_Interface.exe
 C:\Users\Nazia Tabassum\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\obj\Debug\CRM_User_Interface.pdb
-=======
 C:\Users\Dexter\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\bin\Debug\CRM_User_Interface.exe.config
 C:\Users\Dexter\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\obj\Debug\CRM_User_Interface.exe
 C:\Users\Dexter\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\obj\Debug\CRM_User_Interface.pdb
@@ -245,7 +243,6 @@ C:\Users\Dexter\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\obj\Deb
 C:\Users\Dexter\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\obj\Debug\CRM_User_Interface.Properties.Resources.resources
 C:\Users\Dexter\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\obj\Debug\CRM_User_Interface.csproj.GenerateResource.Cache
 C:\Users\Dexter\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\obj\Debug\CRM_User_Interface.csprojResolveAssemblyReference.cache
->>>>>>> origin/master
 C:\Users\Nazia Tabassum\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\bin\Debug\CRM_User_Interface.exe
 C:\Users\Nazia Tabassum\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\bin\Debug\CRM_User_Interface.pdb
 C:\Users\Nazia Tabassum\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\bin\Debug\CRM_BAL.dll
@@ -272,3 +269,10 @@ C:\Users\Nazia Tabassum\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface
 C:\Users\Nazia Tabassum\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\obj\Debug\CRM_User_Interface.g.resources
 C:\Users\Nazia Tabassum\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\obj\Debug\CRM_User_Interface.Properties.Resources.resources
 C:\Users\Nazia Tabassum\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\obj\Debug\CRM_User_Interface.csproj.GenerateResource.Cache
+C:\Users\Nazia Tabassum\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\obj\Debug\ADD_Tax.baml
+C:\Users\Nazia Tabassum\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\obj\Debug\frm_FetchContactCustomerDetailsxaml.baml
+C:\Users\Nazia Tabassum\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\obj\Debug\frm_FetchEmployeeDetails.baml
+C:\Users\Nazia Tabassum\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\obj\Debug\ADD_Tax.g.cs
+C:\Users\Nazia Tabassum\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\obj\Debug\frm_FetchContactCustomerDetailsxaml.g.cs
+C:\Users\Nazia Tabassum\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\obj\Debug\frm_FetchEmployeeDetails.g.cs
+C:\Users\Nazia Tabassum\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\obj\Debug\CRM_User_Interface_Content.g.cs

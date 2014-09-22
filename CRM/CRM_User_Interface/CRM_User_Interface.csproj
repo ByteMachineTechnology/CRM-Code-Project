@@ -57,16 +57,31 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="ADD_Tax.xaml.cs">
+      <DependentUpon>ADD_Tax.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="DateDiff.cs" />
+    <Compile Include="DateDifference.cs" />
     <Compile Include="frmAddCampaign.xaml.cs">
       <DependentUpon>frmAddCampaign.xaml</DependentUpon>
     </Compile>
     <Compile Include="frmCampaginLeads.xaml.cs">
       <DependentUpon>frmCampaginLeads.xaml</DependentUpon>
     </Compile>
+    <Compile Include="frm_FetchContactCustomerDetailsxaml.xaml.cs">
+      <DependentUpon>frm_FetchContactCustomerDetailsxaml.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="frm_FetchEmployeeDetails.xaml.cs">
+      <DependentUpon>frm_FetchEmployeeDetails.xaml</DependentUpon>
+    </Compile>
     <Compile Include="GridViewRow.cs" />
     <Compile Include="StockProducts.xaml.cs">
       <DependentUpon>StockProducts.xaml</DependentUpon>
     </Compile>
+    <Page Include="ADD_Tax.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
     <Page Include="frmAddCampaign.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -102,9 +117,17 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="StockProducts.xaml">
-      <SubType>Designer</SubType>
+    <Page Include="frm_FetchContactCustomerDetailsxaml.xaml">
       <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="frm_FetchEmployeeDetails.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="StockProducts.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
     </Page>
   </ItemGroup>
   <ItemGroup>
@@ -234,6 +257,9 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="Images\cloud-wallpaper-pictures-wallpapers-nature-weather-clouds-paper--c-p-ibackgroundz.com - Copy %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="DurationCalculatorApp.csproj" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
