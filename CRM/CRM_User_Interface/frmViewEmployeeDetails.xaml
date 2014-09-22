@@ -1,0 +1,83 @@
+﻿<Window x:Class="CRM_User_Interface.frmViewEmployeeDetails"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="frmViewEmployeeDetails" Height="779.324" Width="956.39" WindowStartupLocation="CenterScreen" AllowsTransparency="True" WindowStyle="None">
+
+    <Border BorderBrush="Black" BorderThickness="15,25,15,20" HorizontalAlignment="Left" Height="779" VerticalAlignment="Top" Width="956">
+        <Grid>
+            <Button x:Name="btnEmp_Close" Content="X" HorizontalAlignment="Left" Margin="794,-22,-1,0" VerticalAlignment="Top" Width="30" Height="19" FontWeight="Bold" Background="#FFFCFCFC" Click="btnEmp_Close_Click"/>
+            <Grid x:Name="grdAdm_EmployeeEntry" Visibility="Visible" HorizontalAlignment="Center"  Margin="31,4,33,0" Width="862" Background="White">
+                <Grid HorizontalAlignment="Left" Width="864" Background="#FF4655F0" Height="68" VerticalAlignment="Top">
+                    <Label Content="Employee View Details" HorizontalAlignment="Left" Margin="18,2,0,0" VerticalAlignment="Top" Foreground="#FFFCFCFC" FontSize="16" FontWeight="Bold" FontFamily="Verdana"/>
+                    <Label Content="You can view employee detalis" HorizontalAlignment="Left" Margin="18,32,0,0" VerticalAlignment="Top" Foreground="#FFFCFCFC" FontSize="14" FontFamily="Verdana"/>
+                    <Image x:Name="imgDealerDetails1" HorizontalAlignment="Left" Height="52" Margin="787,8,0,0" VerticalAlignment="Top" Width="67" Source="Images/home.png"/>
+                </Grid>
+                <DockPanel>
+                    <ScrollViewer HorizontalScrollBarVisibility="Hidden" CanContentScroll="True" UseLayoutRounding="False" PanningMode="VerticalOnly" Margin="0,70.5,0,0">
+                        <Grid Height="695">
+                            <Ellipse Fill="#FF858EEA" HorizontalAlignment="Right" Height="20" Margin="0,14,805,0" Stroke="#FF818ADC" VerticalAlignment="Top" Width="32"/>
+                            <Label Content="First, enter employee details" HorizontalAlignment="Left" Margin="62,6,0,0" VerticalAlignment="Top" Foreground="#FF505DE0" FontSize="22" FontFamily="Tw Cen MT"/>
+                            <Grid HorizontalAlignment="Left" Height="135" Margin="62,45,0,0" VerticalAlignment="Top" Width="769" Background="#FFF0F0F0">
+                                <Label Content="Employee ID:" HorizontalAlignment="Left" Margin="31,6,0,0" VerticalAlignment="Top" FontFamily="Verdana"/>
+                                <Label Content="First Name:" HorizontalAlignment="Left" Margin="31,40,0,0" VerticalAlignment="Top" FontFamily="Verdana"/>
+                                <TextBox x:Name="txtAdm_EmpFirstName" HorizontalAlignment="Left" Height="23" Margin="193,42,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="332" FontFamily="Verdana"/>
+                                <Label Content="Date Of Birth:" HorizontalAlignment="Left" Margin="31,99,0,0" VerticalAlignment="Top" FontFamily="Verdana"/>
+                                <DatePicker x:Name="dtpAdm_Emp_DOB" HorizontalAlignment="Left" Margin="193,101,0,0" VerticalAlignment="Top" Width="155" FontFamily="Verdana"/>
+                                <Label Content="EmployeeID" x:Name="lblEmployeeID" HorizontalAlignment="Left" Margin="194,7,0,0" VerticalAlignment="Top" Width="331" Background="#FFD3CFD1" FontFamily="Verdana"/>
+                                <Label Content="Last Name:" HorizontalAlignment="Left" Margin="31,70,0,0" VerticalAlignment="Top" FontFamily="Verdana"/>
+                                <TextBox x:Name="txtAdm_EmpLastName" HorizontalAlignment="Left" Height="23" Margin="193,72,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="332" FontFamily="Verdana"/>
+                            </Grid>
+                            <Label Content="Now, enter employee contact details" HorizontalAlignment="Left" Margin="66,189,0,0" VerticalAlignment="Top" Foreground="#FF505DE0" FontSize="22" FontFamily="Tw Cen MT"/>
+                            <Grid HorizontalAlignment="Left" Height="249" Margin="62,231,0,0" VerticalAlignment="Top" Width="769" Background="#FFF0F0F0">
+                                <Label Content="Address:" HorizontalAlignment="Left" Margin="43,65,0,0" VerticalAlignment="Top" FontFamily="Verdana"/>
+                                <TextBox x:Name="txtAdm_Emp_Address" HorizontalAlignment="Left" Height="50" Margin="197,67,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="330" FontFamily="Verdana"/>
+                                <Label Content="Mobile No:" HorizontalAlignment="Left" Margin="41,5,0,0" VerticalAlignment="Top" FontFamily="Verdana"/>
+                                <TextBox x:Name="txtAdm_Emp_MobileNo" HorizontalAlignment="Left" Height="23" Margin="197,7,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="330" PreviewTextInput="NumberValidationTextBox" FontFamily="Verdana"/>
+                                <Label x:Name="Phone_No_2" Content="Phone No:" HorizontalAlignment="Left" Margin="41,35,0,0" VerticalAlignment="Top" FontFamily="Verdana"/>
+                                <TextBox x:Name="txtAdm_Emp_PhoneNo" HorizontalAlignment="Left" Height="23" Margin="197,37,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="330" PreviewTextInput="NumberValidationTextBox" FontFamily="Verdana"/>
+                                <Label Content="City:" HorizontalAlignment="Left" Margin="41,122,0,0" VerticalAlignment="Top" FontFamily="Verdana"/>
+                                <Label Content="Zip:" HorizontalAlignment="Left" Margin="41,152,0,0" VerticalAlignment="Top" FontFamily="Verdana"/>
+                                <TextBox x:Name="txtAdm_Emp_Zip" HorizontalAlignment="Left" Height="23" Margin="197,154,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="330" PreviewTextInput="NumberValidationTextBox" FontFamily="Verdana"/>
+                                <Label Content="Sate:" HorizontalAlignment="Left" Margin="42,184,0,0" VerticalAlignment="Top" FontFamily="Verdana"/>
+                                <Label Content="Country:" HorizontalAlignment="Left" Margin="42,215,0,0" VerticalAlignment="Top" FontFamily="Verdana"/>
+                                <ComboBox x:Name="cmbEmp_City" HorizontalAlignment="Left" Margin="197,124,0,0" VerticalAlignment="Top" Width="330" IsEditable="True" FontFamily="Verdana"/>
+                                <ComboBox x:Name="cmbEmp_State" HorizontalAlignment="Left" Margin="197,186,0,0" VerticalAlignment="Top" Width="330" IsEditable="True" FontFamily="Verdana"/>
+                                <ComboBox x:Name="cmbEmp_Country" HorizontalAlignment="Left" Margin="197,218,0,0" VerticalAlignment="Top" Width="330" IsEditable="True" FontFamily="Verdana"/>
+                            </Grid>
+                            <Ellipse Fill="#FF858EEA" HorizontalAlignment="Right" Height="20" Margin="0,194,805,0" Stroke="#FF818ADC" VerticalAlignment="Top" Width="32"/>
+
+                            <Button x:Name="btnAdm_Emp_Save" Content="Save" HorizontalAlignment="Left" Margin="236,662,0,0" VerticalAlignment="Top" Width="74" Height="26" Background="#FF4562E6" Foreground="#FFF6F6F6" FontWeight="Bold" FontSize="16" Click="btnAdm_Emp_Save_Click"/>
+                            <Button x:Name="btnAdm_Emp_Clear" Content="Clear" HorizontalAlignment="Left" Margin="332,662,0,0" VerticalAlignment="Top" Width="76"  Height="25" Background="#FF4562E6" Foreground="#FFF6F6F6" FontWeight="Bold" FontSize="16" Click="btnAdm_Emp_Clear_Click" />
+                            <Button x:Name="btnAdm_Emp_Exit" Content="Exit" HorizontalAlignment="Left" Margin="430,662,0,0" VerticalAlignment="Top" Width="76"  Height="25" Background="#FF4562E6" Foreground="#FFF6F6F6" FontWeight="Bold" FontSize="16" Click="btnAdm_Emp_Exit_Click" />
+                            <Label Content="Now, enter employee organization details" HorizontalAlignment="Left" Margin="66,489,0,0" VerticalAlignment="Top" Foreground="#FF505DE0" FontSize="22" FontFamily="Tw Cen MT"/>
+                            <Ellipse Fill="#FF858EEA" HorizontalAlignment="Right" Height="20" Margin="0,494,805,0" Stroke="#FF818ADC" VerticalAlignment="Top" Width="32"/>
+                            <Grid HorizontalAlignment="Left" Height="125" Margin="62,527,0,0" VerticalAlignment="Top" Width="768" Background="#FFF0F0F0">
+                                <Label Content="Designation:" HorizontalAlignment="Left" Margin="38,2,0,0" VerticalAlignment="Top" FontFamily="Verdana"/>
+                                <TextBox x:Name="txtAdm_Emp_Designation" HorizontalAlignment="Left" Height="23" Margin="192,6,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="330" FontFamily="Verdana"/>
+                                <Label Content="Date Of Joining:" HorizontalAlignment="Left" Margin="38,31,0,0" VerticalAlignment="Top" FontFamily="Verdana"/>
+                                <DatePicker x:Name="dtpAdm_Emp_DOJ" HorizontalAlignment="Left" Margin="192,34,0,0" VerticalAlignment="Top" Width="155" FontFamily="Verdana"/>
+                                <Label Content="Experience:" HorizontalAlignment="Left" Margin="39,58,0,0" VerticalAlignment="Top" FontFamily="Verdana"/>
+                                <ComboBox x:Name="cmbAdm_Emp_YearExp" HorizontalAlignment="Left" Margin="191,64,0,0" VerticalAlignment="Top" Width="110"  IsEditable="True" SelectionChanged="cmbAdm_Emp_YearExp_SelectionChanged" FontFamily="Verdana"/>
+                                <Label x:Name="lblYears" Content="Years" HorizontalAlignment="Left" Margin="306,61,0,0" VerticalAlignment="Top" FontFamily="Verdana"/>
+                                <ComboBox x:Name="cmbAdm_Emp_Months" HorizontalAlignment="Left" Margin="361,65,0,0" VerticalAlignment="Top" Width="110" Visibility="Visible" IsEditable="True" FontFamily="Verdana"/>
+                                <Label x:Name="lblMonths" Content="Months" HorizontalAlignment="Left" Margin="473,62,0,0" VerticalAlignment="Top" Visibility="Visible" FontFamily="Verdana"/>
+                                <Label Content="Salary:" HorizontalAlignment="Left" Margin="39,90,0,0" VerticalAlignment="Top" FontFamily="Verdana"/>
+                                <TextBox x:Name="txtAdm_Emp_Salary" HorizontalAlignment="Left" Height="23" Margin="192,94,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="330" FontFamily="Verdana"/>
+                            </Grid>
+
+                        </Grid>
+
+                    </ScrollViewer>
+
+
+                </DockPanel>
+
+
+            </Grid>
+            <TextBox x:Name="txtAdm_EmployeeID" HorizontalAlignment="Left" Height="23" Margin="808,81,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="34"/>
+
+        </Grid>
+    </Border>
+
+
+</Window>

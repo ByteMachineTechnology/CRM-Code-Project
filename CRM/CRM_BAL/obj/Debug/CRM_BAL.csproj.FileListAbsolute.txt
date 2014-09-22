@@ -1,0 +1,34 @@
+D:\Tach4Art\CRM\30 August 2014 CRM\CRM\CRM_BAL\bin\Debug\CRM_BAL.dll
+D:\Tach4Art\CRM\30 August 2014 CRM\CRM\CRM_BAL\bin\Debug\CRM_BAL.pdb
+D:\Tach4Art\CRM\30 August 2014 CRM\CRM\CRM_BAL\obj\Debug\CRM_BAL.dll
+D:\Tach4Art\CRM\30 August 2014 CRM\CRM\CRM_BAL\obj\Debug\CRM_BAL.pdb
+C:\Users\Nazia Tabassum\Documents\GitHub\MRCRM-New-Design-\CRM\CRM_BAL\bin\Debug\CRM_BAL.dll
+C:\Users\Nazia Tabassum\Documents\GitHub\MRCRM-New-Design-\CRM\CRM_BAL\bin\Debug\CRM_BAL.pdb
+C:\Users\Nazia Tabassum\Documents\GitHub\MRCRM-New-Design-\CRM\CRM_BAL\obj\Debug\CRM_BAL.csprojResolveAssemblyReference.cache
+C:\Users\Nazia Tabassum\Documents\GitHub\MRCRM-New-Design-\CRM\CRM_BAL\obj\Debug\CRM_BAL.dll
+C:\Users\Nazia Tabassum\Documents\GitHub\MRCRM-New-Design-\CRM\CRM_BAL\obj\Debug\CRM_BAL.pdb
+C:\Users\Dexter\Documents\GitHub\MRCRM-New-Design-\CRM\CRM_BAL\bin\Debug\CRM_BAL.dll
+C:\Users\Dexter\Documents\GitHub\MRCRM-New-Design-\CRM\CRM_BAL\bin\Debug\CRM_BAL.pdb
+C:\Users\Dexter\Documents\GitHub\MRCRM-New-Design-\CRM\CRM_BAL\obj\Debug\CRM_BAL.dll
+C:\Users\Dexter\Documents\GitHub\MRCRM-New-Design-\CRM\CRM_BAL\obj\Debug\CRM_BAL.pdb
+C:\Users\Dexter\Documents\GitHub\NEW-Master\CRM\CRM_BAL\bin\Debug\CRM_BAL.dll
+C:\Users\Dexter\Documents\GitHub\NEW-Master\CRM\CRM_BAL\bin\Debug\CRM_BAL.pdb
+C:\Users\Dexter\Documents\GitHub\NEW-Master\CRM\CRM_BAL\obj\Debug\CRM_BAL.dll
+C:\Users\Dexter\Documents\GitHub\NEW-Master\CRM\CRM_BAL\obj\Debug\CRM_BAL.pdb
+C:\Users\Dexter\Desktop\Backup CRM\New Design CRM\10-09-2014\CRM\CRM_BAL\bin\Debug\CRM_BAL.dll
+C:\Users\Dexter\Desktop\Backup CRM\New Design CRM\10-09-2014\CRM\CRM_BAL\bin\Debug\CRM_BAL.pdb
+C:\Users\Dexter\Desktop\Backup CRM\New Design CRM\10-09-2014\CRM\CRM_BAL\obj\Debug\CRM_BAL.dll
+C:\Users\Dexter\Desktop\Backup CRM\New Design CRM\10-09-2014\CRM\CRM_BAL\obj\Debug\CRM_BAL.pdb
+C:\Users\Dexter\Documents\GitHub\CCCRRM\CRM\CRM_BAL\bin\Debug\CRM_BAL.dll
+C:\Users\Dexter\Documents\GitHub\CCCRRM\CRM\CRM_BAL\bin\Debug\CRM_BAL.pdb
+C:\Users\Dexter\Documents\GitHub\CCCRRM\CRM\CRM_BAL\obj\Debug\CRM_BAL.dll
+C:\Users\Dexter\Documents\GitHub\CCCRRM\CRM\CRM_BAL\obj\Debug\CRM_BAL.pdb
+C:\Users\Dexter\Documents\GitHub\CCCRRM\CRM\CRM_BAL\obj\Debug\CRM_BAL.csprojResolveAssemblyReference.cache
+C:\Users\Dexter\Desktop\Backup CRM\18 Sept 2014\CRM\CRM_BAL\bin\Debug\CRM_BAL.dll
+C:\Users\Dexter\Desktop\Backup CRM\18 Sept 2014\CRM\CRM_BAL\bin\Debug\CRM_BAL.pdb
+C:\Users\Dexter\Desktop\Backup CRM\18 Sept 2014\CRM\CRM_BAL\obj\Debug\CRM_BAL.dll
+C:\Users\Dexter\Desktop\Backup CRM\18 Sept 2014\CRM\CRM_BAL\obj\Debug\CRM_BAL.pdb
+C:\Users\Dexter\Desktop\Backup CRM\18 Sept 2014\20 Sept 2014\CRM\CRM_BAL\bin\Debug\CRM_BAL.dll
+C:\Users\Dexter\Desktop\Backup CRM\18 Sept 2014\20 Sept 2014\CRM\CRM_BAL\bin\Debug\CRM_BAL.pdb
+C:\Users\Dexter\Desktop\Backup CRM\18 Sept 2014\20 Sept 2014\CRM\CRM_BAL\obj\Debug\CRM_BAL.dll
+C:\Users\Dexter\Desktop\Backup CRM\18 Sept 2014\20 Sept 2014\CRM\CRM_BAL\obj\Debug\CRM_BAL.pdb

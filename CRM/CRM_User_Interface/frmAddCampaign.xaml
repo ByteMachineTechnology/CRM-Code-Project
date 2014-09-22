@@ -1,0 +1,43 @@
+﻿<Window x:Class="CRM_User_Interface.frmAddCampaign"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="frmAddCampaign" Height="403.759" Width="720.676" WindowStartupLocation="CenterScreen" AllowsTransparency="True" WindowStyle="None">
+
+    <Border BorderBrush="Black" BorderThickness="10,25,10,10" HorizontalAlignment="Left" Height="402" VerticalAlignment="Top" Width="721">
+        <Grid>
+            <Button x:Name="btnClose" Content="X" HorizontalAlignment="Left" Margin="672,-23,-1,0" VerticalAlignment="Top" Width="30" FontWeight="Bold" Background="White" Click="btnClose_Click"/>
+            <Label Content="Campaign" HorizontalAlignment="Left" Margin="0,-25,0,0" VerticalAlignment="Top" Foreground="White" Width="188" FontFamily="Verdana" FontWeight="Bold"/>
+            <Label Content="Campaign Name:" HorizontalAlignment="Left" Margin="99,4,0,0" VerticalAlignment="Top" FontFamily="Verdana"/>
+            <TextBox x:Name="txtSearchCampaignName" HorizontalAlignment="Left" Height="23" Margin="218,6,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="261" FontFamily="Verdana" TextChanged="txtSearchCampaignName_TextChanged"/>
+            <Button x:Name="btnDone" Content="Done" IsDefault="True" HorizontalAlignment="Left" Margin="540,5,0,0" VerticalAlignment="Top" Width="75" Height="24" FontFamily="Verdana" Click="btnDone_Click"/>
+            <DataGrid x:Name="dgvCampaignDetails" HorizontalAlignment="Left" Margin="0,37,0,0" VerticalAlignment="Top" Height="330" Width="701" FontFamily="Verdana" GridLinesVisibility="None" SelectedCellsChanged="dgvCampaignDetails_SelectedCellsChanged" RowHeight="30" IsReadOnly="True" AutoGenerateColumns="False">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="ID" Visibility="Hidden" Width="30"  x:Name="grdFinalPro_ID1" SortMemberPath="ID" Binding="{Binding ID, Mode=TwoWay}" />
+                    <DataGridTextColumn Header="CampaignName" Width="224"  x:Name="grdFinalPro_Name2" SortMemberPath="CampaignName" Binding="{Binding CampaignName, Mode=TwoWay}" />
+                    <DataGridTextColumn Header="CampaignType" Width="172"  x:Name="grdFinalPro_MobileNo2" SortMemberPath="CampaignType" Binding="{Binding CampaignType, Mode=TwoWay}" />
+                    <DataGridTextColumn Header="Start Date" Width="85"  x:Name="grdFinalPro_PhoneNo2" SortMemberPath="StartDate" Binding="{Binding StartDate, Mode=TwoWay}" />
+                    <DataGridTextColumn Header="End Date" Width="85"  x:Name="grdFinalPro_Products2" SortMemberPath="EndDate" Binding="{Binding EndDate, Mode=TwoWay}" />
+                    <DataGridTextColumn Header="Status" Width="130"  x:Name="grdFinalPro_Qty2" SortMemberPath="Status" Binding="{Binding Status, Mode=TwoWay}" />
+                </DataGrid.Columns>
+            </DataGrid>
+            <Button x:Name="btnFollowupSearch" HorizontalAlignment="Left" Margin="485,4,0,0" VerticalAlignment="Top" Width="35" Height="25" Background="#FFFCFCFC" FontFamily="Verdana" Click="btnFollowupSearch_Click">
+                <Image Source="Images/Search.ico" Stretch="Fill"/>
+            </Button>
+            <Label Content="ID:" HorizontalAlignment="Left" Margin="99,397,0,-55" VerticalAlignment="Top" FontFamily="Verdana"/>
+            <TextBox x:Name="txtCampaignID" HorizontalAlignment="Left" Height="23" Margin="134,397,0,-53" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+            <Label Content="Campaign Name:" HorizontalAlignment="Left" Margin="14,427,0,-85" VerticalAlignment="Top" FontFamily="Verdana"/>
+            <TextBox x:Name="txtCampaignName" HorizontalAlignment="Left" Height="23" Margin="134,427,0,-83" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+            <Label Content="Campaign Type:" HorizontalAlignment="Left" Margin="20,456,0,-114" VerticalAlignment="Top" FontFamily="Verdana"/>
+            <TextBox x:Name="txtCampaignType" HorizontalAlignment="Left" Height="23" Margin="134,456,0,-112" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+            <Label Content="Start Date:" HorizontalAlignment="Left" Margin="49,484,0,-142" VerticalAlignment="Top" FontFamily="Verdana"/>
+            <Label Content="End Date:" HorizontalAlignment="Left" Margin="57,512,0,-170" VerticalAlignment="Top" FontFamily="Verdana"/>
+            <DatePicker x:Name="dtpStartDate" HorizontalAlignment="Left" Height="25" Margin="135,484,0,-142" VerticalAlignment="Top" Width="119"/>
+            <DatePicker x:Name="dtpEndDate" HorizontalAlignment="Left" Height="25" Margin="135,513,0,-171" VerticalAlignment="Top" Width="119"/>
+            <Label Content="Status:" HorizontalAlignment="Left" Margin="72,543,0,-201" VerticalAlignment="Top" FontFamily="Verdana"/>
+            <TextBox x:Name="txtStatus" HorizontalAlignment="Left" Height="23" Margin="134,543,0,-199" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+
+        </Grid>
+    </Border>
+
+
+</Window>
