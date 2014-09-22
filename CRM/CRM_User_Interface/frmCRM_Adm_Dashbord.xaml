@@ -1265,282 +1265,12 @@
 
                 </Grid>
 
-
-                <Grid x:Name="grd_View_FollowupEntry" Visibility="Hidden"  HorizontalAlignment="Center"  Margin="58,2,58,3" Width="1108" Background="White" Loaded="grd_View_FollowupEntry_Loaded">
-                    <Grid HorizontalAlignment="Left" Height="68" VerticalAlignment="Top" Width="1108" Background="#FF4684F0">
-                        <Label Content="Walk-Ins Details" HorizontalAlignment="Left" Margin="18,2,0,0" VerticalAlignment="Top" Foreground="#FFFCFCFC" FontSize="16" FontWeight="Bold" FontFamily="Verdana"/>
-                        <Label Content="This is where you fill your Walk-Ins details" HorizontalAlignment="Left" Margin="18,32,0,0" VerticalAlignment="Top" Foreground="#FFFCFCFC" FontSize="14" FontFamily="Verdana"/>
-                        <Image x:Name="imgDealerDetails131" HorizontalAlignment="Left" Height="52" Margin="1019,8,0,0" VerticalAlignment="Top" Width="67" Source="Images/home.png" Stretch="Fill"/>
-                    </Grid>
-                    <DockPanel>
-                        <ScrollViewer HorizontalScrollBarVisibility="Hidden" CanContentScroll="True" UseLayoutRounding="False" PanningMode="VerticalOnly" Margin="0,70.5,0,0">
-                            <Grid Height="985" Width="1088">
-                                <Button x:Name="btnFollowup_View_Close" Content="X" HorizontalAlignment="Left" Margin="1060,2,0,0" VerticalAlignment="Top" Width="28" Height="19" FontWeight="Bold" FontFamily="Verdana" Click="btnFollowup_View_Close_Click" Background="White" BorderBrush="White"/>
-
-                                <Grid HorizontalAlignment="Left" Height="210" Margin="23,24,0,0" VerticalAlignment="Top" Width="1032" Background="#FFF0F0F0">
-                                    <Button x:Name="btnSavePhoto6" Content="SavePhoto" Margin="482,156,-11,-44" Background="#FF798CD1" Foreground="#FFFCFCFC" FontSize="14" Click="btnSavePhoto_Click" Visibility="Hidden"/>
-                                    <TextBox x:Name="txtMaxID6" HorizontalAlignment="Left" Height="23" Margin="538,102,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="19" FontFamily="Verdana" Visibility="Hidden"/>
-                                    <TextBox x:Name="txtEmployeeID6" HorizontalAlignment="Left" Height="23" Margin="538,72,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="19" FontFamily="Verdana" Visibility="Hidden"/>
-                                    <Rectangle Fill="#FFFCFCFC" HorizontalAlignment="Left" Height="158" Margin="10,5,0,0" Stroke="#FF070707" VerticalAlignment="Top" Width="145"/>
-                                    <Image x:Name="imgWalkins" HorizontalAlignment="Left" Height="158" Margin="10,5,0,0" VerticalAlignment="Top" Width="145" Source="Images/BlankCustomerPhoto.jpg" Stretch="Fill"/>
-                                    <Button x:Name="btnFollowupBrowse" HorizontalAlignment="Left" Margin="10,170,0,0" VerticalAlignment="Top" Width="35" Height="35" Click="btnFollowupBrowse_Click">
-                                        <Image Source="Images/Browse.jpg"/>
-                                    </Button>
-                                    <Button x:Name="btnFollowupRemove" HorizontalAlignment="Left" Margin="52,170,0,0" VerticalAlignment="Top" Width="35" Height="35">
-                                        <Image Source="Images/Delete.png"/>
-                                    </Button>
-                                    <Label x:Name="lblFollow_upName" Content="Follow-up Name" HorizontalAlignment="Left" Margin="176,6,0,0" VerticalAlignment="Top" FontFamily="Verdana" FontSize="18" Width="438" FontWeight="Bold"/>
-                                    <Label Content="Lead Owner:" HorizontalAlignment="Left" Margin="178,41,0,0" VerticalAlignment="Top" FontFamily="Verdana" Foreground="#FF817676"/>
-                                    <Label x:Name="lblLeadOwnerName" Content="LeadOwnerName" HorizontalAlignment="Left" Margin="270,41,0,0" VerticalAlignment="Top" FontFamily="Verdana" Foreground="#FF817676" Width="344"/>
-                                    <Label Content="Phone No:" HorizontalAlignment="Left" Margin="178,70,0,0" VerticalAlignment="Top" FontFamily="Verdana" Foreground="#FF817676"/>
-                                    <Label x:Name="lblLeadOwnerPhNo" Content="Phone No" HorizontalAlignment="Left" Margin="270,70,0,0" VerticalAlignment="Top" FontFamily="Verdana" Foreground="#FF817676" Width="344">
-
-                                    </Label>
-                                    <Label Content="Mobile No:" HorizontalAlignment="Left" Margin="178,98,0,0" VerticalAlignment="Top" FontFamily="Verdana" Foreground="#FF817676"/>
-                                    <Label x:Name="lblLeadOwnerMbNo" Content="Mobile No" HorizontalAlignment="Left" Margin="270,98,0,0" VerticalAlignment="Top" FontFamily="Verdana" Foreground="#FF817676" Width="344"/>
-                                    <Button x:Name="btnFollowup_ViewInfor" Content="..." HorizontalAlignment="Left" Margin="178,180,0,0" VerticalAlignment="Top" Width="47" Height="19" FontWeight="Bold" FontFamily="Verdana" Click="btnFollowup_ViewInfor_Click"/>
-                                    <TextBox x:Name="txtFollowup_PhotoPath" HorizontalAlignment="Left" Height="23" Margin="175,149,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="337"/>
-                                    <Button x:Name="btnFollowupBrowse_Copy" HorizontalAlignment="Left" Margin="92,174,0,0" VerticalAlignment="Top" Width="63" Height="25" Click="btnFollowupSavePhoto" Content="Save Photo">
-
-                                    </Button>
-                                    <TextBox x:Name="txtFollowupViewID" HorizontalAlignment="Left" Height="23" Margin="538,149,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="55"/>
-                                    <TextBox x:Name="txtFollowup_PhotoActualPath" HorizontalAlignment="Left" Height="23" Margin="247,177,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="265"/>
-                                </Grid>
-                                <Label Content="Comments for this lead" HorizontalAlignment="Left" Margin="26,236,0,0" VerticalAlignment="Top" Foreground="#FF505DE0" FontSize="18" FontFamily="Tw Cen MT"/>
-                                <Grid HorizontalAlignment="Left" Height="125" Margin="23,266,0,0" VerticalAlignment="Top" Width="1048" Background="#FFF0F0F0">
-                                    <DataGrid x:Name="dgvFollowUp_Comments" HorizontalAlignment="Left" Margin="0,2,0,0" VerticalAlignment="Top" Height="123" Width="1048" BorderBrush="#FFF0F0F0" GridLinesVisibility="None" RowHeight="25" FontFamily="Verdana" ColumnHeaderHeight="28">
-                                        <DataGrid.Columns>
-                                            <DataGridTemplateColumn Width="35">
-                                                <DataGridTemplateColumn.CellTemplate >
-                                                    <DataTemplate>
-                                                        <Button x:Name="btndgv_FComments" CommandParameter="{Binding id}" Background="#FFFCFCFC" BorderBrush="#FFFCFCFC" Foreground="#FF0600FF" Click="btndgv_FComments_Click">
-                                                            <Button.ContentTemplate>
-                                                                <DataTemplate>
-                                                                    <Image Source="Images/Delete.png" Stretch="Uniform"/>
-                                                                </DataTemplate>
-                                                            </Button.ContentTemplate>
-                                                        </Button>
-                                                    </DataTemplate>
-                                                </DataGridTemplateColumn.CellTemplate>
-                                            </DataGridTemplateColumn>
-                                            <DataGridTextColumn Header="ID" Visibility="Hidden" Width="30"  x:Name="grdFID" SortMemberPath="ID" Binding="{Binding ID, Mode=TwoWay}" />
-                                            <DataGridTextColumn Header="Comments" Width="800" x:Name="grdFComments" SortMemberPath="Comments" Binding="{Binding Comments, Mode=TwoWay}"/>
-                                            <DataGridTextColumn Header="Date" Width="800" x:Name="grdFC_Date" SortMemberPath="C_Date" Binding="{Binding C_Date, Mode=TwoWay}"/>
-
-                                        </DataGrid.Columns>
-                                    </DataGrid>
-                                    <TextBlock HorizontalAlignment="Left" Margin="170,292,0,-182" TextWrapping="Wrap" VerticalAlignment="Top" FontFamily="Verdana"><Hyperlink x:Name="hlAddAcivities" Click="hlAddAcivities_Click" ><Run Text="Add Activities"/></Hyperlink></TextBlock>
-                                    <TextBox x:Name="txtFollowupACTID" Visibility="Hidden" HorizontalAlignment="Left" Height="23" Margin="612,131,0,-29" TextWrapping="Wrap" VerticalAlignment="Top" Width="55"/>
-                                    <TextBlock HorizontalAlignment="Left" Margin="106,433,0,-323" TextWrapping="Wrap" VerticalAlignment="Top" FontFamily="Verdana"><Hyperlink x:Name="hlAddFollCampaign" Click="hlAddFollCampaign_Click"  ><Run Text="Add Campaign"/></Hyperlink></TextBlock>
-                                    <TextBox x:Name="txtAddFollowupCmaignID" Visibility="Hidden" HorizontalAlignment="Left" Height="23" Margin="222,429,0,-327" TextWrapping="Wrap" VerticalAlignment="Top" Width="55"/>
-
-                                </Grid>
-                                <Ellipse Fill="#FF858EEA" HorizontalAlignment="Right" Height="8" Margin="0,405,1070,0" Stroke="#FF818ADC" VerticalAlignment="Top" Width="11"/>
-                                <Label Content="Product Interested In" HorizontalAlignment="Left" Margin="22,395,0,0" VerticalAlignment="Top" Foreground="#FF505DE0" FontSize="18" FontFamily="Tw Cen MT"/>
-                                <Ellipse Fill="#FF858EEA" HorizontalAlignment="Right" Height="8" Margin="0,247,1070,0" Stroke="#FF818ADC" VerticalAlignment="Top" Width="11"/>
-                                <Grid HorizontalAlignment="Left" Height="116" Margin="25,428,0,0" VerticalAlignment="Top" Width="1030" Background="#FFF0F0F0">
-                                    <DataGrid x:Name="dgvFollowUp_Products" HorizontalAlignment="Left" VerticalAlignment="Top" Height="116" Width="1030" BorderBrush="#FFF0F0F0" RowHeight="25" ColumnHeaderHeight="28" FontFamily="Verdana" GridLinesVisibility="None">
-                                        <DataGrid.Columns>
-                                            <DataGridTemplateColumn Width="35">
-                                                <DataGridTemplateColumn.CellTemplate>
-                                                    <DataTemplate>
-                                                        <Button Width="35" x:Name="btndgv_FollowUpPro_Delete" ToolTip="Delete" CommandParameter="{Binding id}" Background="#FFFCFCFC" BorderBrush="#FFFCFCFC" Click="btndgv_FollowUpPro_Delete_Click" >
-                                                            <Button.ContentTemplate>
-                                                                <DataTemplate>
-                                                                    <Image Source="Images/Delete.png" Stretch="Uniform"/>
-                                                                </DataTemplate>
-                                                            </Button.ContentTemplate>
-                                                        </Button>
-                                                    </DataTemplate>
-                                                </DataGridTemplateColumn.CellTemplate>
-                                            </DataGridTemplateColumn>
-                                            <DataGridTextColumn Header="ID" Width="30"  x:Name="grdFinalPro_ID11" Visibility="Visible" SortMemberPath="ID" Binding="{Binding ID, Mode=TwoWay}" />
-                                            <DataGridTextColumn Header="Product Type" Width="220"  x:Name="grdFinalPro_Name21" SortMemberPath="Product_Name" Binding="{Binding Product_Name, Mode=TwoWay}" />
-                                            <DataGridTextColumn Header="Brand Name" Width="220"  x:Name="grdFinalPro_MobileNo21" SortMemberPath="Brand_Name" Binding="{Binding Brand_Name, Mode=TwoWay}" />
-                                            <DataGridTextColumn Header="Product Category" Width="220"  x:Name="grdFinalPro_PhoneNo21" SortMemberPath="Product_Category" Binding="{Binding Product_Category, Mode=TwoWay}" />
-                                            <DataGridTextColumn Header="Model No" Width="200"  x:Name="grdFinalPro_Products21" SortMemberPath="Model_No" Binding="{Binding Model_No, Mode=TwoWay}" />
-                                            <DataGridTextColumn Header="Colour" Width="100"  x:Name="grdFinalPro_Qty21" SortMemberPath="Color" Binding="{Binding Color, Mode=TwoWay}" />
-                                            <!--<DataGridTextColumn Header="Price" Width="80"  x:Name="grdFinalPro_FinalPrice1" SortMemberPath="Price" Binding="{Binding Price, Mode=TwoWay}" />-->
-                                        </DataGrid.Columns>
-                                    </DataGrid>
-
-                                </Grid>
-                                <Grid HorizontalAlignment="Left" Height="102" Margin="25,586,0,0" VerticalAlignment="Top" Width="1030" Background="#FFF0F0F0">
-                                    <DataGrid x:Name="dgvFollowUp_Activities" HorizontalAlignment="Left" VerticalAlignment="Top" Height="101" Width="1030" BorderBrush="#FFF0F0F0" Margin="0,1,0,0" GridLinesVisibility="None" RowHeight="25" ColumnHeaderHeight="28" AutoGenerateColumns="False">
-                                        <DataGrid.Columns>
-                                            <DataGridTemplateColumn Width="35">
-                                                <DataGridTemplateColumn.CellTemplate >
-                                                    <DataTemplate>
-                                                        <Button Width="35" x:Name="btndgv_FollowupActivityDelete" CommandParameter="{Binding id}" ToolTip="Delete" Background="#FFFCFCFC" BorderBrush="#FFFCFCFC" Foreground="#FF0600FF" Click="btndgv_FollowupActivityDelete_Click" >
-                                                            <Button.ContentTemplate>
-                                                                <DataTemplate>
-                                                                    <Image Source="Images/Delete.png" Stretch="Uniform"/>
-                                                                </DataTemplate>
-                                                            </Button.ContentTemplate>
-                                                        </Button>
-                                                    </DataTemplate>
-                                                </DataGridTemplateColumn.CellTemplate>
-                                            </DataGridTemplateColumn>
-                                            <DataGridTextColumn Header="ID" Visibility="Hidden" Width="30"  x:Name="grdFAID" SortMemberPath="ID" Binding="{Binding ID, Mode=TwoWay}" />
-                                            <DataGridTextColumn Header="Subject" Width="180" x:Name="grdFASubject" SortMemberPath="ASubject" Binding="{Binding ASubject, Mode=TwoWay}"/>
-                                            <DataGridTextColumn Header="Date" Width="90" x:Name="grdFADate" SortMemberPath="ADate" Binding="{Binding ADate, Mode=TwoWay}"/>
-                                            <DataGridTextColumn Header="Lead Owner Name" Width="200" x:Name="grdFAEmployeeName" SortMemberPath="EmployeeName" Binding="{Binding EmployeeName, Mode=TwoWay}"/>
-                                            <DataGridTextColumn Header="Note" Width="520" x:Name="grdFANotes" SortMemberPath="ANotes" Binding="{Binding ANotes, Mode=TwoWay}"/>
-                                        </DataGrid.Columns>
-                                    </DataGrid>
-                                </Grid>
-                                <Label Content="Activities" HorizontalAlignment="Left" Margin="24,548,0,0" VerticalAlignment="Top" Foreground="#FF505DE0" FontSize="18" FontFamily="Tw Cen MT"/>
-                                <Ellipse Fill="#FF858EEA" HorizontalAlignment="Right" Height="8" Margin="0,558,1070,0" Stroke="#FF818ADC" VerticalAlignment="Top" Width="11"/>
-                                <Button x:Name="btnFollowpOnlySMS" Content="Only SMS" HorizontalAlignment="Left" Margin="108,555,0,0" VerticalAlignment="Top" Width="69"/>
-                                <Grid HorizontalAlignment="Left" Height="102" Margin="27,727,0,0" VerticalAlignment="Top" Width="1028" Background="#FFF0F0F0">
-                                    <DataGrid x:Name="dgvFollowUp_Compaigns" HorizontalAlignment="Left" VerticalAlignment="Top" Height="102" Width="1028" BorderBrush="#FFF0F0F0" RowHeight="25" GridLinesVisibility="None" ColumnHeaderHeight="28" AutoGenerateColumns="False">
-                                        <DataGrid.Columns>
-                                            <DataGridTemplateColumn Width="30">
-                                                <DataGridTemplateColumn.CellTemplate >
-                                                    <DataTemplate>
-                                                        <Button x:Name="btndgv_FollowupCampaignDelete" CommandParameter="{Binding id}" Background="#FFFCFCFC" BorderBrush="#FFFCFCFC" Foreground="#FF0600FF" Click="btndgv_FollowupCampaignDelete_Click" >
-                                                            <Image Source="Images/Delete.png" Stretch="Fill"></Image>
-                                                        </Button>
-                                                    </DataTemplate>
-                                                </DataGridTemplateColumn.CellTemplate>
-                                            </DataGridTemplateColumn>
-                                            <DataGridTextColumn Header="ID" Visibility="Hidden" Width="30"  x:Name="grdFollowup_ID1" SortMemberPath="ID" Binding="{Binding ID, Mode=TwoWay}" />
-                                            <DataGridTextColumn Header="CampaignName" Width="260"  x:Name="grdFollowup_Name" SortMemberPath="CampaignName" Binding="{Binding CampaignName, Mode=TwoWay}" />
-                                            <DataGridTextColumn Header="CampaignType" Width="200"  x:Name="grdFollowup_MobileNo" SortMemberPath="CampaignType" Binding="{Binding CampaignType, Mode=TwoWay}" />
-                                            <DataGridTextColumn Header="Start Date" Width="180"  x:Name="grdFollowup_PhoneNo" SortMemberPath="StartDate" Binding="{Binding StartDate, Mode=TwoWay}" />
-                                            <DataGridTextColumn Header="End Date" Width="180"  x:Name="grdFollowup_Products" SortMemberPath="EndDate" Binding="{Binding EndDate, Mode=TwoWay}" />
-                                            <DataGridTextColumn Header="Status" Width="120"  x:Name="grdFollowup_Status" SortMemberPath="Status" Binding="{Binding Status, Mode=TwoWay}" />
-                                        </DataGrid.Columns>
-                                    </DataGrid>
-                                </Grid>
-                                <Label Content="Compaigns" HorizontalAlignment="Left" Margin="26,693,0,0" VerticalAlignment="Top" Foreground="#FF505DE0" FontSize="18" FontFamily="Tw Cen MT"/>
-                                <Ellipse Fill="#FF858EEA" HorizontalAlignment="Right" Height="8" Margin="0,703,1070,0" Stroke="#FF818ADC" VerticalAlignment="Top" Width="11"/>
-                                <Grid x:Name="grdFollup_Activity" Visibility="Hidden" HorizontalAlignment="Left" Height="294" Margin="284,558,0,0" VerticalAlignment="Top" Width="360" Background="#FFCFCCCC">
-                                    <Label Content="Subject:" HorizontalAlignment="Left" Margin="32,4,0,0" VerticalAlignment="Top" FontFamily="Verdana"/>
-                                    <Button x:Name="btnFA_ActivitySave" Content="Save" HorizontalAlignment="Left" Margin="40,270,0,0" VerticalAlignment="Top" Width="74" Click="btnFA_ActivitySave_Click"/>
-                                    <Button x:Name="btnFA_ActivityCancel" Content="Cancel" HorizontalAlignment="Left" Margin="134,270,0,0" VerticalAlignment="Top" Width="74" Click="btnFA_ActivityCancel_Click"/>
-                                    <Label x:Name="lblFValidation1" Content="Validation" HorizontalAlignment="Left" Margin="35,148,0,0" VerticalAlignment="Top" Width="379" Visibility="Hidden"/>
-                                    <ComboBox x:Name="cmbFASubject" Text="-None-" HorizontalAlignment="Left" Margin="38,30,0,0" VerticalAlignment="Top" Width="296" IsEditable="True">
-                                        <ComboBoxItem Content="SMS"/>
-                                        <ComboBoxItem Content="Email"/>
-                                        <ComboBoxItem Content="Call"/>
-                                        <ComboBoxItem Content="Meeting"/>
-                                        <ComboBoxItem Content="Send Letter"/>
-                                        <ComboBoxItem Content="Prodict Demo"/>
-                                        <ComboBoxItem Content="Other"/>
-                                    </ComboBox>
-                                    <Label Content="Date:" HorizontalAlignment="Left" Margin="32,56,0,0" VerticalAlignment="Top" FontFamily="Verdana"/>
-                                    <DatePicker x:Name="dtpFADate" HorizontalAlignment="Left" Margin="37,79,0,0" VerticalAlignment="Top" Width="132"/>
-                                    <Label Content="Lead Owner:" HorizontalAlignment="Left" Margin="30,110,0,0" VerticalAlignment="Top" FontFamily="Verdana"/>
-                                    <ComboBox x:Name="cmbFALeadOwner" HorizontalAlignment="Left" Margin="38,136,0,0" VerticalAlignment="Top" Width="296" IsEditable="True"/>
-                                    <Label Content="Note:" HorizontalAlignment="Left" Margin="30,164,0,0" VerticalAlignment="Top" FontFamily="Verdana"/>
-                                    <TextBox x:Name="txtFANote" HorizontalAlignment="Left" Height="44" Margin="38,189,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="296"/>
-                                    <Label x:Name="lblFAValidation" Content="Validation" HorizontalAlignment="Left" Margin="40,240,0,0" VerticalAlignment="Top" FontFamily="Verdana" Width="294" Visibility="Hidden"/>
-                                </Grid>
-                                <TextBlock HorizontalAlignment="Left" Margin="210,244,0,0" TextWrapping="Wrap" VerticalAlignment="Top"><Hyperlink x:Name="hlAddComments" FontFamily="Verdana" Click="hlAddComments_Click"><Run Text="Add Comments"/></Hyperlink></TextBlock>
-                                <TextBox x:Name="txtFollowup_CommentsID" Visibility="Hidden" HorizontalAlignment="Left" Height="23" Margin="313,240,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="55"/>
-
-                                <Grid x:Name="grdFollup_Comments" Visibility="Hidden" HorizontalAlignment="Left" Height="178" Margin="315,242,0,0" VerticalAlignment="Top" Width="527" Background="#FFCFCCCC">
-                                    <Label Content="Comments:" HorizontalAlignment="Left" Margin="8,2,0,0" VerticalAlignment="Top"/>
-                                    <TextBox x:Name="txtFComments" HorizontalAlignment="Left" Height="92" Margin="10,28,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="507"/>
-                                    <Button x:Name="btnFComments_Save" Content="Save" HorizontalAlignment="Left" Margin="16,154,0,0" VerticalAlignment="Top" Width="74" Click="btnFComments_Save_Click"/>
-                                    <Button x:Name="btnFComments_Cancel" Content="Cancel" HorizontalAlignment="Left" Margin="110,154,0,0" VerticalAlignment="Top" Width="74" Click="btnFComments_Cancel_Click"/>
-                                    <Label x:Name="lblFValidation" Content="Validation" HorizontalAlignment="Left" Margin="13,124,0,0" VerticalAlignment="Top" Width="379" Visibility="Hidden"/>
-                                </Grid>
-                                <Grid x:Name="grdFollup_Attachment" Visibility="Hidden" HorizontalAlignment="Left" Height="200" Margin="282,814,0,0" VerticalAlignment="Top" Width="616" Background="#FFCFCCCC">
-                                    <Label Content="Attach File" HorizontalAlignment="Left" Margin="14,6,0,0" VerticalAlignment="Top" FontFamily="Verdana" FontSize="14"/>
-                                    <Separator Margin="0,38,0,0" VerticalAlignment="Top" FontFamily="Verdana" Background="#FF040404"></Separator>
-                                    <Button x:Name="btnFA_Attached" Content="Attach" HorizontalAlignment="Left" Margin="38,168,0,0" VerticalAlignment="Top" Width="74" Click="btnFA_Attached_Click" Background="#FF3926F3" Foreground="#FFFCFCFC"/>
-                                    <Button x:Name="btnFA_AttachedCancel" Content="Cancel" HorizontalAlignment="Left" Margin="130,168,0,0" VerticalAlignment="Top" Width="74" Click="btnFA_ActivityCancel_Click"/>
-                                    <Label x:Name="lblFValidation2" Content="Validation" HorizontalAlignment="Left" Margin="35,148,0,0" VerticalAlignment="Top" Width="379" Visibility="Hidden"/>
-                                    <Label Content="Select File:" HorizontalAlignment="Left" Margin="32,50,0,0" VerticalAlignment="Top" FontFamily="Verdana" FontSize="13"/>
-                                    <Label Content="Total File(s) should not exceed 20 MB" HorizontalAlignment="Left" Margin="34,76,0,0" VerticalAlignment="Top" FontFamily="Verdana"/>
-                                    <Label x:Name="lblFAValidation1" Content="Validation" HorizontalAlignment="Left" Margin="40,240,0,0" VerticalAlignment="Top" FontFamily="Verdana" Width="294" Visibility="Hidden"/>
-                                    <Button x:Name="btnFA_AttachChoose" Content="Choose File" HorizontalAlignment="Left" Margin="36,116,0,0" VerticalAlignment="Top" Width="74" Click="btnFA_AttachChoose_Click"/>
-                                    <Label Content="X" HorizontalAlignment="Left" Margin="589,6,0,0" VerticalAlignment="Top" FontFamily="Verdana" FontSize="14" Width="23"/>
-                                    <TextBox x:Name="txt1" HorizontalAlignment="Left" Height="24" Margin="172,112,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="242"/>
-                                </Grid>
-                                <Grid x:Name="grd_LeadInformation" Visibility="Hidden" HorizontalAlignment="Left" Height="431" Margin="258,204,0,0" VerticalAlignment="Top" Width="812" Background="Gainsboro">
-                                    <Label Content="Lead Information" HorizontalAlignment="Left" Margin="6,3,0,0" VerticalAlignment="Top" Foreground="#FF505DE0" FontSize="14" FontFamily="Tw Cen MT"/>
-                                    <Label Content="Lead Owner:" HorizontalAlignment="Left" Margin="27,37,0,0" VerticalAlignment="Top" FontFamily="Verdana"/>
-                                    <Label x:Name="lblFLeadOwner" Content="Lead Owner:" HorizontalAlignment="Left" Margin="128,37,0,0" VerticalAlignment="Top" FontFamily="Verdana" Width="294"/>
-                                    <Label Content="Phone No:" HorizontalAlignment="Left" Margin="40,95,0,0" VerticalAlignment="Top" FontFamily="Verdana"/>
-                                    <Label x:Name="lblFPhoneNo" Content="PhoneNo" HorizontalAlignment="Left" Margin="128,95,0,0" VerticalAlignment="Top" FontFamily="Verdana" Width="294"/>
-                                    <Label Content="Mobile No:" HorizontalAlignment="Left" Margin="38,125,0,0" VerticalAlignment="Top" FontFamily="Verdana"/>
-                                    <Label x:Name="lblFMobileNo" Content="MobileNo" HorizontalAlignment="Left" Margin="128,125,0,0" VerticalAlignment="Top" FontFamily="Verdana" Width="294"/>
-                                    <Label Content="Lead Source:" HorizontalAlignment="Left" Margin="24,155,0,0" VerticalAlignment="Top" FontFamily="Verdana"/>
-                                    <Label x:Name="lblFLeadSource" Content="LeadSource" HorizontalAlignment="Left" Margin="128,155,0,0" VerticalAlignment="Top" FontFamily="Verdana" Width="294"/>
-                                    <Label Content="Lead Name:" HorizontalAlignment="Left" Margin="30,66,0,0" VerticalAlignment="Top" FontFamily="Verdana"/>
-                                    <Label x:Name="lblFLeadName" Content="LeadName" HorizontalAlignment="Left" Margin="128,66,0,0" VerticalAlignment="Top" FontFamily="Verdana" Width="294"/>
-                                    <Label Content="Fax:" HorizontalAlignment="Left" Margin="459,126,0,0" VerticalAlignment="Top" FontFamily="Verdana"/>
-                                    <Label x:Name="lblFFax" Content="Fax" HorizontalAlignment="Left" Margin="502,126,0,0" VerticalAlignment="Top" FontFamily="Verdana" Width="294"/>
-                                    <Label Content="Website:" HorizontalAlignment="Left" Margin="432,156,0,0" VerticalAlignment="Top" FontFamily="Verdana"/>
-                                    <Label x:Name="lblFWebsite" Content="Website" HorizontalAlignment="Left" Margin="502,156,0,0" VerticalAlignment="Top" FontFamily="Verdana" Width="294"/>
-                                    <Label Content="Email:" HorizontalAlignment="Left" Margin="448,97,0,0" VerticalAlignment="Top" FontFamily="Verdana"/>
-                                    <Label x:Name="lblFEmail" Content="Emial" HorizontalAlignment="Left" Margin="502,97,0,0" VerticalAlignment="Top" FontFamily="Verdana" Width="294"/>
-                                    <Label Content="Annual Revenue:" HorizontalAlignment="Left" Margin="2,185,0,0" VerticalAlignment="Top" FontFamily="Verdana"/>
-                                    <Label x:Name="lblFAnulRevenu" Content="AnualRevenue" HorizontalAlignment="Left" Margin="128,185,0,0" VerticalAlignment="Top" FontFamily="Verdana" Width="255"/>
-                                    <Label Content="Address Information" HorizontalAlignment="Left" Margin="6,217,0,0" VerticalAlignment="Top" Foreground="#FF505DE0" FontSize="14" FontFamily="Tw Cen MT"/>
-                                    <Label Content="Street:" HorizontalAlignment="Left" Margin="61,245,0,0" VerticalAlignment="Top" FontFamily="Verdana"/>
-                                    <Label x:Name="lblFStreet" Content="Street" HorizontalAlignment="Left" Margin="128,245,0,0" VerticalAlignment="Top" FontFamily="Verdana" Width="294"/>
-                                    <Label Content="City:" HorizontalAlignment="Left" Margin="455,245,0,0" VerticalAlignment="Top" FontFamily="Verdana"/>
-                                    <Label x:Name="lblFCity" Content="City" HorizontalAlignment="Left" Margin="507,245,0,0" VerticalAlignment="Top" FontFamily="Verdana" Width="294"/>
-                                    <Label Content="State:" HorizontalAlignment="Left" Margin="66,276,0,0" VerticalAlignment="Top" FontFamily="Verdana"/>
-                                    <Label x:Name="lblFState" Content="Street" HorizontalAlignment="Left" Margin="128,276,0,0" VerticalAlignment="Top" FontFamily="Verdana" Width="294"/>
-                                    <Label Content="Zip Code:" HorizontalAlignment="Left" Margin="426,275,0,0" VerticalAlignment="Top" FontFamily="Verdana"/>
-                                    <Label x:Name="lblFZipCode" Content="ZipCode" HorizontalAlignment="Left" Margin="507,275,0,0" VerticalAlignment="Top" FontFamily="Verdana" Width="294"/>
-                                    <Label Content="Country:" HorizontalAlignment="Left" Margin="51,308,0,0" VerticalAlignment="Top" FontFamily="Verdana"/>
-                                    <Label x:Name="lblFCountry" Content="Country" HorizontalAlignment="Left" Margin="128,308,0,0" VerticalAlignment="Top" FontFamily="Verdana" Width="294"/>
-                                    <Label Content="Description Information" HorizontalAlignment="Left" Margin="6,339,0,0" VerticalAlignment="Top" Foreground="#FF505DE0" FontSize="14" FontFamily="Tw Cen MT"/>
-                                    <Label x:Name="lblFDesctiption" Content="Description" HorizontalAlignment="Left" Margin="128,371,0,0" VerticalAlignment="Top" FontFamily="Verdana" Width="668" Height="50"/>
-                                    <Label x:Name="lblFCountry_Copy1" Content="Description:" HorizontalAlignment="Left" Margin="31,370,0,0" VerticalAlignment="Top" FontFamily="Verdana" Width="88"/>
-                                    <Label Content="DOB:" HorizontalAlignment="Left" Margin="453,66,0,0" VerticalAlignment="Top" FontFamily="Verdana"/>
-                                    <Label x:Name="lblFDOB" Content="DateOfBirth" HorizontalAlignment="Left" Margin="503,66,0,0" VerticalAlignment="Top" FontFamily="Verdana" Width="293"/>
-                                    <Label Content="Occupation:" HorizontalAlignment="Left" Margin="412,186,0,0" VerticalAlignment="Top" FontFamily="Verdana"/>
-                                    <Label x:Name="lblFOccupation" Content="Occupation" HorizontalAlignment="Left" Margin="502,186,0,0" VerticalAlignment="Top" FontFamily="Verdana" Width="294"/>
-                                    <Button x:Name="btnViewInfo_Close" Content="X" HorizontalAlignment="Left" Margin="784,0,0,0" VerticalAlignment="Top" Width="28" Height="26" BorderBrush="Gainsboro" Background="Gainsboro" FontSize="16" FontWeight="Bold" Click="btnViewInfo_Close_Click"/>
-                                </Grid>
-                                <TextBlock HorizontalAlignment="Left" Margin="188,402,0,0" TextWrapping="Wrap" VerticalAlignment="Top"><Hyperlink x:Name="hlViewFollowProducts" FontFamily="Verdana" Click="hlViewFollowProducts_Click" ><Run Text="Add Products"/></Hyperlink></TextBlock>
-                                <TextBox x:Name="txtFollowupAddProductID" Visibility="Hidden" HorizontalAlignment="Left" Height="23" Margin="286,397,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="55"/>
-                                <Grid HorizontalAlignment="Left" Height="102" Margin="27,869,0,0" VerticalAlignment="Top" Width="1028" Background="#FFF0F0F0">
-                                    <DataGrid x:Name="dgvFollowUp_CompaignsDetalis" HorizontalAlignment="Left" VerticalAlignment="Top" Height="102" Width="1028" BorderBrush="#FFF0F0F0" RowHeight="25">
-                                        <DataGrid.Columns>
-                                            <DataGridTemplateColumn Width="30">
-                                                <DataGridTemplateColumn.CellTemplate >
-                                                    <DataTemplate>
-                                                        <Button x:Name="btndgv_FollowupCampaignDelete" CommandParameter="{Binding id}" Background="#FFFCFCFC" BorderBrush="#FFFCFCFC" Foreground="#FF0600FF" Click="btndgv_FollowupCampaignDelete_Click" >
-                                                            <Image Source="Images/Delete.png" Stretch="Fill"/>
-                                                        </Button>
-                                                    </DataTemplate>
-                                                </DataGridTemplateColumn.CellTemplate>
-                                            </DataGridTemplateColumn>
-                                            <DataGridTextColumn Header="ID" Visibility="Visible" Width="30"  x:Name="grdFollowup_ID2" SortMemberPath="ID" Binding="{Binding ID, Mode=TwoWay}" />
-                                            <DataGridTextColumn Header="CampaignName" Width="260"  x:Name="grdFollowup_Name1" SortMemberPath="CampaignName" Binding="{Binding CampaignName, Mode=TwoWay}" />
-                                            <DataGridTextColumn Header="CampaignType" Width="200"  x:Name="grdFollowup_MobileNo1" SortMemberPath="CampaignType" Binding="{Binding CampaignType, Mode=TwoWay}" />
-                                            <DataGridTextColumn Header="Start Date" Width="170"  x:Name="grdFollowup_PhoneNo1" SortMemberPath="StartDate" Binding="{Binding StartDate, Mode=TwoWay}" />
-                                            <DataGridTextColumn Header="End Date" Width="170"  x:Name="grdFollowup_Products1" SortMemberPath="EndDate" Binding="{Binding EndDate, Mode=TwoWay}" />
-                                            <DataGridTextColumn Header="Status" Width="191"  x:Name="grdFollowup_Status1" SortMemberPath="Status" Binding="{Binding Status, Mode=TwoWay}" />
-                                        </DataGrid.Columns>
-                                    </DataGrid>
-                                </Grid>
-                                <Label Content="Attachment" HorizontalAlignment="Left" Margin="26,834,0,0" VerticalAlignment="Top" Foreground="#FF505DE0" FontSize="18" FontFamily="Tw Cen MT"/>
-                                <Ellipse Fill="#FF858EEA" HorizontalAlignment="Right" Height="8" Margin="0,844,1070,0" Stroke="#FF818ADC" VerticalAlignment="Top" Width="11"/>
-                                <Button x:Name="btnFollowup_View_Back" Content="Back" HorizontalAlignment="Left" Margin="25,2,0,0" VerticalAlignment="Top" Width="71" Height="19" FontFamily="Verdana" Click="btnFollowup_View_Back_Click" Background="White" BorderBrush="#FF030303"/>
-
-                            </Grid>
-
-                        </ScrollViewer>
-
-
-                    </DockPanel>
-                </Grid>
-
-                <Grid x:Name="grd_SalesPurches" Visibility="Hidden" HorizontalAlignment="Center"  Margin="56,1,59,0" Width="1109" Background="White" Loaded="grdFollowupEntry_Loaded">
-                    <DockPanel >
+                <Grid x:Name="grd_SalesPurches" Visibility="Visible" HorizontalAlignment="Center"  Margin="56,1,59,10" Width="1109" Background="White" Loaded="grdFollowupEntry_Loaded">
+                    <DockPanel Margin="0,0,0,10" >
                         <!--<DockPanel>
                         <ScrollViewer HorizontalScrollBarVisibility="Hidden" CanContentScroll="True" UseLayoutRounding="False" PanningMode="VerticalOnly">
                             <Grid Height="864" Width="1093">-->
-                        <TabControl HorizontalAlignment="Left" Height="714" VerticalAlignment="Top" Width="1111" Margin="-2,2,0,0" Background="#FFEECBCB">
+                        <TabControl HorizontalAlignment="Left" Height="707" VerticalAlignment="Top" Width="1111" Margin="-2,2,0,0" Background="#FFEECBCB">
                             <TabItem Header="Leads"  Name="tbCustLeads" Margin="0,-2,-72,1" Height="31">
                                 <Grid Background="AliceBlue" Margin="0,0,0,-5">
                                     <Grid x:Name="grd_View_FollowupDetails" Visibility="Hidden" HorizontalAlignment="Center" VerticalAlignment="Center"  Margin="-2,0,-1,10" Width="1108" Background="White" Loaded="grd_View_FollowupDetails_Loaded" Height="670">
@@ -1797,6 +1527,275 @@
                                             </ScrollViewer>
                                         </DockPanel>
                                     </Grid>
+
+                                    <Grid x:Name="grd_View_FollowupEntry" Visibility="Visible"  HorizontalAlignment="Center"  Margin="-2,0,-1,0" Width="1108" Background="White" Loaded="grd_View_FollowupEntry_Loaded">
+                                        <Grid HorizontalAlignment="Left" Height="68" VerticalAlignment="Top" Width="1108" Background="#FF4684F0">
+                                            <Label Content="Walk-Ins Details" HorizontalAlignment="Left" Margin="18,2,0,0" VerticalAlignment="Top" Foreground="#FFFCFCFC" FontSize="16" FontWeight="Bold" FontFamily="Verdana"/>
+                                            <Label Content="This is where you fill your Walk-Ins details" HorizontalAlignment="Left" Margin="18,32,0,0" VerticalAlignment="Top" Foreground="#FFFCFCFC" FontSize="14" FontFamily="Verdana"/>
+                                            <Image x:Name="imgDealerDetails131" HorizontalAlignment="Left" Height="52" Margin="1019,8,0,0" VerticalAlignment="Top" Width="67" Source="Images/home.png" Stretch="Fill"/>
+                                        </Grid>
+                                        <DockPanel>
+                                            <ScrollViewer HorizontalScrollBarVisibility="Hidden" CanContentScroll="True" UseLayoutRounding="False" PanningMode="VerticalOnly" Margin="0,70.5,0,0">
+                                                <Grid Height="1070" Width="1088">
+                                                    <Button x:Name="btnFollowup_View_Close" Content="X" HorizontalAlignment="Left" Margin="1060,2,0,0" VerticalAlignment="Top" Width="28" Height="19" FontWeight="Bold" FontFamily="Verdana" Click="btnFollowup_View_Close_Click" Background="White" BorderBrush="White"/>
+
+                                                    <Grid HorizontalAlignment="Left" Height="210" Margin="23,24,0,0" VerticalAlignment="Top" Width="1032" Background="#FFF0F0F0">
+                                                        <Button x:Name="btnSavePhoto6" Content="SavePhoto" Margin="482,156,-11,-44" Background="#FF798CD1" Foreground="#FFFCFCFC" FontSize="14" Click="btnSavePhoto_Click" Visibility="Hidden"/>
+                                                        <TextBox x:Name="txtMaxID6" HorizontalAlignment="Left" Height="23" Margin="538,102,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="19" FontFamily="Verdana" Visibility="Hidden"/>
+                                                        <TextBox x:Name="txtEmployeeID6" HorizontalAlignment="Left" Height="23" Margin="538,72,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="19" FontFamily="Verdana" Visibility="Hidden"/>
+                                                        <Rectangle Fill="#FFFCFCFC" HorizontalAlignment="Left" Height="158" Margin="10,5,0,0" Stroke="#FF070707" VerticalAlignment="Top" Width="145"/>
+                                                        <Image x:Name="imgWalkins" HorizontalAlignment="Left" Height="158" Margin="10,5,0,0" VerticalAlignment="Top" Width="145" Source="Images/BlankCustomerPhoto.jpg" Stretch="Fill"/>
+                                                        <Button x:Name="btnFollowupBrowse" HorizontalAlignment="Left" Margin="10,170,0,0" VerticalAlignment="Top" Width="35" Height="35" Click="btnFollowupBrowse_Click">
+                                                            <Image Source="Images/Browse.jpg"/>
+                                                        </Button>
+                                                        <Button x:Name="btnFollowupRemove" HorizontalAlignment="Left" Margin="52,170,0,0" VerticalAlignment="Top" Width="35" Height="35">
+                                                            <Image Source="Images/Delete.png"/>
+                                                        </Button>
+                                                        <Label x:Name="lblFollow_upName" Content="Follow-up Name" HorizontalAlignment="Left" Margin="176,6,0,0" VerticalAlignment="Top" FontFamily="Verdana" FontSize="18" Width="438" FontWeight="Bold"/>
+                                                        <Label Content="Lead Owner:" HorizontalAlignment="Left" Margin="178,41,0,0" VerticalAlignment="Top" FontFamily="Verdana" Foreground="#FF817676"/>
+                                                        <Label x:Name="lblLeadOwnerName" Content="LeadOwnerName" HorizontalAlignment="Left" Margin="270,41,0,0" VerticalAlignment="Top" FontFamily="Verdana" Foreground="#FF817676" Width="344"/>
+                                                        <Label Content="Phone No:" HorizontalAlignment="Left" Margin="178,70,0,0" VerticalAlignment="Top" FontFamily="Verdana" Foreground="#FF817676"/>
+                                                        <Label x:Name="lblLeadOwnerPhNo" Content="Phone No" HorizontalAlignment="Left" Margin="270,70,0,0" VerticalAlignment="Top" FontFamily="Verdana" Foreground="#FF817676" Width="344">
+
+                                                        </Label>
+                                                        <Label Content="Mobile No:" HorizontalAlignment="Left" Margin="178,98,0,0" VerticalAlignment="Top" FontFamily="Verdana" Foreground="#FF817676"/>
+                                                        <Label x:Name="lblLeadOwnerMbNo" Content="Mobile No" HorizontalAlignment="Left" Margin="270,98,0,0" VerticalAlignment="Top" FontFamily="Verdana" Foreground="#FF817676" Width="344"/>
+                                                        <Button x:Name="btnFollowup_ViewInfor" Content="..." HorizontalAlignment="Left" Margin="178,180,0,0" VerticalAlignment="Top" Width="47" Height="19" FontWeight="Bold" FontFamily="Verdana" Click="btnFollowup_ViewInfor_Click"/>
+                                                        <TextBox x:Name="txtFollowup_PhotoPath" HorizontalAlignment="Left" Height="23" Margin="175,149,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="337"/>
+                                                        <Button x:Name="btnFollowupBrowse_Copy" HorizontalAlignment="Left" Margin="92,174,0,0" VerticalAlignment="Top" Width="63" Height="25" Click="btnFollowupSavePhoto" Content="Save Photo">
+
+                                                        </Button>
+                                                        <TextBox x:Name="txtFollowupViewID" HorizontalAlignment="Left" Height="23" Margin="538,149,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="55"/>
+                                                        <TextBox x:Name="txtFollowup_PhotoActualPath" HorizontalAlignment="Left" Height="23" Margin="247,177,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="265"/>
+                                                    </Grid>
+                                                    <Label Content="Comments for this lead" HorizontalAlignment="Left" Margin="26,236,0,0" VerticalAlignment="Top" Foreground="#FF505DE0" FontSize="18" FontFamily="Tw Cen MT"/>
+                                                    <Grid HorizontalAlignment="Left" Height="125" Margin="23,266,0,0" VerticalAlignment="Top" Width="1048" Background="#FFF0F0F0">
+                                                        <DataGrid x:Name="dgvFollowUp_Comments" HorizontalAlignment="Left" Margin="0,2,0,0" VerticalAlignment="Top" Height="123" Width="1048" BorderBrush="#FFF0F0F0" GridLinesVisibility="None" RowHeight="25" FontFamily="Verdana" ColumnHeaderHeight="28">
+                                                            <DataGrid.Columns>
+                                                                <DataGridTemplateColumn Width="35">
+                                                                    <DataGridTemplateColumn.CellTemplate >
+                                                                        <DataTemplate>
+                                                                            <Button x:Name="btndgv_FComments" CommandParameter="{Binding id}" Background="#FFFCFCFC" BorderBrush="#FFFCFCFC" Foreground="#FF0600FF" Click="btndgv_FComments_Click">
+                                                                                <Button.ContentTemplate>
+                                                                                    <DataTemplate>
+                                                                                        <Image Source="Images/Delete.png" Stretch="Uniform"/>
+                                                                                    </DataTemplate>
+                                                                                </Button.ContentTemplate>
+                                                                            </Button>
+                                                                        </DataTemplate>
+                                                                    </DataGridTemplateColumn.CellTemplate>
+                                                                </DataGridTemplateColumn>
+                                                                <DataGridTextColumn Header="ID" Visibility="Hidden" Width="30"  x:Name="grdFID" SortMemberPath="ID" Binding="{Binding ID, Mode=TwoWay}" />
+                                                                <DataGridTextColumn Header="Comments" Width="800" x:Name="grdFComments" SortMemberPath="Comments" Binding="{Binding Comments, Mode=TwoWay}"/>
+                                                                <DataGridTextColumn Header="Date" Width="800" x:Name="grdFC_Date" SortMemberPath="C_Date" Binding="{Binding C_Date, Mode=TwoWay}"/>
+
+                                                            </DataGrid.Columns>
+                                                        </DataGrid>
+                                                        <TextBlock HorizontalAlignment="Left" Margin="170,292,0,-182" TextWrapping="Wrap" VerticalAlignment="Top" FontFamily="Verdana"><Hyperlink x:Name="hlAddAcivities" Click="hlAddAcivities_Click" ><Run Text="Add Activities"/></Hyperlink></TextBlock>
+                                                        <TextBox x:Name="txtFollowupACTID" Visibility="Hidden" HorizontalAlignment="Left" Height="23" Margin="612,131,0,-29" TextWrapping="Wrap" VerticalAlignment="Top" Width="55"/>
+                                                        <TextBlock HorizontalAlignment="Left" Margin="106,433,0,-323" TextWrapping="Wrap" VerticalAlignment="Top" FontFamily="Verdana"><Hyperlink x:Name="hlAddFollCampaign" Click="hlAddFollCampaign_Click"  ><Run Text="Add Campaign"/></Hyperlink></TextBlock>
+                                                        <TextBox x:Name="txtAddFollowupCmaignID" Visibility="Hidden" HorizontalAlignment="Left" Height="23" Margin="222,429,0,-327" TextWrapping="Wrap" VerticalAlignment="Top" Width="55"/>
+
+                                                    </Grid>
+                                                    <Ellipse Fill="#FF858EEA" HorizontalAlignment="Right" Height="8" Margin="0,405,1070,0" Stroke="#FF818ADC" VerticalAlignment="Top" Width="11"/>
+                                                    <Label Content="Product Interested In" HorizontalAlignment="Left" Margin="22,395,0,0" VerticalAlignment="Top" Foreground="#FF505DE0" FontSize="18" FontFamily="Tw Cen MT"/>
+                                                    <Ellipse Fill="#FF858EEA" HorizontalAlignment="Right" Height="8" Margin="0,247,1070,0" Stroke="#FF818ADC" VerticalAlignment="Top" Width="11"/>
+                                                    <Grid HorizontalAlignment="Left" Height="116" Margin="25,428,0,0" VerticalAlignment="Top" Width="1030" Background="#FFF0F0F0">
+                                                        <DataGrid x:Name="dgvFollowUp_Products" HorizontalAlignment="Left" VerticalAlignment="Top" Height="116" Width="1030" BorderBrush="#FFF0F0F0" RowHeight="25" ColumnHeaderHeight="28" FontFamily="Verdana" GridLinesVisibility="None">
+                                                            <DataGrid.Columns>
+                                                                <DataGridTemplateColumn Width="35">
+                                                                    <DataGridTemplateColumn.CellTemplate>
+                                                                        <DataTemplate>
+                                                                            <Button Width="35" x:Name="btndgv_FollowUpPro_Delete" ToolTip="Delete" CommandParameter="{Binding id}" Background="#FFFCFCFC" BorderBrush="#FFFCFCFC" Click="btndgv_FollowUpPro_Delete_Click" >
+                                                                                <Button.ContentTemplate>
+                                                                                    <DataTemplate>
+                                                                                        <Image Source="Images/Delete.png" Stretch="Uniform"/>
+                                                                                    </DataTemplate>
+                                                                                </Button.ContentTemplate>
+                                                                            </Button>
+                                                                        </DataTemplate>
+                                                                    </DataGridTemplateColumn.CellTemplate>
+                                                                </DataGridTemplateColumn>
+                                                                <DataGridTextColumn Header="ID" Width="30"  x:Name="grdFinalPro_ID11" Visibility="Visible" SortMemberPath="ID" Binding="{Binding ID, Mode=TwoWay}" />
+                                                                <DataGridTextColumn Header="Product Type" Width="220"  x:Name="grdFinalPro_Name21" SortMemberPath="Product_Name" Binding="{Binding Product_Name, Mode=TwoWay}" />
+                                                                <DataGridTextColumn Header="Brand Name" Width="220"  x:Name="grdFinalPro_MobileNo21" SortMemberPath="Brand_Name" Binding="{Binding Brand_Name, Mode=TwoWay}" />
+                                                                <DataGridTextColumn Header="Product Category" Width="220"  x:Name="grdFinalPro_PhoneNo21" SortMemberPath="Product_Category" Binding="{Binding Product_Category, Mode=TwoWay}" />
+                                                                <DataGridTextColumn Header="Model No" Width="200"  x:Name="grdFinalPro_Products21" SortMemberPath="Model_No" Binding="{Binding Model_No, Mode=TwoWay}" />
+                                                                <DataGridTextColumn Header="Colour" Width="100"  x:Name="grdFinalPro_Qty21" SortMemberPath="Color" Binding="{Binding Color, Mode=TwoWay}" />
+                                                                <!--<DataGridTextColumn Header="Price" Width="80"  x:Name="grdFinalPro_FinalPrice1" SortMemberPath="Price" Binding="{Binding Price, Mode=TwoWay}" />-->
+                                                            </DataGrid.Columns>
+                                                        </DataGrid>
+
+                                                    </Grid>
+                                                    <Grid HorizontalAlignment="Left" Height="102" Margin="25,586,0,0" VerticalAlignment="Top" Width="1030" Background="#FFF0F0F0">
+                                                        <DataGrid x:Name="dgvFollowUp_Activities" HorizontalAlignment="Left" VerticalAlignment="Top" Height="101" Width="1030" BorderBrush="#FFF0F0F0" Margin="0,1,0,0" GridLinesVisibility="None" RowHeight="25" ColumnHeaderHeight="28" AutoGenerateColumns="False">
+                                                            <DataGrid.Columns>
+                                                                <DataGridTemplateColumn Width="35">
+                                                                    <DataGridTemplateColumn.CellTemplate >
+                                                                        <DataTemplate>
+                                                                            <Button Width="35" x:Name="btndgv_FollowupActivityDelete" CommandParameter="{Binding id}" ToolTip="Delete" Background="#FFFCFCFC" BorderBrush="#FFFCFCFC" Foreground="#FF0600FF" Click="btndgv_FollowupActivityDelete_Click" >
+                                                                                <Button.ContentTemplate>
+                                                                                    <DataTemplate>
+                                                                                        <Image Source="Images/Delete.png" Stretch="Uniform"/>
+                                                                                    </DataTemplate>
+                                                                                </Button.ContentTemplate>
+                                                                            </Button>
+                                                                        </DataTemplate>
+                                                                    </DataGridTemplateColumn.CellTemplate>
+                                                                </DataGridTemplateColumn>
+                                                                <DataGridTextColumn Header="ID" Visibility="Hidden" Width="30"  x:Name="grdFAID" SortMemberPath="ID" Binding="{Binding ID, Mode=TwoWay}" />
+                                                                <DataGridTextColumn Header="Subject" Width="180" x:Name="grdFASubject" SortMemberPath="ASubject" Binding="{Binding ASubject, Mode=TwoWay}"/>
+                                                                <DataGridTextColumn Header="Date" Width="90" x:Name="grdFADate" SortMemberPath="ADate" Binding="{Binding ADate, Mode=TwoWay}"/>
+                                                                <DataGridTextColumn Header="Lead Owner Name" Width="200" x:Name="grdFAEmployeeName" SortMemberPath="EmployeeName" Binding="{Binding EmployeeName, Mode=TwoWay}"/>
+                                                                <DataGridTextColumn Header="Note" Width="520" x:Name="grdFANotes" SortMemberPath="ANotes" Binding="{Binding ANotes, Mode=TwoWay}"/>
+                                                            </DataGrid.Columns>
+                                                        </DataGrid>
+                                                    </Grid>
+                                                    <Label Content="Activities" HorizontalAlignment="Left" Margin="24,548,0,0" VerticalAlignment="Top" Foreground="#FF505DE0" FontSize="18" FontFamily="Tw Cen MT"/>
+                                                    <Ellipse Fill="#FF858EEA" HorizontalAlignment="Right" Height="8" Margin="0,558,1070,0" Stroke="#FF818ADC" VerticalAlignment="Top" Width="11"/>
+                                                    <Button x:Name="btnFollowpOnlySMS" Content="Only SMS" HorizontalAlignment="Left" Margin="108,555,0,0" VerticalAlignment="Top" Width="69"/>
+                                                    <Grid HorizontalAlignment="Left" Height="102" Margin="27,727,0,0" VerticalAlignment="Top" Width="1028" Background="#FFF0F0F0">
+                                                        <DataGrid x:Name="dgvFollowUp_Compaigns" HorizontalAlignment="Left" VerticalAlignment="Top" Height="102" Width="1028" BorderBrush="#FFF0F0F0" RowHeight="25" GridLinesVisibility="None" ColumnHeaderHeight="28" AutoGenerateColumns="False">
+                                                            <DataGrid.Columns>
+                                                                <DataGridTemplateColumn Width="30">
+                                                                    <DataGridTemplateColumn.CellTemplate >
+                                                                        <DataTemplate>
+                                                                            <Button x:Name="btndgv_FollowupCampaignDelete" CommandParameter="{Binding id}" Background="#FFFCFCFC" BorderBrush="#FFFCFCFC" Foreground="#FF0600FF" Click="btndgv_FollowupCampaignDelete_Click" >
+                                                                                <Image Source="Images/Delete.png" Stretch="Fill"></Image>
+                                                                            </Button>
+                                                                        </DataTemplate>
+                                                                    </DataGridTemplateColumn.CellTemplate>
+                                                                </DataGridTemplateColumn>
+                                                                <DataGridTextColumn Header="ID" Visibility="Hidden" Width="30"  x:Name="grdFollowup_ID1" SortMemberPath="ID" Binding="{Binding ID, Mode=TwoWay}" />
+                                                                <DataGridTextColumn Header="CampaignName" Width="260"  x:Name="grdFollowup_Name" SortMemberPath="CampaignName" Binding="{Binding CampaignName, Mode=TwoWay}" />
+                                                                <DataGridTextColumn Header="CampaignType" Width="200"  x:Name="grdFollowup_MobileNo" SortMemberPath="CampaignType" Binding="{Binding CampaignType, Mode=TwoWay}" />
+                                                                <DataGridTextColumn Header="Start Date" Width="180"  x:Name="grdFollowup_PhoneNo" SortMemberPath="StartDate" Binding="{Binding StartDate, Mode=TwoWay}" />
+                                                                <DataGridTextColumn Header="End Date" Width="180"  x:Name="grdFollowup_Products" SortMemberPath="EndDate" Binding="{Binding EndDate, Mode=TwoWay}" />
+                                                                <DataGridTextColumn Header="Status" Width="120"  x:Name="grdFollowup_Status" SortMemberPath="Status" Binding="{Binding Status, Mode=TwoWay}" />
+                                                            </DataGrid.Columns>
+                                                        </DataGrid>
+                                                    </Grid>
+                                                    <Label Content="Compaigns" HorizontalAlignment="Left" Margin="26,693,0,0" VerticalAlignment="Top" Foreground="#FF505DE0" FontSize="18" FontFamily="Tw Cen MT"/>
+                                                    <Ellipse Fill="#FF858EEA" HorizontalAlignment="Right" Height="8" Margin="0,703,1070,0" Stroke="#FF818ADC" VerticalAlignment="Top" Width="11"/>
+                                                    <Grid x:Name="grdFollup_Activity" Visibility="Hidden" HorizontalAlignment="Left" Height="294" Margin="284,558,0,0" VerticalAlignment="Top" Width="360" Background="#FFCFCCCC">
+                                                        <Label Content="Subject:" HorizontalAlignment="Left" Margin="32,4,0,0" VerticalAlignment="Top" FontFamily="Verdana"/>
+                                                        <Button x:Name="btnFA_ActivitySave" Content="Save" HorizontalAlignment="Left" Margin="40,270,0,0" VerticalAlignment="Top" Width="74" Click="btnFA_ActivitySave_Click"/>
+                                                        <Button x:Name="btnFA_ActivityCancel" Content="Cancel" HorizontalAlignment="Left" Margin="134,270,0,0" VerticalAlignment="Top" Width="74" Click="btnFA_ActivityCancel_Click"/>
+                                                        <Label x:Name="lblFValidation1" Content="Validation" HorizontalAlignment="Left" Margin="35,148,0,0" VerticalAlignment="Top" Width="379" Visibility="Hidden"/>
+                                                        <ComboBox x:Name="cmbFASubject" Text="-None-" HorizontalAlignment="Left" Margin="38,30,0,0" VerticalAlignment="Top" Width="296" IsEditable="True">
+                                                            <ComboBoxItem Content="SMS"/>
+                                                            <ComboBoxItem Content="Email"/>
+                                                            <ComboBoxItem Content="Call"/>
+                                                            <ComboBoxItem Content="Meeting"/>
+                                                            <ComboBoxItem Content="Send Letter"/>
+                                                            <ComboBoxItem Content="Prodict Demo"/>
+                                                            <ComboBoxItem Content="Other"/>
+                                                        </ComboBox>
+                                                        <Label Content="Date:" HorizontalAlignment="Left" Margin="32,56,0,0" VerticalAlignment="Top" FontFamily="Verdana"/>
+                                                        <DatePicker x:Name="dtpFADate" HorizontalAlignment="Left" Margin="37,79,0,0" VerticalAlignment="Top" Width="132"/>
+                                                        <Label Content="Lead Owner:" HorizontalAlignment="Left" Margin="30,110,0,0" VerticalAlignment="Top" FontFamily="Verdana"/>
+                                                        <ComboBox x:Name="cmbFALeadOwner" HorizontalAlignment="Left" Margin="38,136,0,0" VerticalAlignment="Top" Width="296" IsEditable="True"/>
+                                                        <Label Content="Note:" HorizontalAlignment="Left" Margin="30,164,0,0" VerticalAlignment="Top" FontFamily="Verdana"/>
+                                                        <TextBox x:Name="txtFANote" HorizontalAlignment="Left" Height="44" Margin="38,189,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="296"/>
+                                                        <Label x:Name="lblFAValidation" Content="Validation" HorizontalAlignment="Left" Margin="40,240,0,0" VerticalAlignment="Top" FontFamily="Verdana" Width="294" Visibility="Hidden"/>
+                                                    </Grid>
+                                                    <TextBlock HorizontalAlignment="Left" Margin="210,244,0,0" TextWrapping="Wrap" VerticalAlignment="Top"><Hyperlink x:Name="hlAddComments" FontFamily="Verdana" Click="hlAddComments_Click"><Run Text="Add Comments"/></Hyperlink></TextBlock>
+                                                    <TextBox x:Name="txtFollowup_CommentsID" Visibility="Hidden" HorizontalAlignment="Left" Height="23" Margin="313,240,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="55"/>
+
+                                                    <Grid x:Name="grdFollup_Comments" Visibility="Hidden" HorizontalAlignment="Left" Height="178" Margin="315,242,0,0" VerticalAlignment="Top" Width="527" Background="#FFCFCCCC">
+                                                        <Label Content="Comments:" HorizontalAlignment="Left" Margin="8,2,0,0" VerticalAlignment="Top"/>
+                                                        <TextBox x:Name="txtFComments" HorizontalAlignment="Left" Height="92" Margin="10,28,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="507"/>
+                                                        <Button x:Name="btnFComments_Save" Content="Save" HorizontalAlignment="Left" Margin="16,154,0,0" VerticalAlignment="Top" Width="74" Click="btnFComments_Save_Click"/>
+                                                        <Button x:Name="btnFComments_Cancel" Content="Cancel" HorizontalAlignment="Left" Margin="110,154,0,0" VerticalAlignment="Top" Width="74" Click="btnFComments_Cancel_Click"/>
+                                                        <Label x:Name="lblFValidation" Content="Validation" HorizontalAlignment="Left" Margin="13,124,0,0" VerticalAlignment="Top" Width="379" Visibility="Hidden"/>
+                                                    </Grid>
+                                                    <Grid x:Name="grdFollup_Attachment" Visibility="Hidden" HorizontalAlignment="Left" Height="200" Margin="282,814,0,0" VerticalAlignment="Top" Width="616" Background="#FFCFCCCC">
+                                                        <Label Content="Attach File" HorizontalAlignment="Left" Margin="14,6,0,0" VerticalAlignment="Top" FontFamily="Verdana" FontSize="14"/>
+                                                        <Separator Margin="0,38,0,0" VerticalAlignment="Top" FontFamily="Verdana" Background="#FF040404"></Separator>
+                                                        <Button x:Name="btnFA_Attached" Content="Attach" HorizontalAlignment="Left" Margin="38,168,0,0" VerticalAlignment="Top" Width="74" Click="btnFA_Attached_Click" Background="#FF3926F3" Foreground="#FFFCFCFC"/>
+                                                        <Button x:Name="btnFA_AttachedCancel" Content="Cancel" HorizontalAlignment="Left" Margin="130,168,0,0" VerticalAlignment="Top" Width="74" Click="btnFA_ActivityCancel_Click"/>
+                                                        <Label x:Name="lblFValidation2" Content="Validation" HorizontalAlignment="Left" Margin="35,148,0,0" VerticalAlignment="Top" Width="379" Visibility="Hidden"/>
+                                                        <Label Content="Select File:" HorizontalAlignment="Left" Margin="32,50,0,0" VerticalAlignment="Top" FontFamily="Verdana" FontSize="13"/>
+                                                        <Label Content="Total File(s) should not exceed 20 MB" HorizontalAlignment="Left" Margin="34,76,0,0" VerticalAlignment="Top" FontFamily="Verdana"/>
+                                                        <Label x:Name="lblFAValidation1" Content="Validation" HorizontalAlignment="Left" Margin="40,240,0,0" VerticalAlignment="Top" FontFamily="Verdana" Width="294" Visibility="Hidden"/>
+                                                        <Button x:Name="btnFA_AttachChoose" Content="Choose File" HorizontalAlignment="Left" Margin="36,116,0,0" VerticalAlignment="Top" Width="74" Click="btnFA_AttachChoose_Click"/>
+                                                        <Label Content="X" HorizontalAlignment="Left" Margin="589,6,0,0" VerticalAlignment="Top" FontFamily="Verdana" FontSize="14" Width="23"/>
+                                                        <TextBox x:Name="txt1" HorizontalAlignment="Left" Height="24" Margin="172,112,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="242"/>
+                                                    </Grid>
+                                                    <Grid x:Name="grd_LeadInformation" Visibility="Hidden" HorizontalAlignment="Left" Height="431" Margin="258,204,0,0" VerticalAlignment="Top" Width="812" Background="Gainsboro">
+                                                        <Label Content="Lead Information" HorizontalAlignment="Left" Margin="6,3,0,0" VerticalAlignment="Top" Foreground="#FF505DE0" FontSize="14" FontFamily="Tw Cen MT"/>
+                                                        <Label Content="Lead Owner:" HorizontalAlignment="Left" Margin="27,37,0,0" VerticalAlignment="Top" FontFamily="Verdana"/>
+                                                        <Label x:Name="lblFLeadOwner" Content="Lead Owner:" HorizontalAlignment="Left" Margin="128,37,0,0" VerticalAlignment="Top" FontFamily="Verdana" Width="294"/>
+                                                        <Label Content="Phone No:" HorizontalAlignment="Left" Margin="40,95,0,0" VerticalAlignment="Top" FontFamily="Verdana"/>
+                                                        <Label x:Name="lblFPhoneNo" Content="PhoneNo" HorizontalAlignment="Left" Margin="128,95,0,0" VerticalAlignment="Top" FontFamily="Verdana" Width="294"/>
+                                                        <Label Content="Mobile No:" HorizontalAlignment="Left" Margin="38,125,0,0" VerticalAlignment="Top" FontFamily="Verdana"/>
+                                                        <Label x:Name="lblFMobileNo" Content="MobileNo" HorizontalAlignment="Left" Margin="128,125,0,0" VerticalAlignment="Top" FontFamily="Verdana" Width="294"/>
+                                                        <Label Content="Lead Source:" HorizontalAlignment="Left" Margin="24,155,0,0" VerticalAlignment="Top" FontFamily="Verdana"/>
+                                                        <Label x:Name="lblFLeadSource" Content="LeadSource" HorizontalAlignment="Left" Margin="128,155,0,0" VerticalAlignment="Top" FontFamily="Verdana" Width="294"/>
+                                                        <Label Content="Lead Name:" HorizontalAlignment="Left" Margin="30,66,0,0" VerticalAlignment="Top" FontFamily="Verdana"/>
+                                                        <Label x:Name="lblFLeadName" Content="LeadName" HorizontalAlignment="Left" Margin="128,66,0,0" VerticalAlignment="Top" FontFamily="Verdana" Width="294"/>
+                                                        <Label Content="Fax:" HorizontalAlignment="Left" Margin="459,126,0,0" VerticalAlignment="Top" FontFamily="Verdana"/>
+                                                        <Label x:Name="lblFFax" Content="Fax" HorizontalAlignment="Left" Margin="502,126,0,0" VerticalAlignment="Top" FontFamily="Verdana" Width="294"/>
+                                                        <Label Content="Website:" HorizontalAlignment="Left" Margin="432,156,0,0" VerticalAlignment="Top" FontFamily="Verdana"/>
+                                                        <Label x:Name="lblFWebsite" Content="Website" HorizontalAlignment="Left" Margin="502,156,0,0" VerticalAlignment="Top" FontFamily="Verdana" Width="294"/>
+                                                        <Label Content="Email:" HorizontalAlignment="Left" Margin="448,97,0,0" VerticalAlignment="Top" FontFamily="Verdana"/>
+                                                        <Label x:Name="lblFEmail" Content="Emial" HorizontalAlignment="Left" Margin="502,97,0,0" VerticalAlignment="Top" FontFamily="Verdana" Width="294"/>
+                                                        <Label Content="Annual Revenue:" HorizontalAlignment="Left" Margin="2,185,0,0" VerticalAlignment="Top" FontFamily="Verdana"/>
+                                                        <Label x:Name="lblFAnulRevenu" Content="AnualRevenue" HorizontalAlignment="Left" Margin="128,185,0,0" VerticalAlignment="Top" FontFamily="Verdana" Width="255"/>
+                                                        <Label Content="Address Information" HorizontalAlignment="Left" Margin="6,217,0,0" VerticalAlignment="Top" Foreground="#FF505DE0" FontSize="14" FontFamily="Tw Cen MT"/>
+                                                        <Label Content="Street:" HorizontalAlignment="Left" Margin="61,245,0,0" VerticalAlignment="Top" FontFamily="Verdana"/>
+                                                        <Label x:Name="lblFStreet" Content="Street" HorizontalAlignment="Left" Margin="128,245,0,0" VerticalAlignment="Top" FontFamily="Verdana" Width="294"/>
+                                                        <Label Content="City:" HorizontalAlignment="Left" Margin="455,245,0,0" VerticalAlignment="Top" FontFamily="Verdana"/>
+                                                        <Label x:Name="lblFCity" Content="City" HorizontalAlignment="Left" Margin="507,245,0,0" VerticalAlignment="Top" FontFamily="Verdana" Width="294"/>
+                                                        <Label Content="State:" HorizontalAlignment="Left" Margin="66,276,0,0" VerticalAlignment="Top" FontFamily="Verdana"/>
+                                                        <Label x:Name="lblFState" Content="Street" HorizontalAlignment="Left" Margin="128,276,0,0" VerticalAlignment="Top" FontFamily="Verdana" Width="294"/>
+                                                        <Label Content="Zip Code:" HorizontalAlignment="Left" Margin="426,275,0,0" VerticalAlignment="Top" FontFamily="Verdana"/>
+                                                        <Label x:Name="lblFZipCode" Content="ZipCode" HorizontalAlignment="Left" Margin="507,275,0,0" VerticalAlignment="Top" FontFamily="Verdana" Width="294"/>
+                                                        <Label Content="Country:" HorizontalAlignment="Left" Margin="51,308,0,0" VerticalAlignment="Top" FontFamily="Verdana"/>
+                                                        <Label x:Name="lblFCountry" Content="Country" HorizontalAlignment="Left" Margin="128,308,0,0" VerticalAlignment="Top" FontFamily="Verdana" Width="294"/>
+                                                        <Label Content="Description Information" HorizontalAlignment="Left" Margin="6,339,0,0" VerticalAlignment="Top" Foreground="#FF505DE0" FontSize="14" FontFamily="Tw Cen MT"/>
+                                                        <Label x:Name="lblFDesctiption" Content="Description" HorizontalAlignment="Left" Margin="128,371,0,0" VerticalAlignment="Top" FontFamily="Verdana" Width="668" Height="50"/>
+                                                        <Label x:Name="lblFCountry_Copy1" Content="Description:" HorizontalAlignment="Left" Margin="31,370,0,0" VerticalAlignment="Top" FontFamily="Verdana" Width="88"/>
+                                                        <Label Content="DOB:" HorizontalAlignment="Left" Margin="453,66,0,0" VerticalAlignment="Top" FontFamily="Verdana"/>
+                                                        <Label x:Name="lblFDOB" Content="DateOfBirth" HorizontalAlignment="Left" Margin="503,66,0,0" VerticalAlignment="Top" FontFamily="Verdana" Width="293"/>
+                                                        <Label Content="Occupation:" HorizontalAlignment="Left" Margin="412,186,0,0" VerticalAlignment="Top" FontFamily="Verdana"/>
+                                                        <Label x:Name="lblFOccupation" Content="Occupation" HorizontalAlignment="Left" Margin="502,186,0,0" VerticalAlignment="Top" FontFamily="Verdana" Width="294"/>
+                                                        <Button x:Name="btnViewInfo_Close" Content="X" HorizontalAlignment="Left" Margin="784,0,0,0" VerticalAlignment="Top" Width="28" Height="26" BorderBrush="Gainsboro" Background="Gainsboro" FontSize="16" FontWeight="Bold" Click="btnViewInfo_Close_Click"/>
+                                                    </Grid>
+                                                    <TextBlock HorizontalAlignment="Left" Margin="188,402,0,0" TextWrapping="Wrap" VerticalAlignment="Top"><Hyperlink x:Name="hlViewFollowProducts" FontFamily="Verdana" Click="hlViewFollowProducts_Click" ><Run Text="Add Products"/></Hyperlink></TextBlock>
+                                                    <TextBox x:Name="txtFollowupAddProductID" Visibility="Hidden" HorizontalAlignment="Left" Height="23" Margin="286,397,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="55"/>
+                                                    <Grid HorizontalAlignment="Left" Height="102" Margin="27,869,0,0" VerticalAlignment="Top" Width="1028" Background="#FFF0F0F0">
+                                                        <DataGrid x:Name="dgvFollowUp_CompaignsDetalis" HorizontalAlignment="Left" VerticalAlignment="Top" Height="102" Width="1028" BorderBrush="#FFF0F0F0" RowHeight="25">
+                                                            <DataGrid.Columns>
+                                                                <DataGridTemplateColumn Width="30">
+                                                                    <DataGridTemplateColumn.CellTemplate >
+                                                                        <DataTemplate>
+                                                                            <Button x:Name="btndgv_FollowupCampaignDelete" CommandParameter="{Binding id}" Background="#FFFCFCFC" BorderBrush="#FFFCFCFC" Foreground="#FF0600FF" Click="btndgv_FollowupCampaignDelete_Click" >
+                                                                                <Image Source="Images/Delete.png" Stretch="Fill"/>
+                                                                            </Button>
+                                                                        </DataTemplate>
+                                                                    </DataGridTemplateColumn.CellTemplate>
+                                                                </DataGridTemplateColumn>
+                                                                <DataGridTextColumn Header="ID" Visibility="Visible" Width="30"  x:Name="grdFollowup_ID2" SortMemberPath="ID" Binding="{Binding ID, Mode=TwoWay}" />
+                                                                <DataGridTextColumn Header="CampaignName" Width="260"  x:Name="grdFollowup_Name1" SortMemberPath="CampaignName" Binding="{Binding CampaignName, Mode=TwoWay}" />
+                                                                <DataGridTextColumn Header="CampaignType" Width="200"  x:Name="grdFollowup_MobileNo1" SortMemberPath="CampaignType" Binding="{Binding CampaignType, Mode=TwoWay}" />
+                                                                <DataGridTextColumn Header="Start Date" Width="170"  x:Name="grdFollowup_PhoneNo1" SortMemberPath="StartDate" Binding="{Binding StartDate, Mode=TwoWay}" />
+                                                                <DataGridTextColumn Header="End Date" Width="170"  x:Name="grdFollowup_Products1" SortMemberPath="EndDate" Binding="{Binding EndDate, Mode=TwoWay}" />
+                                                                <DataGridTextColumn Header="Status" Width="191"  x:Name="grdFollowup_Status1" SortMemberPath="Status" Binding="{Binding Status, Mode=TwoWay}" />
+                                                            </DataGrid.Columns>
+                                                        </DataGrid>
+                                                    </Grid>
+                                                    <Label Content="Attachment" HorizontalAlignment="Left" Margin="26,834,0,0" VerticalAlignment="Top" Foreground="#FF505DE0" FontSize="18" FontFamily="Tw Cen MT"/>
+                                                    <Ellipse Fill="#FF858EEA" HorizontalAlignment="Right" Height="8" Margin="0,844,1070,0" Stroke="#FF818ADC" VerticalAlignment="Top" Width="11"/>
+                                                    <Button x:Name="btnFollowup_View_Back" Content="Back" HorizontalAlignment="Left" Margin="25,2,0,0" VerticalAlignment="Top" Width="71" Height="19" FontFamily="Verdana" Click="btnFollowup_View_Back_Click" Background="White" BorderBrush="#FF030303"/>
+
+                                                </Grid>
+
+                                            </ScrollViewer>
+
+
+                                        </DockPanel>
+                                    </Grid>
                                 </Grid>
                                 <!--<Grid HorizontalAlignment="Left" Height="877" VerticalAlignment="Top" Width="1093" Background="#FFC8D1EE" Margin="0,0,0,-96">
                                     <Grid.ColumnDefinitions>
@@ -1999,7 +1998,7 @@
                         </ScrollViewer>
                     </DockPanel>-->
                 </Grid>
-                
+
                 <Grid x:Name="grd_View_Campaign" Visibility="Hidden" HorizontalAlignment="Center" VerticalAlignment="Center"  Margin="58,2,58,3" Width="1109" Background="White" Loaded="grd_View_Campaign_Loaded">
                     <Grid HorizontalAlignment="Left" Height="68" VerticalAlignment="Top" Width="1109" Background="#FF4655F0">
                         <Label Content="Campaign Details" HorizontalAlignment="Left" Margin="18,2,0,0" VerticalAlignment="Top" Foreground="#FFFCFCFC" FontSize="16" FontWeight="Bold" FontFamily="Verdana"/>
