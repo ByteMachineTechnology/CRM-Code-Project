@@ -32,3 +32,7 @@ C:\Users\Dexter\Desktop\Backup CRM\18 Sept 2014\20 Sept 2014\CRM\CRM_BAL\bin\Deb
 C:\Users\Dexter\Desktop\Backup CRM\18 Sept 2014\20 Sept 2014\CRM\CRM_BAL\bin\Debug\CRM_BAL.pdb
 C:\Users\Dexter\Desktop\Backup CRM\18 Sept 2014\20 Sept 2014\CRM\CRM_BAL\obj\Debug\CRM_BAL.dll
 C:\Users\Dexter\Desktop\Backup CRM\18 Sept 2014\20 Sept 2014\CRM\CRM_BAL\obj\Debug\CRM_BAL.pdb
+C:\Users\Dexter\Documents\GitHub\CRM-Code-Project\CRM\CRM_BAL\bin\Debug\CRM_BAL.dll
+C:\Users\Dexter\Documents\GitHub\CRM-Code-Project\CRM\CRM_BAL\bin\Debug\CRM_BAL.pdb
+C:\Users\Dexter\Documents\GitHub\CRM-Code-Project\CRM\CRM_BAL\obj\Debug\CRM_BAL.dll
+C:\Users\Dexter\Documents\GitHub\CRM-Code-Project\CRM\CRM_BAL\obj\Debug\CRM_BAL.pdb

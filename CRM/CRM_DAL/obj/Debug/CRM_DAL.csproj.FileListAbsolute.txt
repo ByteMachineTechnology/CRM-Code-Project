@@ -54,3 +54,10 @@ C:\Users\Dexter\Desktop\Backup CRM\18 Sept 2014\20 Sept 2014\CRM\CRM_DAL\bin\Deb
 C:\Users\Dexter\Desktop\Backup CRM\18 Sept 2014\20 Sept 2014\CRM\CRM_DAL\obj\Debug\CRM_DAL.csprojResolveAssemblyReference.cache
 C:\Users\Dexter\Desktop\Backup CRM\18 Sept 2014\20 Sept 2014\CRM\CRM_DAL\obj\Debug\CRM_DAL.dll
 C:\Users\Dexter\Desktop\Backup CRM\18 Sept 2014\20 Sept 2014\CRM\CRM_DAL\obj\Debug\CRM_DAL.pdb
+C:\Users\Dexter\Documents\GitHub\CRM-Code-Project\CRM\CRM_DAL\bin\Debug\CRM_DAL.dll
+C:\Users\Dexter\Documents\GitHub\CRM-Code-Project\CRM\CRM_DAL\bin\Debug\CRM_DAL.pdb
+C:\Users\Dexter\Documents\GitHub\CRM-Code-Project\CRM\CRM_DAL\bin\Debug\CRM_BAL.dll
+C:\Users\Dexter\Documents\GitHub\CRM-Code-Project\CRM\CRM_DAL\bin\Debug\CRM_BAL.pdb
+C:\Users\Dexter\Documents\GitHub\CRM-Code-Project\CRM\CRM_DAL\obj\Debug\CRM_DAL.csprojResolveAssemblyReference.cache
+C:\Users\Dexter\Documents\GitHub\CRM-Code-Project\CRM\CRM_DAL\obj\Debug\CRM_DAL.dll
+C:\Users\Dexter\Documents\GitHub\CRM-Code-Project\CRM\CRM_DAL\obj\Debug\CRM_DAL.pdb
