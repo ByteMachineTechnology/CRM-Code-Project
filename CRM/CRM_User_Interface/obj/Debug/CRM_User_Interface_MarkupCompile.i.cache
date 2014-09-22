@@ -4,28 +4,16 @@
 winexe
 C#
 .cs
-<<<<<<< HEAD
 C:\Users\Dexter\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\obj\Debug\
-=======
-C:\Users\Nazia Tabassum\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\obj\Debug\
->>>>>>> origin/master
 CRM_User_Interface
 none
 false
 DEBUG;TRACE
-<<<<<<< HEAD
 C:\Users\Dexter\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\App.xaml
 7384744750
 
 16-433777191
 16-224122850
-=======
-C:\Users\Nazia Tabassum\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\App.xaml
-7384744750
-
-16-436786737
-161928492964
->>>>>>> origin/master
 frmAddCampaign.xaml;frmAddProducts.xaml;frmCampaginLeads.xaml;frmCRM_Adm_Dashbord.xaml;frmValidationMessage.xaml;frmViewEmployeeDetails.xaml;StockProducts.xaml;
 
 False
