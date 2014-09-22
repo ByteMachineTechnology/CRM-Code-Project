@@ -358,11 +358,47 @@
                 </MenuItem>
 
                 <Grid Background="White" Height="55" Width="2"/>
-                <StackPanel Height="56" Width="80" Margin="0,0,0,0">
-                    <Image Source="Images/menu_customers.png" Height="39"/>
-                    <Label Content="Customers" Foreground="White" VerticalAlignment="Center" Margin="6,-10,5,0"/>
-                    <!--<MenuItem  Header="Home" Margin="0,4,0,0" x:Name="mhome" Foreground="White" Width="56" />-->
-                </StackPanel>
+                <MenuItem>
+                    <MenuItem.Header>
+                        <StackPanel Height="56" Width="87" Margin="-5,0,0,0">
+                            <Image Source="Images/menu_customers.png" Height="39"/>
+                            <Grid>
+                                <Label Content="Customers" Foreground="White" VerticalAlignment="Center" Margin="6,-8,5,15"/>
+                                <ToggleButton IsChecked="False" IsHitTestVisible="False" Margin="62,-4,-13,16" Foreground="#FFFCFCFC" RenderTransformOrigin="0.5,0.5">
+                                    <ToggleButton.RenderTransform>
+                                        <TransformGroup>
+                                            <ScaleTransform ScaleX="-1"/>
+                                            <SkewTransform/>
+                                            <RotateTransform/>
+                                            <TranslateTransform/>
+                                        </TransformGroup>
+                                    </ToggleButton.RenderTransform>
+                                    <ToggleButton.Style>
+                                        <Style TargetType="{x:Type ToggleButton}">
+                                            <Setter Property="OverridesDefaultStyle" Value="True" />
+
+                                            <Setter Property="Focusable" Value="False" />
+                                            <Setter Property="IsTabStop" Value="False" />
+                                            <Setter Property="Template">
+                                                <Setter.Value>
+                                                    <ControlTemplate TargetType="{x:Type ToggleButton}">
+                                                        <Path Data="M0,0L3.5,4 7,0z" Fill="White"  x:Name="Arrow"
+															Margin="1.5,9,-2.816,8" HorizontalAlignment="Center" VerticalAlignment="Center" Stretch="Fill" Width="8.316" />
+                                                    </ControlTemplate>
+                                                </Setter.Value>
+                                            </Setter>
+                                        </Style>
+                                    </ToggleButton.Style>
+                                </ToggleButton>
+                            </Grid>
+                            <!--<MenuItem  Header="Home" Margin="0,4,0,0" x:Name="mhome" Foreground="White" Width="56" />-->
+                        </StackPanel>
+                    </MenuItem.Header>
+                    <MenuItem x:Name="menu_CustomerTabs" Header="Customer" Click="menu_CustomerTabs_Click" />
+
+                    <Separator/>
+
+                </MenuItem>
                 <Grid Background="White" Height="55" Width="2"/>
                 <StackPanel Height="56" Width="80" Margin="0,0,0,0">
                     <Image Source="Images/menu_alerts.png" Height="39"/>
@@ -1535,7 +1571,7 @@
                     </DockPanel>
                 </Grid>
 
-                <Grid x:Name="grd_SalesPurches" Visibility="Hidden" HorizontalAlignment="Center"  Margin="56,1,59,0" Width="1109" Background="White" Loaded="grdFollowupEntry_Loaded">
+                <Grid x:Name="grd_SalesPurches" Visibility="Visible"  HorizontalAlignment="Center"  Margin="56,1,59,0" Width="1109" Background="White" Loaded="grdFollowupEntry_Loaded">
                     <DockPanel >
                         <!--<DockPanel>
                         <ScrollViewer HorizontalScrollBarVisibility="Hidden" CanContentScroll="True" UseLayoutRounding="False" PanningMode="VerticalOnly">

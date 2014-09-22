@@ -246,3 +246,29 @@ C:\Users\Dexter\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\obj\Deb
 C:\Users\Dexter\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\obj\Debug\CRM_User_Interface.csproj.GenerateResource.Cache
 C:\Users\Dexter\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\obj\Debug\CRM_User_Interface.csprojResolveAssemblyReference.cache
 >>>>>>> origin/master
+C:\Users\Nazia Tabassum\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\bin\Debug\CRM_User_Interface.exe
+C:\Users\Nazia Tabassum\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\bin\Debug\CRM_User_Interface.pdb
+C:\Users\Nazia Tabassum\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\bin\Debug\CRM_BAL.dll
+C:\Users\Nazia Tabassum\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\bin\Debug\CRM_DAL.dll
+C:\Users\Nazia Tabassum\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\bin\Debug\CRM_BAL.pdb
+C:\Users\Nazia Tabassum\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\bin\Debug\CRM_DAL.pdb
+C:\Users\Nazia Tabassum\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\obj\Debug\CRM_User_Interface.csprojResolveAssemblyReference.cache
+C:\Users\Nazia Tabassum\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\obj\Debug\frmAddCampaign.baml
+C:\Users\Nazia Tabassum\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\obj\Debug\frmAddProducts.baml
+C:\Users\Nazia Tabassum\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\obj\Debug\frmCampaginLeads.baml
+C:\Users\Nazia Tabassum\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\obj\Debug\frmCRM_Adm_Dashbord.baml
+C:\Users\Nazia Tabassum\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\obj\Debug\frmValidationMessage.baml
+C:\Users\Nazia Tabassum\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\obj\Debug\frmViewEmployeeDetails.baml
+C:\Users\Nazia Tabassum\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\obj\Debug\StockProducts.baml
+C:\Users\Nazia Tabassum\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\obj\Debug\frmAddCampaign.g.cs
+C:\Users\Nazia Tabassum\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\obj\Debug\frmAddProducts.g.cs
+C:\Users\Nazia Tabassum\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\obj\Debug\frmCampaginLeads.g.cs
+C:\Users\Nazia Tabassum\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\obj\Debug\frmCRM_Adm_Dashbord.g.cs
+C:\Users\Nazia Tabassum\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\obj\Debug\frmValidationMessage.g.cs
+C:\Users\Nazia Tabassum\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\obj\Debug\frmViewEmployeeDetails.g.cs
+C:\Users\Nazia Tabassum\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\obj\Debug\StockProducts.g.cs
+C:\Users\Nazia Tabassum\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\obj\Debug\App.g.cs
+C:\Users\Nazia Tabassum\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\obj\Debug\CRM_User_Interface_MarkupCompile.cache
+C:\Users\Nazia Tabassum\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\obj\Debug\CRM_User_Interface.g.resources
+C:\Users\Nazia Tabassum\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\obj\Debug\CRM_User_Interface.Properties.Resources.resources
+C:\Users\Nazia Tabassum\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\obj\Debug\CRM_User_Interface.csproj.GenerateResource.Cache

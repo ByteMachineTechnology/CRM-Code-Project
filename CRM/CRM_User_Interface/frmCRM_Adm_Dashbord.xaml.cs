@@ -10626,7 +10626,17 @@ namespace CRM_User_Interface
             }
         }
         #endregion AddProducts Delete        
+
+        private void btnSaleEmployeeNameFetch_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
         #endregion AddProducts Function
+
+        private void menu_CustomerTabs_Click(object sender, RoutedEventArgs e)
+        {
+            grd_SalesPurches.Visibility = Visibility;
+        }
 
 
 
