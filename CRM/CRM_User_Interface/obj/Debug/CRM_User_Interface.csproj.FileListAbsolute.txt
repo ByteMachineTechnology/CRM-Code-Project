@@ -276,3 +276,10 @@ C:\Users\Nazia Tabassum\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface
 C:\Users\Nazia Tabassum\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\obj\Debug\frm_FetchContactCustomerDetailsxaml.g.cs
 C:\Users\Nazia Tabassum\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\obj\Debug\frm_FetchEmployeeDetails.g.cs
 C:\Users\Nazia Tabassum\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\obj\Debug\CRM_User_Interface_Content.g.cs
+C:\Users\Dexter\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\obj\Debug\ADD_Tax.baml
+C:\Users\Dexter\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\obj\Debug\frm_FetchContactCustomerDetailsxaml.baml
+C:\Users\Dexter\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\obj\Debug\frm_FetchEmployeeDetails.baml
+C:\Users\Dexter\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\obj\Debug\ADD_Tax.g.cs
+C:\Users\Dexter\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\obj\Debug\frm_FetchContactCustomerDetailsxaml.g.cs
+C:\Users\Dexter\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\obj\Debug\frm_FetchEmployeeDetails.g.cs
+C:\Users\Dexter\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\obj\Debug\CRM_User_Interface_Content.g.cs
