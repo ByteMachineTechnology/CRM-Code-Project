@@ -11848,5 +11848,76 @@ namespace CRM_User_Interface
             con.Close();
 
         }
+
+        private void btnSaleEmployeeNameFetch_Click_1(object sender, RoutedEventArgs e)
+        {
+            frm_FetchEmployeeDetails fed = new frm_FetchEmployeeDetails();
+            // txtSaleEmployeeName.Text = cen.ToString();
+            // fed.Show();
+            fed.ShowDialog();
+
+            if (fed.DialogResult == true)
+            {
+
+                con.Open();
+                string sqlquery1 = "Select ID,EmployeeID,EmployeeFirstName + ' ' + EmployeeLastName as NAME,Designation,S_Status from tbl_Employee where ID='" + fed.txtFEmpID.Text + "' and S_Status='Active' ";
+                SqlCommand cmd = new SqlCommand(sqlquery1, con);
+                SqlDataAdapter adp = new SqlDataAdapter(cmd);
+                DataTable dt = new DataTable();
+                adp.Fill(dt);
+                if (dt.Rows.Count > 0)
+                {
+                    txtEMPID.Text = dt.Rows[0]["ID"].ToString();
+                    txtSaleEmployeeName.Text = dt.Rows[0]["NAME"].ToString();
+                }
+                con.Close();
+
+            }
+        }
+
+        private void btnSaleContactNameFetch_Click_1(object sender, RoutedEventArgs e)
+        {
+            frm_FetchContactCustomerDetailsxaml fccd = new frm_FetchContactCustomerDetailsxaml();
+
+            fccd.ShowDialog();
+
+            if (fccd.DialogResult == true)
+            {
+                txtContactCDID11.Text = fccd.txtCCDID.Text;
+
+                try
+                {
+                    con.Open();
+                    DataSet ds = new DataSet();
+                    // DataTable dt = new DataTable();
+                    string qry = "select  ID,ContactCustID,CTitle + ' ' + FirstName + ' ' +LastName   as Name,MobileNo,EmialID,MailingStreet from tlb_ContactCustomer where S_Status='Active' and ID='" + fccd.txtCCDID.Text + "'";
+                    cmd = new SqlCommand(qry, con);
+                    SqlDataAdapter da = new SqlDataAdapter(cmd);
+                    DataTable dt = new DataTable();
+                    // con.Open();
+                    da.Fill(dt);
+
+                    if (dt.Rows.Count > 0)
+                    {
+                        // cmbInvoiceStockProducts.SelectedValuePath = ds.Tables[0].Columns["ID"].ToString();
+                        // cmbInvoiceStockProducts.ItemsSource = ds.Tables[0].DefaultView;
+                        // cmbInvoiceStockProducts.DisplayMemberPath = ds.Tables[0].Columns["Products"].ToString();
+                        txtSaleCCustomerID.Text = dt.Rows[0]["ContactCustID"].ToString();
+                        txtSaleCCustomerName.Text = dt.Rows[0]["Name"].ToString();
+                        txtSaleCCustMobile.Text = dt.Rows[0]["MobileNo"].ToString();
+                        txtSaleCCustAddress.Text = dt.Rows[0]["MailingStreet"].ToString();
+                        txtSaleCCustEmailid.Text = dt.Rows[0]["EmialID"].ToString();
+
+                    }
+                }
+                catch (Exception)
+                {
+
+                    throw;
+                }
+                finally { con.Close(); }
+
+            }
+        }
     }
 }

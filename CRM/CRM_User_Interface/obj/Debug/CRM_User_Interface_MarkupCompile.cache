@@ -9,19 +9,11 @@ CRM_User_Interface
 none
 false
 DEBUG;TRACE
-<<<<<<< HEAD
-C:\Users\Dexter\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\App.xaml
-101905985749
-1-9177176
-21-1385403062
-16-224122850
-=======
 C:\Users\Nazia Tabassum\Documents\GitHub\CRM-Code-Project\CRM\CRM_User_Interface\App.xaml
 101905985749
 1-9177176
-21-1388412608
+17962564016
 161928492964
->>>>>>> origin/master
 ADD_Tax.xaml;frmAddCampaign.xaml;frmAddProducts.xaml;frmCampaginLeads.xaml;frmCRM_Adm_Dashbord.xaml;frmValidationMessage.xaml;frmViewEmployeeDetails.xaml;frm_FetchContactCustomerDetailsxaml.xaml;frm_FetchEmployeeDetails.xaml;StockProducts.xaml;
 
 False

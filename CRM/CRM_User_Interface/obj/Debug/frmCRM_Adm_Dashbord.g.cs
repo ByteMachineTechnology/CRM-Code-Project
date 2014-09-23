@@ -1,7 +1,4 @@
 <<<<<<< HEAD
-﻿#pragma checksum "..\..\frmCRM_Adm_Dashbord.xaml" "{406ea660-64cf-4c82-b6f0-42d48172a799}" "52D114E2FE00C49BB89C55943A5FB695"
-=======
-<<<<<<< HEAD
 ﻿#pragma checksum "..\..\frmCRM_Adm_Dashbord.xaml" "{406ea660-64cf-4c82-b6f0-42d48172a799}" "C6AD57C794D8E103780E331F4EA7F29B"
 =======
 <<<<<<< HEAD
@@ -11,7 +8,6 @@
 ﻿#pragma checksum "..\..\frmCRM_Adm_Dashbord.xaml" "{406ea660-64cf-4c82-b6f0-42d48172a799}" "53A48CF982AED3C42AB2C2955EC1DDCB"
 =======
 ﻿#pragma checksum "..\..\frmCRM_Adm_Dashbord.xaml" "{406ea660-64cf-4c82-b6f0-42d48172a799}" "F6F28A5B6D24E2BECA8ED51B1663BE0C"
->>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
@@ -4841,9 +4837,6 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-        #line 1857 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
-<<<<<<< HEAD
 =======
 <<<<<<< HEAD
         #line 1857 "..\..\frmCRM_Adm_Dashbord.xaml"
@@ -4854,7 +4847,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
         #line 1859 "..\..\frmCRM_Adm_Dashbord.xaml"
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtSearch_ContactName;
         
@@ -4862,14 +4854,12 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-        #line 1858 "..\..\frmCRM_Adm_Dashbord.xaml"
 <<<<<<< HEAD
-=======
+        #line 1858 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
         #line 1860 "..\..\frmCRM_Adm_Dashbord.xaml"
 <<<<<<< HEAD
 =======
->>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
@@ -4880,9 +4870,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 1859 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 1861 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -4896,7 +4883,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtAdm_EmployeeID5;
         
@@ -4904,9 +4890,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 1861 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -4919,7 +4902,6 @@ namespace CRM_User_Interface {
 =======
 >>>>>>> origin/master
         #line 1863 "..\..\frmCRM_Adm_Dashbord.xaml"
->>>>>>> origin/master
 >>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtContactID;
@@ -4961,9 +4943,6 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-        #line 1905 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
-<<<<<<< HEAD
 =======
 <<<<<<< HEAD
         #line 1905 "..\..\frmCRM_Adm_Dashbord.xaml"
@@ -4976,7 +4955,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
         #line 1907 "..\..\frmCRM_Adm_Dashbord.xaml"
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdFinalContactMobileNo;
         
@@ -4984,9 +4962,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 1906 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 1908 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -5000,7 +4975,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdContactPhoneNo;
         
@@ -5008,9 +4982,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 1907 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 1909 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -5024,7 +4995,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdContactEmailID;
         
@@ -5032,9 +5002,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 1912 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 1914 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -5048,7 +5015,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtAdm_EmployeeID6;
         
@@ -5056,9 +5022,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 1913 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 1915 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -5072,7 +5035,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btn_View_ContactDetails_Delete;
         
@@ -5080,9 +5042,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 1926 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 1928 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -5096,7 +5055,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btn_View_Contact_AddNewContact;
         
@@ -5104,9 +5062,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 1939 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 1941 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -5120,7 +5075,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btn_View_ContactSendmail;
         
@@ -5128,9 +5082,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 1963 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 1967 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -5144,7 +5095,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Grid grdCreateContact;
         
@@ -5152,9 +5102,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 1967 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 1971 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -5168,7 +5115,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Image imgDealerDetails19;
         
@@ -5176,9 +5122,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 1977 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 1981 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -5192,7 +5135,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtContactFirstName;
         
@@ -5200,9 +5142,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 1979 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 1983 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -5224,7 +5163,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DatePicker dtpContactDOB;
         
@@ -5232,9 +5170,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 1980 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 1984 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -5248,7 +5183,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblContactID;
         
@@ -5256,9 +5190,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 1982 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 1986 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -5272,7 +5203,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtContactLastName;
         
@@ -5280,9 +5210,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 1983 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 1987 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -5296,7 +5223,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnSavePhoto12;
         
@@ -5304,9 +5230,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 1984 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 1988 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -5321,7 +5244,6 @@ namespace CRM_User_Interface {
         #line 1987 "..\..\frmCRM_Adm_Dashbord.xaml"
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtMaxID12;
         
@@ -5329,11 +5251,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 1985 "..\..\frmCRM_Adm_Dashbord.xaml"
-        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
-        internal System.Windows.Controls.TextBox txtEmployeeID12;
-=======
 <<<<<<< HEAD
         #line 1989 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -5366,15 +5283,11 @@ namespace CRM_User_Interface {
         #line 1993 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.ComboBox cmbContactEmployeeName;
->>>>>>> origin/master
         
         #line default
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 1987 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 1994 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -5387,7 +5300,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.ComboBox cmbContactTitle;
         
@@ -5395,9 +5307,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 1989 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 2002 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -5471,7 +5380,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label Phone_No_3_Copy13;
         
@@ -5479,9 +5387,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 1990 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 2010 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -5495,7 +5400,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtContactWebsite;
         
@@ -5503,9 +5407,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 1998 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 2012 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -5519,7 +5420,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.ComboBox cmbContactSourceofEnq;
         
@@ -5527,9 +5427,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 1999 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 2027 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -5543,7 +5440,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtContactMailingAddress;
         
@@ -5551,9 +5447,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 2000 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 2030 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -5567,7 +5460,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtContactMailingZip;
         
@@ -5575,9 +5467,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 2001 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 2033 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -5591,7 +5480,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.ComboBox cmbContactMailingCity;
         
@@ -5599,9 +5487,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 2002 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 2034 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -5615,7 +5500,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.ComboBox cmbContactMailingState;
         
@@ -5623,9 +5507,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 2003 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 2035 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -5639,7 +5520,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.ComboBox cmbContactMailingCountrty;
         
@@ -5647,9 +5527,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 2004 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 2037 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -5663,7 +5540,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtContactOtherAddress;
         
@@ -5671,9 +5547,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 2005 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 2040 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -5687,7 +5560,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtContactOtherZip;
         
@@ -5695,9 +5567,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 2006 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 2043 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -5711,7 +5580,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.ComboBox cmbContactOtherCity;
         
@@ -5719,9 +5587,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 2008 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 2044 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -5735,7 +5600,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.ComboBox cmbContactOtherState;
         
@@ -5743,9 +5607,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 2023 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 2045 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -5759,7 +5620,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.ComboBox cmbContactOtherCountrty;
         
@@ -5767,9 +5627,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 2026 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 2046 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -5783,7 +5640,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnContactCopyAddress;
         
@@ -5791,9 +5647,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 2029 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 2047 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -5807,7 +5660,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtContactSystemPhotoPath;
         
@@ -5815,9 +5667,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 2030 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 2048 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -5831,7 +5680,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtContactActualPhotoPath;
         
@@ -5839,9 +5687,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 2031 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 2049 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -5855,7 +5700,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtCContactMax_CustomerID;
         
@@ -5863,9 +5707,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 2033 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 2050 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -5879,7 +5720,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtCContactCustomerID;
         
@@ -5887,9 +5727,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 2036 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 2054 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -5903,7 +5740,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnContact_Save;
         
@@ -5911,9 +5747,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 2039 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 2055 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -5927,7 +5760,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnContact_Clear;
         
@@ -5935,9 +5767,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 2040 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 2056 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -5951,7 +5780,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnContact_Exit;
         
@@ -5959,9 +5787,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 2041 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 2061 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -5975,7 +5800,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtContactDescription;
         
@@ -5983,9 +5807,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 2042 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 2069 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -5999,7 +5820,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtwarr_rem;
         
@@ -6007,9 +5827,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 2043 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 2071 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -6023,7 +5840,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtInvoice_InvcTotalAmount1;
         
@@ -6031,9 +5847,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 2044 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 2073 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -6047,7 +5860,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtd;
         
@@ -6055,9 +5867,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 2045 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 2074 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -6071,7 +5880,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtP;
         
@@ -6079,9 +5887,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 2046 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 2075 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -6095,7 +5900,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtB;
         
@@ -6103,9 +5907,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 2050 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 2076 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -6119,7 +5920,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtPC;
         
@@ -6127,9 +5927,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 2051 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 2077 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -6143,7 +5940,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtM;
         
@@ -6151,9 +5947,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 2052 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 2078 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -6167,7 +5960,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtC;
         
@@ -6175,9 +5967,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 2057 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 2079 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -6191,7 +5980,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtid;
         
@@ -6200,15 +5988,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2082 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnInvoice_Cash1;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2063 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2023 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2068 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Grid grd_View_ContDetails_Info;
 >>>>>>> origin/master
@@ -6218,15 +6010,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2086 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnInvoice_Cheque1;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2067 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2024 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2071 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Image imgDealerDetails21;
 >>>>>>> origin/master
@@ -6236,15 +6032,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2090 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnInvoice_Finance1;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2073 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2025 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2085 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnSavePhoto13;
 >>>>>>> origin/master
@@ -6254,15 +6054,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2094 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnInvoice_Installment1;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2074 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2026 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2087 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtMaxID13;
 >>>>>>> origin/master
@@ -6272,15 +6076,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2103 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Grid grd_View_ContDetails_Info;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2075 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2027 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2088 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtEmployeeID13;
 >>>>>>> origin/master
@@ -6290,15 +6098,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2107 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Image imgDealerDetails21;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2077 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2028 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2095 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Image imgCContactCustomer;
 >>>>>>> origin/master
@@ -6307,9 +6119,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 2078 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 2113 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -6344,7 +6153,6 @@ namespace CRM_User_Interface {
         #line 2097 "..\..\frmCRM_Adm_Dashbord.xaml"
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnContactBrowse;
 >>>>>>> origin/master
@@ -6354,15 +6162,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2117 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Image imgCContactCustomer;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2081 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2045 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2099 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnContactRemove;
 >>>>>>> origin/master
@@ -6372,15 +6184,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2118 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnContactBrowse;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2084 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2049 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2101 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCContactInfoName;
 >>>>>>> origin/master
@@ -6390,15 +6206,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2121 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnContactRemove;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2086 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2061 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2103 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblContactLeadOwnerName;
 >>>>>>> origin/master
@@ -6408,15 +6228,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2124 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCContactInfoName;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2088 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2065 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2104 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCContactPhNo;
 >>>>>>> origin/master
@@ -6426,15 +6250,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2126 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblContactLeadOwnerName;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2090 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2074 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2117 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCContactMbNo;
 >>>>>>> origin/master
@@ -6444,15 +6272,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2128 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCContactPhNo;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2091 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2075 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2118 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnContactDetails_ViewInfor;
 >>>>>>> origin/master
@@ -6462,15 +6294,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2130 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCContactMbNo;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2092 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2076 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2119 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtCContactPhotoPath;
 >>>>>>> origin/master
@@ -6480,15 +6316,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2131 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnContactDetails_ViewInfor;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2093 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2077 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2120 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnCContactPhoto_Save;
 >>>>>>> origin/master
@@ -6498,15 +6338,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2132 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtCContactPhotoPath;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2094 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2079 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2121 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtCContactID;
 >>>>>>> origin/master
@@ -6516,15 +6360,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2133 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnCContactPhoto_Save;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2095 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2080 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2122 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtCContactActualPhotoPath;
 >>>>>>> origin/master
@@ -6534,15 +6382,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2134 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtCContactID;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2097 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2082 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2123 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnContactDetails_ViewInfor_Close;
 >>>>>>> origin/master
@@ -6552,15 +6404,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2135 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtCContactActualPhotoPath;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2100 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2086 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2124 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGrid dgvContactNotes;
 >>>>>>> origin/master
@@ -6570,15 +6426,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2137 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnContactDetails_ViewInfor_Close;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2111 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2129 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2128 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdFID2;
 >>>>>>> origin/master
@@ -6588,15 +6448,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2140 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGrid dgvContactNotes;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2112 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2131 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2129 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdContactNotes;
 >>>>>>> origin/master
@@ -6606,15 +6470,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2151 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdFID2;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2113 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2132 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2130 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdContactDate;
 >>>>>>> origin/master
@@ -6624,15 +6492,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2152 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdContactNotes;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2116 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2133 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2132 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Documents.Hyperlink hlContactAcivities;
 >>>>>>> origin/master
@@ -6642,15 +6514,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2153 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdContactDate;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2117 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2134 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2133 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Documents.Hyperlink hlContactAddCampaign;
 >>>>>>> origin/master
@@ -6660,15 +6536,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2156 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Documents.Hyperlink hlContactAcivities;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2123 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2135 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2134 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGrid dgvFollowUp_Products1;
 >>>>>>> origin/master
@@ -6678,15 +6558,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2157 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Documents.Hyperlink hlContactAddCampaign;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2127 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2140 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2135 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGrid dgvContactActivities;
 >>>>>>> origin/master
@@ -6696,15 +6580,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2163 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGrid dgvFollowUp_Products1;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2138 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2153 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2143 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdFAID1;
 >>>>>>> origin/master
@@ -6713,9 +6601,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 2139 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 2167 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
@@ -6730,7 +6615,6 @@ namespace CRM_User_Interface {
         #line 2147 "..\..\frmCRM_Adm_Dashbord.xaml"
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdFASubject1;
 >>>>>>> origin/master
@@ -6740,15 +6624,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2178 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdFAID1;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2140 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2180 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2151 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdFADate1;
 >>>>>>> origin/master
@@ -6758,15 +6646,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2179 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdFASubject1;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2141 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2191 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2155 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdFAEmployeeName1;
 >>>>>>> origin/master
@@ -6776,15 +6668,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2180 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdFADate1;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2142 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2192 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2159 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdFANotes1;
 >>>>>>> origin/master
@@ -6794,15 +6690,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2181 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdFAEmployeeName1;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2146 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2193 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2168 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtContactNotesID;
 >>>>>>> origin/master
@@ -6812,15 +6712,15 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2182 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdFANotes1;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2149 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2194 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnFollowpOnlySMS1;
 >>>>>>> origin/master
@@ -6830,15 +6730,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2186 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtContactNotesID;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2151 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2196 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2173 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGrid dgvContact_Compaigns;
 >>>>>>> origin/master
@@ -6848,15 +6752,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2189 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnFollowpOnlySMS1;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2162 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2197 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2174 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdContact_ID1;
 >>>>>>> origin/master
@@ -6866,15 +6774,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2191 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGrid dgvContact_Compaigns;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2163 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2212 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2176 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdContact_Name2;
 >>>>>>> origin/master
@@ -6884,15 +6796,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2202 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdContact_ID1;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2164 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2213 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2177 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdContact_MobileNo2;
 >>>>>>> origin/master
@@ -6902,15 +6818,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2203 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdContact_Name2;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2165 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2214 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2178 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdContact_PhoneNo2;
 >>>>>>> origin/master
@@ -6920,15 +6840,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2204 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdContact_MobileNo2;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2166 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2215 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2179 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdContact_Products2;
 >>>>>>> origin/master
@@ -6938,15 +6862,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2205 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdContact_PhoneNo2;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2167 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2216 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2182 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdContact_Qty2;
 >>>>>>> origin/master
@@ -6956,15 +6884,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2206 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdContact_Products2;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2174 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2217 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2196 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Grid grdContact_Activity;
 >>>>>>> origin/master
@@ -6974,15 +6906,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2207 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdContact_Qty2;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2176 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2218 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2197 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnContact_ActivitySave;
 >>>>>>> origin/master
@@ -6992,15 +6928,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2214 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Grid grdContact_Activity;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2177 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2226 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2198 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnContact_ActivityCancel;
 >>>>>>> origin/master
@@ -7010,15 +6950,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2216 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnContact_ActivitySave;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2178 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2227 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2199 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblFValidation7;
 >>>>>>> origin/master
@@ -7028,15 +6972,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2217 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnContact_ActivityCancel;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2179 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2228 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2200 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.ComboBox cmbContactSubject;
 >>>>>>> origin/master
@@ -7046,15 +6994,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2218 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblFValidation7;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2189 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2236 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2201 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DatePicker dtpContactDate;
 >>>>>>> origin/master
@@ -7064,15 +7016,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2219 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.ComboBox cmbContactSubject;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2191 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2237 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2202 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.ComboBox cmbContactLeadOwner;
 >>>>>>> origin/master
@@ -7082,15 +7038,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2229 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DatePicker dtpContactDate;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2193 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2240 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2204 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtContactActivityNote;
 >>>>>>> origin/master
@@ -7100,15 +7060,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2231 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.ComboBox cmbContactLeadOwner;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2194 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2241 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2206 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblContactActiValidation;
 >>>>>>> origin/master
@@ -7118,15 +7082,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2233 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtContactActivityNote;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2196 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2242 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2209 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Documents.Hyperlink hlAddContactNotes;
 >>>>>>> origin/master
@@ -7136,15 +7104,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2234 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblContactActiValidation;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2197 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2245 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2210 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Grid grdContactCustomer_Notes;
 >>>>>>> origin/master
@@ -7154,15 +7126,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2236 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Documents.Hyperlink hlAddContactNotes;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2199 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2251 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2215 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtContactNotes;
 >>>>>>> origin/master
@@ -7172,15 +7148,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2237 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Grid grdContactCustomer_Notes;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2200 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2257 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2216 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnContactNotes_Save;
 >>>>>>> origin/master
@@ -7190,15 +7170,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2239 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtContactNotes;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2201 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2261 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2219 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnContactNotes_Cancel;
 >>>>>>> origin/master
@@ -7208,15 +7192,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2240 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnContactNotes_Save;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2202 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2267 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2220 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblContactValidation;
 >>>>>>> origin/master
@@ -7226,15 +7214,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2241 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnContactNotes_Cancel;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2204 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2268 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2221 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Grid grdContact_Attachment;
 >>>>>>> origin/master
@@ -7244,15 +7236,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2242 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblContactValidation;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2207 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2269 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2223 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnContactAttached;
 >>>>>>> origin/master
@@ -7262,15 +7258,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2244 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Grid grdContact_Attachment;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2208 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2270 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2224 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnFA_AttachedCancel3;
 >>>>>>> origin/master
@@ -7280,15 +7280,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2247 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnContactAttached;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2209 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2272 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2226 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblFValidation9;
 >>>>>>> origin/master
@@ -7298,15 +7302,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2248 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnFA_AttachedCancel3;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2212 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2274 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2227 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblFAValidation7;
 >>>>>>> origin/master
@@ -7316,15 +7324,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2249 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblFValidation9;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2213 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2275 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2228 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnContactAttachChoose;
 >>>>>>> origin/master
@@ -7334,15 +7346,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2252 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblFAValidation7;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2215 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2276 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2229 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txt4;
 >>>>>>> origin/master
@@ -7352,15 +7368,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2253 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnContactAttachChoose;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2216 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2277 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2230 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txt4_Copy;
 >>>>>>> origin/master
@@ -7370,15 +7390,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2255 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txt4;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2218 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2278 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2231 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Grid grd_ContactInformation;
 >>>>>>> origin/master
@@ -7388,15 +7412,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2256 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txt4_Copy;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2221 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2279 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2243 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCContactLeadOwner;
 >>>>>>> origin/master
@@ -7406,15 +7434,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2258 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Grid grd_ContactInformation;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2223 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2280 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2246 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCContactPhoneNo;
 >>>>>>> origin/master
@@ -7424,15 +7456,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2261 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCContactLeadOwner;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2225 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2281 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2250 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCCustomerMobileNo;
 >>>>>>> origin/master
@@ -7442,15 +7478,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2263 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCContactPhoneNo;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2227 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2283 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2262 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCContactLeadSource;
 >>>>>>> origin/master
@@ -7460,15 +7500,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2265 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCCustomerMobileNo;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2229 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2286 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2266 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCContactLeadName;
 >>>>>>> origin/master
@@ -7478,15 +7522,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2267 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCContactLeadSource;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2231 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2301 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2275 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCContactFaxNo;
 >>>>>>> origin/master
@@ -7496,15 +7544,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2269 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCContactLeadName;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2233 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2302 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2276 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCContactWebsite;
 >>>>>>> origin/master
@@ -7513,9 +7565,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 2235 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 2271 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
@@ -7530,7 +7579,6 @@ namespace CRM_User_Interface {
         #line 2277 "..\..\frmCRM_Adm_Dashbord.xaml"
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCContactEmail;
 >>>>>>> origin/master
@@ -7540,15 +7588,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2273 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCContactWebsite;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2238 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2312 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2278 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCCMailingStreet;
 >>>>>>> origin/master
@@ -7558,15 +7610,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2275 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCContactEmail;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2240 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2316 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2280 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCCMailingCity;
 >>>>>>> origin/master
@@ -7576,15 +7632,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2278 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCCMailingStreet;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2242 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2318 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2281 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCCMailingState;
 >>>>>>> origin/master
@@ -7594,15 +7654,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2280 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCCMailingCity;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2244 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2319 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2283 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCCMailingZipCode;
 >>>>>>> origin/master
@@ -7612,15 +7676,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2282 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCCMailingState;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2246 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2320 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2287 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCCMailingCountry;
 >>>>>>> origin/master
@@ -7630,15 +7698,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2284 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCCMailingZipCode;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2248 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2321 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2330 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCContactDesctiption;
 >>>>>>> origin/master
@@ -7648,15 +7720,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2286 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCCMailingCountry;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2249 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2330 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2332 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblFCountry_Copy4;
 >>>>>>> origin/master
@@ -7666,15 +7742,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2288 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCContactDesctiption;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2251 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2332 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2333 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCContactDOB;
 >>>>>>> origin/master
@@ -7712,15 +7792,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2293 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCContactOccupation;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2256 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2337 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2336 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCCOtherStreet;
 >>>>>>> origin/master
@@ -7730,15 +7814,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2294 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnCContactViewInfo_Close;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2258 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2338 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2341 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCCOtherCity;
 >>>>>>> origin/master
@@ -7748,15 +7836,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2296 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCCOtherStreet;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2260 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2340 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2354 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCCOtherState;
 >>>>>>> origin/master
@@ -7766,15 +7858,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2298 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCCOtherCity;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2262 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2342 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2377 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCCOtherZipCode;
 >>>>>>> origin/master
@@ -7784,15 +7880,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2300 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCCOtherState;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2264 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2343 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2381 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCCOtherCountry;
 >>>>>>> origin/master
@@ -7802,15 +7902,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2302 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCCOtherZipCode;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2266 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2344 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2392 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Documents.Hyperlink hlAddContactAttachment;
 >>>>>>> origin/master
@@ -7820,15 +7924,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2304 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCCOtherCountry;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2267 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2345 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2393 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtAddCampaignID;
 >>>>>>> origin/master
@@ -7838,15 +7946,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2306 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Documents.Hyperlink hlAddContactAttachment;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2268 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2347 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2394 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnContactDetails_ViewInfor_Back;
 >>>>>>> origin/master
@@ -7856,15 +7968,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2307 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtAddCampaignID;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2279 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2350 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2395 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TabItem tbCustNCustomers;
 >>>>>>> origin/master
@@ -7874,15 +7990,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2308 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnContactDetails_ViewInfor_Back;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2282 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2351 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2397 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TabItem tbCustSales;
 >>>>>>> origin/master
@@ -7892,15 +8012,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2321 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TabItem tbCustSales;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2296 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2352 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2398 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtSaleInvoiceNo;
 >>>>>>> origin/master
@@ -7910,15 +8034,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2329 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnSaleExit;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2298 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2355 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2413 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtSaleEmployeeName;
 >>>>>>> origin/master
@@ -7928,15 +8056,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2333 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtEMPID;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2299 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2356 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2414 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnSaleEmployeeNameFetch;
 >>>>>>> origin/master
@@ -7946,15 +8078,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2337 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblbillno;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2306 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2358 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2415 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtSaleCustomerID;
 >>>>>>> origin/master
@@ -7964,15 +8100,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2338 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtSaleEmployeeName;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2308 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2360 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2416 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtSaleCustomerName;
 >>>>>>> origin/master
@@ -7982,15 +8122,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2339 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnSaleEmployeeNameFetch;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2310 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2363 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2417 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtSaleCustMobile;
 >>>>>>> origin/master
@@ -8000,15 +8144,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2347 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtSaleCCustomerID;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2312 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2365 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2418 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtSaleCustAddress;
 >>>>>>> origin/master
@@ -8018,15 +8166,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2349 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtSaleCCustomerName;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2314 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2367 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2419 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtSaleCustEmailid;
 >>>>>>> origin/master
@@ -8036,15 +8188,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2351 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtSaleCCustMobile;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2315 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2369 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2427 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnSaleEmployeeNameFetch_Copy2;
 >>>>>>> origin/master
@@ -8054,15 +8210,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2353 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtSaleCCustAddress;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2328 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2371 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2428 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btninvoice_addProduct;
 >>>>>>> origin/master
@@ -8072,15 +8232,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2355 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtSaleCCustEmailid;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2329 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2373 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2429 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btninvoice_clearProduct;
 >>>>>>> origin/master
@@ -8090,15 +8254,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2356 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnSaleContactNameFetch;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2330 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2375 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2437 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtInvoice_SubToatal;
 >>>>>>> origin/master
@@ -8108,15 +8276,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2357 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtContactCDID11;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2331 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2377 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2438 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtInvoice_TotalPriceofQty;
 >>>>>>> origin/master
@@ -8126,15 +8298,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2358 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtvalueid;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2332 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2378 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2441 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtInvoiceActualPrice;
 >>>>>>> origin/master
@@ -8144,15 +8320,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2359 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtcustomeridnew;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2333 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2379 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2442 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtInvoice_Qty;
 >>>>>>> origin/master
@@ -8162,15 +8342,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2371 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btninvoice_addProduct;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2334 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2380 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2443 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtInvoice_AvailabeQty;
 >>>>>>> origin/master
@@ -8180,15 +8364,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2372 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btninvoice_clearProduct;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2335 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2384 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2446 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGrid Dgrd_InvoiceADDProducts;
 >>>>>>> origin/master
@@ -8198,15 +8386,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2373 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtInvoice_SubToatal;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2339 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2386 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2452 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.ComboBox cmbInvoice_Tax1;
 >>>>>>> origin/master
@@ -8216,15 +8408,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2374 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtInvoice_TotalPriceofQty;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2340 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2414 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2458 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblinvoiceSr;
 >>>>>>> origin/master
@@ -8234,15 +8430,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2375 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtInvoiceActualPrice;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2341 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2415 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2462 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label txtInvoice_remainingqty;
 >>>>>>> origin/master
@@ -8252,15 +8452,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2376 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtInvoice_Qty;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2343 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2416 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2468 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblInvcWarranty;
 >>>>>>> origin/master
@@ -8270,15 +8474,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2377 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtInvoice_AvailabeQty;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2344 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2417 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2469 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnSaleProductsFetch;
 >>>>>>> origin/master
@@ -8288,15 +8496,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2378 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGrid Dgrd_InvoiceADDProducts;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2345 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2418 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2470 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnSaleEmployeeNameFetch_Copy1;
 >>>>>>> origin/master
@@ -8306,15 +8518,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2382 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.ComboBox cmbInvoice_Tax1;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2346 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2419 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2471 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtInvoice_TotalPriceofQty_Copy;
 >>>>>>> origin/master
@@ -8323,9 +8539,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 2354 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 2384 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
@@ -8340,7 +8553,6 @@ namespace CRM_User_Interface {
         #line 2473 "..\..\frmCRM_Adm_Dashbord.xaml"
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtInvoice_InvcTotalAmount;
 >>>>>>> origin/master
@@ -8350,15 +8562,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2386 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblinvoiceSr;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2358 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2424 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2475 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnInvoice_Cash;
 >>>>>>> origin/master
@@ -8368,15 +8584,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2387 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label txtInvoice_remainingqty;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2362 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2425 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2476 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnInvoice_Cheque;
 >>>>>>> origin/master
@@ -8386,15 +8606,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2389 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblInvcWarranty;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2366 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2427 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2477 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnInvoice_Finance;
 >>>>>>> origin/master
@@ -8404,15 +8628,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2390 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnSaleProductsFetch;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2370 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2455 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2478 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnInvoice_Installment;
 >>>>>>> origin/master
@@ -8422,15 +8650,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2391 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtInvoice_Products;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2379 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2456 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2479 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Grid GRDInvoce_Cash;
 >>>>>>> origin/master
@@ -8440,15 +8672,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2392 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtProductID11;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2383 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2457 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2480 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtInvoice_C_InvcTotalAmount;
 >>>>>>> origin/master
@@ -8458,15 +8694,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2400 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtInvoice_InvcTotalAmount;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2384 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2458 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2481 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtInvoice_C_PaidAmount;
 >>>>>>> origin/master
@@ -8476,15 +8716,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2404 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnInvoice_Cash;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2385 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2459 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2482 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtInvoice_C_BalanceAmount;
 >>>>>>> origin/master
@@ -8494,15 +8738,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2409 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnInvoice_Cheque;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2387 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2460 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2484 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnInvoice_C_SaveandPrint;
 >>>>>>> origin/master
@@ -8512,15 +8760,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2413 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnInvoice_Finance;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2388 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2466 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2487 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button txtInvoice_C_Clear;
 >>>>>>> origin/master
@@ -8530,15 +8782,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2417 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnInvoice_Installment;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2389 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2467 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2502 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button txtInvoice_C_Exit;
 >>>>>>> origin/master
@@ -8548,15 +8804,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2421 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Grid GRDInvoce_Cash;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2390 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2468 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2503 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label ___No_Name_txtInvoice_C_Invoiceno;
 >>>>>>> origin/master
@@ -8566,15 +8826,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2425 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtInvoice_C_InvcTotalAmount;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2393 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2477 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2504 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Grid GRDInvoice_Cheque;
 >>>>>>> origin/master
@@ -8584,15 +8848,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2426 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtInvoice_C_PaidAmount;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2407 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2481 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2513 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox btnInvoice_CH_InvcTAmount;
 >>>>>>> origin/master
@@ -8602,15 +8870,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2427 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtInvoice_C_BalanceAmount;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2408 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2491 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2517 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox btnInvoice_CH_chequeno;
 >>>>>>> origin/master
@@ -8620,15 +8892,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2429 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnInvoice_C_SaveandPrint;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2409 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2493 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2519 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox btnInvoice_CH_Amount;
 >>>>>>> origin/master
@@ -8638,15 +8914,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2430 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button txtInvoice_C_Clear;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2410 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2494 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2520 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblInvoice_CH_Invcno;
 >>>>>>> origin/master
@@ -8656,15 +8936,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2431 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button txtInvoice_C_Exit;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2411 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2496 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2521 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnInvoice_CH_SaveandPrint;
 >>>>>>> origin/master
@@ -8674,15 +8958,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2432 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label ___No_Name_txtInvoice_C_Invoiceno;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2412 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2497 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2522 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnInvoice_CH_Clear;
 >>>>>>> origin/master
@@ -8692,15 +8980,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2435 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Grid GRDInvoice_Cheque;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2413 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2498 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2531 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnInvoice_CH_Exit;
 >>>>>>> origin/master
@@ -8710,15 +9002,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2452 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox btnInvoice_CH_InvcTAmount;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2415 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2499 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2533 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.ComboBox cmbInvoic_CH_BankName;
 >>>>>>> origin/master
@@ -8728,15 +9024,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2453 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox btnInvoice_CH_chequeno;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2417 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2501 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2535 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DatePicker dpInvoice_CH_ChequeDate;
 >>>>>>> origin/master
@@ -8746,15 +9046,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2454 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox btnInvoice_CH_Amount;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2420 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2503 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2536 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Grid GRDInvoice_Finance;
 >>>>>>> origin/master
@@ -8764,15 +9068,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2455 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblInvoice_CH_Invcno;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2421 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2504 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2538 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Grid GRDInvoice_Installment;
 >>>>>>> origin/master
@@ -8782,15 +9090,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2456 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnInvoice_CH_SaveandPrint;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2426 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2512 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2539 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtInvoice_InstalTotalAmount;
 >>>>>>> origin/master
@@ -8800,15 +9112,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2457 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnInvoice_CH_Clear;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2427 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2513 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2541 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtInvoice_InstalPaidAmount;
 >>>>>>> origin/master
@@ -8818,15 +9134,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2458 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnInvoice_CH_Exit;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2430 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2514 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2543 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtInvoice_InstalBalanceAmount;
 >>>>>>> origin/master
@@ -8836,15 +9156,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2460 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.ComboBox cmbInvoic_CH_BankName;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2431 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2515 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2544 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.RadioButton rdo_Invoice_Yearlyinstallment;
 >>>>>>> origin/master
@@ -8854,15 +9178,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2462 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DatePicker dpInvoice_CH_ChequeDate;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2432 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2516 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2545 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.RadioButton rdoInvoice_rdo_Invoice_Monthlyinstallment;
 >>>>>>> origin/master
@@ -8872,15 +9200,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2465 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Grid GRDInvoice_Finance;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2434 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2517 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2546 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.ComboBox cmdInvoice_InstalYear;
 >>>>>>> origin/master
@@ -8890,15 +9222,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2466 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Grid GRDInvoice_Installment;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2435 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2518 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2548 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.ComboBox cmdInvoice_InstalMonth;
 >>>>>>> origin/master
@@ -8908,15 +9244,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2471 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtInvoice_InstalTotalAmount;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2437 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2519 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2551 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtInvoice_InstalAmountPermonth;
 >>>>>>> origin/master
@@ -8926,15 +9266,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2472 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtInvoice_InstalPaidAmount;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2438 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2520 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2552 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DatePicker dpInvoice_Instalpermonth;
 >>>>>>> origin/master
@@ -8944,15 +9288,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2475 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtInvoice_InstalBalanceAmount;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2439 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2522 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2553 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnInvoice_InstalSaveandPrint;
 >>>>>>> origin/master
@@ -8962,15 +9310,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2476 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.RadioButton rdo_Invoice_Yearlyinstallment;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2440 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2533 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2556 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnInvoice_InstalClear;
 >>>>>>> origin/master
@@ -8980,15 +9332,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2477 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.RadioButton rdoInvoice_rdo_Invoice_Monthlyinstallment;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2441 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2534 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2557 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnInvoice_InstalExit;
 >>>>>>> origin/master
@@ -8998,15 +9354,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2479 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.ComboBox cmdInvoice_InstalYear;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2442 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2535 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2559 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblInvoice_Instal;
 >>>>>>> origin/master
@@ -9016,15 +9376,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2480 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.ComboBox cmdInvoice_InstalMonth;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2454 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2536 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2561 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TabItem tbCustCampaigns;
 >>>>>>> origin/master
@@ -9034,15 +9398,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2482 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtInvoice_InstalAmountPermonth;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2457 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2537 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2564 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TabItem tbCustReports;
 >>>>>>> origin/master
@@ -9052,15 +9420,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2483 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DatePicker dpInvoice_Instalpermonth;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2461 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2542 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2566 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TabItem tbCustTimeLine;
 >>>>>>> origin/master
@@ -9070,15 +9442,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2484 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnInvoice_InstalSaveandPrint;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2473 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2545 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2568 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Grid grd_View_Campaign;
 >>>>>>> origin/master
@@ -9088,15 +9464,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2485 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnInvoice_InstalClear;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2477 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2548 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2570 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Image imgDealerDetails15;
 >>>>>>> origin/master
@@ -9105,9 +9485,8 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-        #line 2486 "..\..\frmCRM_Adm_Dashbord.xaml"
 <<<<<<< HEAD
-=======
+        #line 2486 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnInvoice_InstalExit;
 =======
@@ -9120,7 +9499,6 @@ namespace CRM_User_Interface {
         #line 2572 "..\..\frmCRM_Adm_Dashbord.xaml"
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtSearch_CampaignName;
 >>>>>>> origin/master
@@ -9129,9 +9507,8 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-        #line 2487 "..\..\frmCRM_Adm_Dashbord.xaml"
 <<<<<<< HEAD
-=======
+        #line 2487 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblInvoice_Instal;
 =======
@@ -9144,7 +9521,6 @@ namespace CRM_User_Interface {
         #line 2574 "..\..\frmCRM_Adm_Dashbord.xaml"
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btn_View_Campaign_Refresh;
 >>>>>>> origin/master
@@ -9154,15 +9530,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2501 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TabItem tbCustCampaigns;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2488 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2554 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2576 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btn_View_Campaign_Exit;
 >>>>>>> origin/master
@@ -9172,15 +9552,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2504 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TabItem tbCustReports;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2489 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2555 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2578 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtAdm_EmployeeID4;
 >>>>>>> origin/master
@@ -9190,15 +9574,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2508 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TabItem tbCustTimeLine;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2491 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2556 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2579 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DatePicker dtpFrom_Campain;
 >>>>>>> origin/master
@@ -9208,15 +9596,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2518 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Grid grd_View_Campaign;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2492 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2559 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2580 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DatePicker dtpTo_Campain;
 >>>>>>> origin/master
@@ -9226,15 +9618,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2522 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Image imgDealerDetails15;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2494 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2560 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2581 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtCampID;
 >>>>>>> origin/master
@@ -9244,15 +9640,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2531 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtSearch_CampaignName;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2498 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2562 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2585 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGrid dgvCampaginsDetails;
 >>>>>>> origin/master
@@ -9262,15 +9662,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2532 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btn_View_Campaign_Refresh;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2541 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2577 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2587 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdFinalPro_ID12;
 >>>>>>> origin/master
@@ -9280,15 +9684,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2533 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btn_View_Campaign_Exit;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2543 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2578 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2615 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdCampaignName;
 >>>>>>> origin/master
@@ -9298,15 +9706,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2534 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtAdm_EmployeeID4;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2544 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2579 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2616 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdFinalCampaignType;
 >>>>>>> origin/master
@@ -9316,15 +9728,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2536 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DatePicker dtpFrom_Campain;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2545 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2580 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2617 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdStartDate;
 >>>>>>> origin/master
@@ -9334,15 +9750,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2537 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DatePicker dtpTo_Campain;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2546 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2581 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2618 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdEndDate;
 >>>>>>> origin/master
@@ -9352,15 +9772,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2539 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtCampID;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2547 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2582 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2619 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdStatus;
 >>>>>>> origin/master
@@ -9370,15 +9794,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2543 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGrid dgvCampaginsDetails;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2552 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2590 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2620 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btn_View_Campaign_Delete;
 >>>>>>> origin/master
@@ -9388,15 +9816,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2586 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdFinalPro_ID12;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2565 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2596 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2624 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btn_View_Campaign_AddNewCampaign;
 >>>>>>> origin/master
@@ -9405,9 +9837,8 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-        #line 2588 "..\..\frmCRM_Adm_Dashbord.xaml"
 <<<<<<< HEAD
-=======
+        #line 2588 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdCampaignName;
 =======
@@ -9420,7 +9851,6 @@ namespace CRM_User_Interface {
         #line 2625 "..\..\frmCRM_Adm_Dashbord.xaml"
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Grid grdCreateCampaign;
 >>>>>>> origin/master
@@ -9430,15 +9860,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2589 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdFinalCampaignType;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2592 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2599 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2626 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Image imgDealerDetails14;
 >>>>>>> origin/master
@@ -9448,15 +9882,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2590 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdStartDate;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2603 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2604 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2628 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DatePicker dp_CompStartDate;
 >>>>>>> origin/master
@@ -9466,15 +9904,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2591 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdEndDate;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2604 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2608 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2656 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnSavePhoto7;
 >>>>>>> origin/master
@@ -9484,15 +9926,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2592 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdStatus;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2605 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2614 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2657 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtMaxID7;
 >>>>>>> origin/master
@@ -9502,15 +9948,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2597 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btn_View_Campaign_Delete;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2606 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2615 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2658 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtEmployeeID7;
 >>>>>>> origin/master
@@ -9520,15 +9970,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2610 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btn_View_Campaign_AddNewCampaign;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2608 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2616 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2659 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtCampaginName;
 >>>>>>> origin/master
@@ -9538,15 +9992,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2633 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Grid grdCreateCampaign;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2609 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2617 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2660 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.ComboBox cmbCampaignType;
 >>>>>>> origin/master
@@ -9556,15 +10014,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2637 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Image imgDealerDetails14;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2624 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2620 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2661 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtCampExpectedRevenue;
 >>>>>>> origin/master
@@ -9574,15 +10036,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2648 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DatePicker dp_CompStartDate;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2625 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2621 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2667 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label Phone_No_5;
 >>>>>>> origin/master
@@ -9592,15 +10058,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2649 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnSavePhoto7;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2626 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2622 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2668 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label Phone_No_3_Copy6;
 >>>>>>> origin/master
@@ -9610,15 +10080,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2650 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtMaxID7;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2627 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2637 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2669 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtCampBudgetedCost;
 >>>>>>> origin/master
@@ -9628,15 +10102,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2651 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtEmployeeID7;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2628 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2639 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2678 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label Phone_No_3_Copy7;
 >>>>>>> origin/master
@@ -9646,15 +10124,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2653 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtCampaginName;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2629 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2640 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2682 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtCampExpectedResponse;
 >>>>>>> origin/master
@@ -9664,15 +10146,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2654 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.ComboBox cmbCampaignType;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2630 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2641 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2692 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnCampBudgCalc;
 >>>>>>> origin/master
@@ -9682,15 +10168,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2669 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtCampExpectedRevenue;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2638 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2642 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2694 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DatePicker dp_CompEndDate;
 >>>>>>> origin/master
@@ -9700,15 +10190,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2670 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label Phone_No_5;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2639 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2651 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2695 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnCampExpendedRevenueCalc;
 >>>>>>> origin/master
@@ -9718,15 +10212,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2671 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label Phone_No_3_Copy6;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2640 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2653 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2697 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.ComboBox cmbCampaignStatus;
 >>>>>>> origin/master
@@ -9736,15 +10234,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2672 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtCampBudgetedCost;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2648 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2655 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2698 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtMAX_CampaignID;
 >>>>>>> origin/master
@@ -9754,15 +10256,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2673 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label Phone_No_3_Copy7;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2649 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2656 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2699 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtCampaignID;
 >>>>>>> origin/master
@@ -9772,15 +10278,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2674 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtCampExpectedResponse;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2652 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2658 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2700 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnCamp_Save;
 >>>>>>> origin/master
@@ -9790,15 +10300,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2675 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnCampBudgCalc;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2653 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2660 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2702 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnfCamp_Clear;
 >>>>>>> origin/master
@@ -9808,15 +10322,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2683 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DatePicker dp_CompEndDate;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2654 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2661 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2704 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnCamp_Exit;
 >>>>>>> origin/master
@@ -9826,15 +10344,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2684 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnCampExpendedRevenueCalc;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2657 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2662 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2705 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DatePicker dp_Cdate1;
 >>>>>>> origin/master
@@ -9844,8 +10366,6 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2685 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.ComboBox cmbCampaignStatus;
@@ -9854,8 +10374,11 @@ namespace CRM_User_Interface {
         #line 2663 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2663 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2713 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtCampDescription;
 >>>>>>> origin/master
@@ -9865,15 +10388,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2693 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtMAX_CampaignID;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2669 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2665 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2714 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Grid grd_View_Campaigns;
 >>>>>>> origin/master
@@ -9883,15 +10410,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2694 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtCampaignID;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2673 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2668 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2715 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Image imgDealerDetails16;
 >>>>>>> origin/master
@@ -9901,15 +10432,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2697 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnCamp_Save;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2679 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2669 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2716 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnSavePhoto8;
 >>>>>>> origin/master
@@ -9919,15 +10454,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2698 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnfCamp_Clear;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2680 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2670 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2717 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtMaxID8;
 >>>>>>> origin/master
@@ -9937,15 +10476,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2699 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnCamp_Exit;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2681 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2673 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2718 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtEmployeeID8;
 >>>>>>> origin/master
@@ -9954,9 +10497,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 2682 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 2702 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
@@ -9971,7 +10511,6 @@ namespace CRM_User_Interface {
         #line 2719 "..\..\frmCRM_Adm_Dashbord.xaml"
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblNewCampaigns;
 >>>>>>> origin/master
@@ -9981,15 +10520,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2708 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtCampDescription;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2684 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2676 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2720 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCCampaignsType;
 >>>>>>> origin/master
@@ -9999,15 +10542,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2714 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Grid grd_View_Campaigns;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2686 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2679 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2721 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCStatus;
 >>>>>>> origin/master
@@ -10017,15 +10564,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2718 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Image imgDealerDetails16;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2687 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2682 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2723 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnCampaign_ViewInformation;
 >>>>>>> origin/master
@@ -10035,15 +10586,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2724 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnSavePhoto8;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2688 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2684 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2734 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtCampaignsViewID;
 >>>>>>> origin/master
@@ -10053,15 +10608,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2725 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtMaxID8;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2689 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2686 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2735 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCStartDate;
 >>>>>>> origin/master
@@ -10071,15 +10630,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2726 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtEmployeeID8;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2690 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2688 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2736 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCStartDate_Copy;
 >>>>>>> origin/master
@@ -10089,15 +10652,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2727 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblNewCampaigns;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2691 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2690 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2737 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCEndDate;
 >>>>>>> origin/master
@@ -10106,8 +10673,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-=======
 <<<<<<< HEAD
         #line 2729 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
@@ -10117,8 +10682,11 @@ namespace CRM_User_Interface {
         #line 2692 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2692 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2738 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCStartDate_Copy3;
 >>>>>>> origin/master
@@ -10128,15 +10696,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2731 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCStatus;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2693 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2694 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2743 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCEndDate_Copy;
 >>>>>>> origin/master
@@ -10146,15 +10718,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2732 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnCampaign_ViewInformation;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2695 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2696 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2746 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnCampaignClose;
 >>>>>>> origin/master
@@ -10164,15 +10740,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2733 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtCampaignsViewID;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2698 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2697 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2749 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGrid dgvCampaignNotes;
 >>>>>>> origin/master
@@ -10182,15 +10762,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2734 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCStartDate;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2713 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2698 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2750 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdFID1;
 >>>>>>> origin/master
@@ -10200,15 +10784,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2735 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCStartDate_Copy;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2714 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2699 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2751 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdFComments1;
 >>>>>>> origin/master
@@ -10218,15 +10806,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2736 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCEndDate;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2715 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2701 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2755 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdFCommentsDate;
 >>>>>>> origin/master
@@ -10236,15 +10828,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2737 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCStartDate_Copy3;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2724 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2706 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2756 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGrid dgvCAttachments;
 >>>>>>> origin/master
@@ -10254,15 +10850,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2738 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCEndDate_Copy;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2728 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2722 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2757 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Grid grdFollup_Activity1;
 >>>>>>> origin/master
@@ -10272,15 +10872,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2740 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnCampaignClose;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2730 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2723 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2760 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnFA_ActivitySave1;
 >>>>>>> origin/master
@@ -10290,15 +10894,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2743 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGrid dgvCampaignNotes;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2731 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2724 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2761 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnFA_ActivityCancel1;
 >>>>>>> origin/master
@@ -10308,15 +10916,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2758 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdFID1;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2732 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2725 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2763 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblFValidation3;
 >>>>>>> origin/master
@@ -10326,15 +10938,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2759 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdFComments1;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2733 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2726 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2778 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.ComboBox cmbFASubject1;
 >>>>>>> origin/master
@@ -10344,15 +10960,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2760 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdFCommentsDate;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2742 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2727 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2779 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DatePicker dtpFADate1;
 >>>>>>> origin/master
@@ -10362,15 +10982,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2769 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGrid dgvCAttachments;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2744 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2732 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2780 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.ComboBox cmbFALeadOwner1;
 >>>>>>> origin/master
@@ -10380,15 +11004,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2773 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Grid grdFollup_Activity1;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2746 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2733 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2781 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtFANote1;
 >>>>>>> origin/master
@@ -10398,15 +11026,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2775 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnFA_ActivitySave1;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2747 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2734 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2782 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblFAValidation2;
 >>>>>>> origin/master
@@ -10416,15 +11048,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2776 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnFA_ActivityCancel1;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2749 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2735 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2783 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Documents.Hyperlink hlCCampaignsNots;
 >>>>>>> origin/master
@@ -10434,15 +11070,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2777 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblFValidation3;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2750 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2736 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2791 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtCampaignNotesID;
 >>>>>>> origin/master
@@ -10452,15 +11092,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2778 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.ComboBox cmbFASubject1;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2752 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2739 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2797 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Grid grdCampaignNotes;
 >>>>>>> origin/master
@@ -10470,15 +11114,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2787 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DatePicker dtpFADate1;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2754 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2748 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2799 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtCCampaignNotes;
 >>>>>>> origin/master
@@ -10488,15 +11136,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2789 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.ComboBox cmbFALeadOwner1;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2755 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2749 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2800 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnCCampaignNotes_Save;
 >>>>>>> origin/master
@@ -10506,15 +11158,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2791 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtFANote1;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2756 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2760 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2805 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnCCampaignNotes_Cancel;
 >>>>>>> origin/master
@@ -10524,15 +11180,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2792 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblFAValidation2;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2757 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2764 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2809 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCampValidation;
 >>>>>>> origin/master
@@ -10542,15 +11202,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2794 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Documents.Hyperlink hlCCampaignsNots;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2759 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2773 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2815 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Grid grdFollup_Attachment1;
 >>>>>>> origin/master
@@ -10560,15 +11224,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2795 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtCampaignNotesID;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2762 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2774 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2816 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnFA_Attached1;
 >>>>>>> origin/master
@@ -10578,15 +11246,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2797 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Grid grdCampaignNotes;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2763 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2775 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2817 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnFA_AttachedCancel1;
 >>>>>>> origin/master
@@ -10596,15 +11268,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2799 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtCCampaignNotes;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2764 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2777 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2818 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblFValidation5;
 >>>>>>> origin/master
@@ -10614,15 +11290,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2800 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnCCampaignNotes_Save;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2767 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2778 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2821 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblFAValidation3;
 >>>>>>> origin/master
@@ -10632,15 +11312,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2801 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnCCampaignNotes_Cancel;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2768 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2781 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2822 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnFA_AttachChoose1;
 >>>>>>> origin/master
@@ -10650,15 +11334,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2802 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCampValidation;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2770 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2818 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2823 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txt2;
 >>>>>>> origin/master
@@ -10668,15 +11356,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2804 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Grid grdFollup_Attachment1;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2772 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2820 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2838 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Grid grd_CampaignInformation;
 >>>>>>> origin/master
@@ -10686,15 +11378,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2807 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnFA_Attached1;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2775 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2821 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2840 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCCampaignName;
 >>>>>>> origin/master
@@ -10704,15 +11400,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2808 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnFA_AttachedCancel1;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2777 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2822 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2841 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCCStartDate;
 >>>>>>> origin/master
@@ -10722,15 +11422,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2809 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblFValidation5;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2779 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2823 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2842 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCCRevenue;
 >>>>>>> origin/master
@@ -10740,15 +11444,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2812 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblFAValidation3;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2781 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2828 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2843 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCCStatus;
 >>>>>>> origin/master
@@ -10758,15 +11466,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2813 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnFA_AttachChoose1;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2783 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2829 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2852 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCCampaignType;
 >>>>>>> origin/master
@@ -10776,15 +11488,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2815 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txt2;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2785 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2842 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2854 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCCBudgetedCost;
 >>>>>>> origin/master
@@ -10794,15 +11510,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2817 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Grid grd_CampaignInformation;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2787 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2855 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2856 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCCExpectedResponse;
 >>>>>>> origin/master
@@ -10812,15 +11532,15 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2820 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCCampaignName;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2789 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2879 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCCEndDate;
 >>>>>>> origin/master
@@ -10830,15 +11550,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2822 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCCStartDate;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2790 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2883 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2859 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCDesctiption;
 >>>>>>> origin/master
@@ -10848,15 +11572,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2824 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCCRevenue;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2791 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2893 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2861 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblFCountry_Copy2;
 >>>>>>> origin/master
@@ -10866,15 +11594,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2826 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCCStatus;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2792 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2895 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2862 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnViewCampaigns_Close;
 >>>>>>> origin/master
@@ -10884,15 +11616,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2828 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCCampaignType;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2796 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2896 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2863 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Documents.Hyperlink hlCLeads;
 >>>>>>> origin/master
@@ -10902,15 +11638,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2830 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCCBudgetedCost;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2798 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2898 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2864 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGrid dgvCLeads;
 >>>>>>> origin/master
@@ -10920,15 +11660,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2832 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCCExpectedResponse;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2826 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2899 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2866 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdLeadID;
 >>>>>>> origin/master
@@ -10938,15 +11682,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2834 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCCEndDate;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2827 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2900 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2869 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdLeadName;
 >>>>>>> origin/master
@@ -10956,15 +11704,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2835 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCDesctiption;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2828 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2901 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2870 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdLeadSource;
 >>>>>>> origin/master
@@ -10974,15 +11726,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2836 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblFCountry_Copy2;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2829 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2903 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2871 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdLeadMobileNo;
 >>>>>>> origin/master
@@ -10992,15 +11748,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2837 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnViewCampaigns_Close;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2830 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2905 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2874 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdLeadPhoneNo;
 >>>>>>> origin/master
@@ -11010,15 +11770,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2841 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Documents.Hyperlink hlCLeads;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2831 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2906 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2875 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdLeadStatus;
 >>>>>>> origin/master
@@ -11028,15 +11792,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2843 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGrid dgvCLeads;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2835 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2914 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2877 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Documents.Hyperlink hlMassUpdateMbStatus;
 >>>>>>> origin/master
@@ -11046,15 +11814,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2871 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdLeadID;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2836 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2915 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2880 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtCampaignLeadID;
 >>>>>>> origin/master
@@ -11064,15 +11836,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2872 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdLeadName;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2837 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2916 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2883 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtCampaignLeadFollowupID;
 >>>>>>> origin/master
@@ -11082,15 +11858,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2873 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdLeadSource;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2839 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2917 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2885 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGrid dgvCampLead;
 >>>>>>> origin/master
@@ -11100,15 +11880,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2874 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdLeadMobileNo;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2867 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2918 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2887 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdLeadID2;
 >>>>>>> origin/master
@@ -11118,15 +11902,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2875 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdLeadPhoneNo;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2868 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2919 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2889 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdCampLeadName;
 >>>>>>> origin/master
@@ -11136,15 +11924,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2876 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdLeadStatus;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2869 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2920 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2891 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdLeadSource2;
 >>>>>>> origin/master
@@ -11154,15 +11946,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2880 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Documents.Hyperlink hlMassUpdateMbStatus;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2870 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2921 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2893 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdLeadMobileNo2;
 >>>>>>> origin/master
@@ -11172,15 +11968,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2881 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtCampaignLeadID;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2871 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2922 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2895 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdLeadPhoneNo2;
 >>>>>>> origin/master
@@ -11190,15 +11990,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2882 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtCampaignLeadFollowupID;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2872 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2924 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2897 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdLeadStatus2;
 >>>>>>> origin/master
@@ -11208,15 +12012,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2884 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGrid dgvCampLead;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2878 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2939 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2898 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Documents.Hyperlink hlCampLeads;
 >>>>>>> origin/master
@@ -11226,15 +12034,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2912 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdLeadID2;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2879 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2942 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2899 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtCContactCustID;
 >>>>>>> origin/master
@@ -11244,15 +12056,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2913 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdCampLeadName;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2880 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2945 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2900 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnCampaignBack;
 >>>>>>> origin/master
@@ -11262,15 +12078,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2914 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdLeadSource2;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2889 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2946 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2902 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Grid grd_LeadCampain;
 >>>>>>> origin/master
@@ -11280,15 +12100,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2915 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdLeadMobileNo2;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2893 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2947 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2907 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Image imgDealerDetails17;
 >>>>>>> origin/master
@@ -11298,15 +12122,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2916 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdLeadPhoneNo2;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2903 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2949 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2923 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtLeadFollowupFirstName;
 >>>>>>> origin/master
@@ -11316,15 +12144,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2917 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdLeadStatus2;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2905 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2952 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2924 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DatePicker dp_LeadDob;
 >>>>>>> origin/master
@@ -11334,15 +12166,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2923 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Documents.Hyperlink hlCampLeads;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2906 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2955 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2925 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblLeadWalkin;
 >>>>>>> origin/master
@@ -11352,15 +12188,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2924 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtCContactCustID;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2908 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2956 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2926 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtLeadFollowupLastName;
 >>>>>>> origin/master
@@ -11370,15 +12210,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2925 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnCampaignBack;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2909 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2957 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2927 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnSavePhoto9;
 >>>>>>> origin/master
@@ -11388,15 +12232,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2934 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Grid grd_LeadCampain;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2910 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2958 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2928 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtMaxID9;
 >>>>>>> origin/master
@@ -11406,15 +12254,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2938 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Image imgDealerDetails17;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2911 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2959 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2933 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtEmployeeID9;
 >>>>>>> origin/master
@@ -11424,15 +12276,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2948 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtLeadFollowupFirstName;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2913 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2960 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2934 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.ComboBox cmbLeadFollowup_Occupation;
 >>>>>>> origin/master
@@ -11442,15 +12298,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2950 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DatePicker dp_LeadDob;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2915 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2961 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2935 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.ComboBox cmbLeadEmployeename;
 >>>>>>> origin/master
@@ -11460,15 +12320,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2951 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblLeadWalkin;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2916 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2962 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2936 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.ComboBox cmbLeadFollowpTitle;
 >>>>>>> origin/master
@@ -11478,15 +12342,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2953 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtLeadFollowupLastName;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2924 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2966 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2937 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtLeadMobile;
 >>>>>>> origin/master
@@ -11496,15 +12364,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2954 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnSavePhoto9;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2925 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2967 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2940 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label Phone_No_6;
 >>>>>>> origin/master
@@ -11514,15 +12386,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2955 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtMaxID9;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2926 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2968 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2949 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtLeadFollowup_PhoneNo;
 >>>>>>> origin/master
@@ -11532,15 +12408,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2956 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtEmployeeID9;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2927 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2973 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2950 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label Phone_No_3_Copy5;
 >>>>>>> origin/master
@@ -11550,15 +12430,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2958 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.ComboBox cmbLeadFollowup_Occupation;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2928 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2979 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2962 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtLeadEmailid;
 >>>>>>> origin/master
@@ -11567,9 +12451,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 2929 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 2960 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
@@ -11584,7 +12465,6 @@ namespace CRM_User_Interface {
         #line 2966 "..\..\frmCRM_Adm_Dashbord.xaml"
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label Phone_No_3_Copy8;
 >>>>>>> origin/master
@@ -11594,15 +12474,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2961 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.ComboBox cmbLeadFollowpTitle;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2930 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2989 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2972 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtLeadFollowFaxNo;
 >>>>>>> origin/master
@@ -11612,15 +12496,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2969 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtLeadMobile;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2931 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2990 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2973 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label Phone_No_3_Copy9;
 >>>>>>> origin/master
@@ -11630,15 +12518,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2970 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label Phone_No_6;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2932 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2991 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2974 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtLeadFollowWebsite;
 >>>>>>> origin/master
@@ -11648,15 +12540,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2971 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtLeadFollowup_PhoneNo;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2934 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2993 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2976 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.ComboBox cmbLeadSourceofEnq;
 >>>>>>> origin/master
@@ -11666,15 +12562,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2972 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label Phone_No_3_Copy5;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2945 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2994 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2977 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label Phone_No_3_Copy10;
 >>>>>>> origin/master
@@ -11684,15 +12584,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2973 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtLeadEmailid;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2946 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 2997 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2980 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtLeadFollowAnnualRevenue;
 >>>>>>> origin/master
@@ -11702,15 +12606,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2974 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label Phone_No_3_Copy8;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2947 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3000 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2983 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnFollowCalc1;
 >>>>>>> origin/master
@@ -11728,15 +12636,19 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-=======
         #line 2976 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label Phone_No_3_Copy9;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2948 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3002 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2985 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtLeadCampainID;
 >>>>>>> origin/master
@@ -11746,15 +12658,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2977 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtLeadFollowWebsite;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2949 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3004 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2987 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtLeadStatus;
 >>>>>>> origin/master
@@ -11764,15 +12680,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2979 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.ComboBox cmbLeadSourceofEnq;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2954 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3006 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2989 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtLeadAddress;
 >>>>>>> origin/master
@@ -11782,15 +12702,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2990 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label Phone_No_3_Copy10;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2957 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3007 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2990 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtLeadFollowup_Zip;
 >>>>>>> origin/master
@@ -11800,15 +12724,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2991 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtLeadFollowAnnualRevenue;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2960 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3008 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2991 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.ComboBox cmbLeadFollowup_City;
 >>>>>>> origin/master
@@ -11818,15 +12746,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2992 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnFollowCalc1;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2961 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3009 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2992 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.ComboBox cmbLeadFollowup_State;
 >>>>>>> origin/master
@@ -11836,15 +12768,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2993 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtLeadCampainID;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2962 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3010 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2993 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.ComboBox cmbLeadFollowup_Country;
 >>>>>>> origin/master
@@ -11854,15 +12790,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2994 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtLeadStatus;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2966 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3011 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2994 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnLeadFollowup_Save;
 >>>>>>> origin/master
@@ -11872,15 +12812,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 2999 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtLeadAddress;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2967 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3013 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2996 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnLeadfFollowup_Clear;
 >>>>>>> origin/master
@@ -11890,15 +12834,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3002 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtLeadFollowup_Zip;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2968 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3016 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 2999 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnLeadFollowup_Exit;
 >>>>>>> origin/master
@@ -11924,15 +12872,19 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-=======
         #line 3007 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.ComboBox cmbLeadFollowup_Country;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2971 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3027 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3010 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Documents.Hyperlink hlLeadAddProducts;
 >>>>>>> origin/master
@@ -11942,15 +12894,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3011 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnLeadFollowup_Save;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2972 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3028 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3011 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtLeadProductID;
 >>>>>>> origin/master
@@ -11960,15 +12916,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3012 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnLeadfFollowup_Clear;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2974 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3029 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3012 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGrid dgvLeadFoll_AddProducts;
 >>>>>>> origin/master
@@ -11978,15 +12938,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3013 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnLeadFollowup_Exit;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2989 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3032 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3015 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdFinalPro_ID2;
 >>>>>>> origin/master
@@ -11996,15 +12960,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3016 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Documents.Hyperlink hlLeadAddProducts;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2990 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3033 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3016 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdFinalPro_Name3;
 >>>>>>> origin/master
@@ -12014,15 +12982,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3017 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtLeadProductID;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2991 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3039 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3022 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdFinalPro_MobileNo3;
 >>>>>>> origin/master
@@ -12032,15 +13004,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3019 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGrid dgvLeadFoll_AddProducts;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2992 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3043 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3026 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdFinalPro_PhoneNo3;
 >>>>>>> origin/master
@@ -12050,15 +13026,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3034 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdFinalPro_ID2;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2993 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3054 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3037 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdFinalPro_Products3;
 >>>>>>> origin/master
@@ -12068,15 +13048,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3035 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdFinalPro_Name3;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 2994 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3055 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3038 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdFinalPro_Qty3;
 >>>>>>> origin/master
@@ -12086,15 +13070,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3036 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdFinalPro_MobileNo3;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 3002 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3056 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3039 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DatePicker dp_Leaddate;
 >>>>>>> origin/master
@@ -12104,15 +13092,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3037 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdFinalPro_PhoneNo3;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 3008 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3057 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3040 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtLeadFollowupDescription;
 >>>>>>> origin/master
@@ -12122,15 +13114,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3038 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdFinalPro_Products3;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 3010 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3058 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3041 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtLeadMax_FolloupID;
 >>>>>>> origin/master
@@ -12140,15 +13136,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3039 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdFinalPro_Qty3;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 3011 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3062 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3045 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtLeadFollowupID;
 >>>>>>> origin/master
@@ -12158,15 +13158,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3047 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DatePicker dp_Leaddate;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 3016 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3065 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3048 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Grid grd_LeadUPMSCampaigns;
 >>>>>>> origin/master
@@ -12176,15 +13180,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3053 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtLeadFollowupDescription;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 3020 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3067 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3050 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Image imgDealerDetails18;
 >>>>>>> origin/master
@@ -12194,15 +13202,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3055 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtLeadMax_FolloupID;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 3026 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3078 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3061 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnSavePhoto10;
 >>>>>>> origin/master
@@ -12212,15 +13224,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3056 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtLeadFollowupID;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 3027 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3079 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3062 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtMaxID10;
 >>>>>>> origin/master
@@ -12230,15 +13246,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3061 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Grid grd_LeadUPMSCampaigns;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 3028 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3080 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3063 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtEmployeeID10;
 >>>>>>> origin/master
@@ -12248,15 +13268,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3065 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Image imgDealerDetails18;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 3029 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3081 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3064 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCStartDate_Copy1;
 >>>>>>> origin/master
@@ -12266,15 +13290,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3071 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnSavePhoto10;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 3032 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3082 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3065 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtMassLeadSearch;
 >>>>>>> origin/master
@@ -12284,15 +13312,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3072 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtMaxID10;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 3033 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3083 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3066 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtMassLeadID;
 >>>>>>> origin/master
@@ -12302,15 +13334,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3073 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtEmployeeID10;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 3034 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3090 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3073 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.ComboBox cmbLeadCampainStatus;
 >>>>>>> origin/master
@@ -12320,15 +13356,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3074 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCStartDate_Copy1;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 3049 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3092 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3075 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Grid grdFollup_Activity2;
 >>>>>>> origin/master
@@ -12346,8 +13386,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-=======
         #line 3078 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtMassLeadID;
@@ -12361,8 +13399,14 @@ namespace CRM_User_Interface {
         internal System.Windows.Controls.ComboBox cmbLeadCampainStatus;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 3051 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3093 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3076 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnFA_ActivitySave2;
 >>>>>>> origin/master
@@ -12372,15 +13416,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3094 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Grid grdFollup_Activity2;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 3052 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3094 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3077 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnFA_ActivityCancel2;
 >>>>>>> origin/master
@@ -12390,15 +13438,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3096 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnFA_ActivitySave2;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 3053 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3095 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3078 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblFValidation4;
 >>>>>>> origin/master
@@ -12408,15 +13460,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3097 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnFA_ActivityCancel2;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 3054 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3105 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3088 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.ComboBox cmbFASubject2;
 >>>>>>> origin/master
@@ -12426,15 +13482,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3098 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblFValidation4;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 3063 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3107 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3090 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DatePicker dtpFADate2;
 >>>>>>> origin/master
@@ -12444,15 +13504,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3099 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.ComboBox cmbFASubject2;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 3065 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3109 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3092 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.ComboBox cmbFALeadOwner2;
 >>>>>>> origin/master
@@ -12462,15 +13526,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3108 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DatePicker dtpFADate2;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 3067 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3110 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3093 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtFANote2;
 >>>>>>> origin/master
@@ -12480,15 +13548,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3110 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.ComboBox cmbFALeadOwner2;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 3068 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3112 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3095 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblFAValidation4;
 >>>>>>> origin/master
@@ -12498,15 +13570,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3112 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtFANote2;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 3070 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3113 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3096 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Grid grdCampaignNotes1;
 >>>>>>> origin/master
@@ -12516,15 +13592,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3113 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblFAValidation4;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 3072 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3115 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3098 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtCCampaignNotes1;
 >>>>>>> origin/master
@@ -12534,15 +13614,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3115 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Grid grdCampaignNotes1;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 3073 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3116 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3099 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnCCampaignNotes_Save1;
 >>>>>>> origin/master
@@ -12552,15 +13636,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3117 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtCCampaignNotes1;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 3074 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3117 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3100 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnCCampaignNotes_Cancel1;
 >>>>>>> origin/master
@@ -12570,15 +13658,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3118 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnCCampaignNotes_Save1;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 3075 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3118 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3101 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCampValidation1;
 >>>>>>> origin/master
@@ -12588,15 +13680,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3119 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnCCampaignNotes_Cancel1;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 3077 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3120 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3103 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Grid grdFollup_Attachment2;
 >>>>>>> origin/master
@@ -12606,15 +13702,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3120 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCampValidation1;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 3080 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3123 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3106 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnFA_Attached2;
 >>>>>>> origin/master
@@ -12624,15 +13724,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3122 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Grid grdFollup_Attachment2;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 3081 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3124 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3107 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnFA_AttachedCancel2;
 >>>>>>> origin/master
@@ -12642,15 +13746,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3125 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnFA_Attached2;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 3082 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3125 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3108 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblFValidation6;
 >>>>>>> origin/master
@@ -12660,15 +13768,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3126 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnFA_AttachedCancel2;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 3085 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3128 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3111 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblFAValidation5;
 >>>>>>> origin/master
@@ -12678,15 +13790,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3127 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblFValidation6;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 3086 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3129 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3112 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnFA_AttachChoose2;
 >>>>>>> origin/master
@@ -12696,15 +13812,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3130 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblFAValidation5;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 3088 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3131 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3114 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txt3;
 >>>>>>> origin/master
@@ -12714,15 +13834,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3131 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnFA_AttachChoose2;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 3091 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3132 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3115 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Grid grd_CampaignInformation1;
 >>>>>>> origin/master
@@ -12732,15 +13856,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3133 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txt3;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 3094 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3134 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3117 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCCampaignName1;
 >>>>>>> origin/master
@@ -12750,15 +13878,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3136 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Grid grd_CampaignInformation1;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 3096 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3137 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3120 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCCStartDate1;
 >>>>>>> origin/master
@@ -12768,15 +13900,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3139 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCCampaignName1;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 3098 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3139 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3122 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCCRevenue1;
 >>>>>>> origin/master
@@ -12786,15 +13922,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3141 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCCStartDate1;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 3100 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3141 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3124 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCCStatus1;
 >>>>>>> origin/master
@@ -12804,15 +13944,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3143 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCCRevenue1;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 3102 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3143 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3126 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCCampaignType1;
 >>>>>>> origin/master
@@ -12822,15 +13966,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3145 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCCStatus1;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 3104 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3145 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3128 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCCBudgetedCost1;
 >>>>>>> origin/master
@@ -12840,15 +13988,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3147 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCCampaignType1;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 3106 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3147 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3130 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCCExpectedResponse1;
 >>>>>>> origin/master
@@ -12858,15 +14010,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3149 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCCBudgetedCost1;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 3108 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3149 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3132 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCCEndDate1;
 >>>>>>> origin/master
@@ -12876,15 +14032,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3151 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCCExpectedResponse1;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 3109 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3151 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3134 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCDesctiption1;
 >>>>>>> origin/master
@@ -12894,15 +14054,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3153 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCCEndDate1;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 3110 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3154 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3137 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblFCountry_Copy3;
 >>>>>>> origin/master
@@ -12912,15 +14076,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3154 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCDesctiption1;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 3111 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3156 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3139 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnViewCampaigns_Close1;
 >>>>>>> origin/master
@@ -12930,15 +14098,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3155 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblFCountry_Copy3;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 3113 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3158 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3141 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnMassCampCancel_Close;
 >>>>>>> origin/master
@@ -12948,15 +14120,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3156 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnViewCampaigns_Close1;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 3118 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3160 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3143 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGrid dgvMassCampaignsLeads;
 >>>>>>> origin/master
@@ -12966,15 +14142,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3158 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnMassCampCancel_Close;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 3134 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3162 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3145 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdLeadID1;
 >>>>>>> origin/master
@@ -12984,15 +14164,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3163 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGrid dgvMassCampaignsLeads;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 3135 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3164 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3147 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdLeadName1;
 >>>>>>> origin/master
@@ -13002,15 +14186,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3179 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdLeadID1;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 3136 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3165 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3148 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdLeadSource1;
 >>>>>>> origin/master
@@ -13020,15 +14208,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3180 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdLeadName1;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 3137 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3167 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3150 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdLeadMobileNo1;
 >>>>>>> origin/master
@@ -13038,15 +14230,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3181 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdLeadSource1;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 3138 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3169 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3152 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdLeadPhoneNo1;
 >>>>>>> origin/master
@@ -13056,15 +14252,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3182 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdLeadMobileNo1;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 3139 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3170 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3153 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdLeadStatus1;
 >>>>>>> origin/master
@@ -13074,15 +14274,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3183 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdLeadPhoneNo1;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 3144 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3172 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3155 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnSavePhoto11;
 >>>>>>> origin/master
@@ -13092,15 +14296,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3184 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGridTextColumn grdLeadStatus1;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 3145 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3174 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3157 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtMaxID11;
 >>>>>>> origin/master
@@ -13118,15 +14326,19 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-=======
         #line 3190 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtMaxID11;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 3146 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3176 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3159 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtEmployeeID11;
 >>>>>>> origin/master
@@ -13135,16 +14347,20 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-=======
 <<<<<<< HEAD
         #line 3191 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtEmployeeID11;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 3147 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3178 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3161 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCStartDate_Copy2;
 >>>>>>> origin/master
@@ -13153,16 +14369,20 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-=======
 <<<<<<< HEAD
         #line 3192 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCStartDate_Copy2;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 3148 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3180 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3163 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtMassCampaignID;
 >>>>>>> origin/master
@@ -13171,16 +14391,20 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-=======
 <<<<<<< HEAD
         #line 3193 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtMassCampaignID;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 3151 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3182 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3165 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.ComboBox cmbUPMassStatus;
 >>>>>>> origin/master
@@ -13189,16 +14413,20 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-=======
 <<<<<<< HEAD
         #line 3196 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.ComboBox cmbUPMassStatus;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 3160 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3183 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3166 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnMassCampUpdate;
 >>>>>>> origin/master
@@ -13208,15 +14436,19 @@ namespace CRM_User_Interface {
         
         
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
         #line 3205 "..\..\frmCRM_Adm_Dashbord.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnMassCampUpdate;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
         #line 3161 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+<<<<<<< HEAD
+        #line 3184 "..\..\frmCRM_Adm_Dashbord.xaml"
+=======
+        #line 3167 "..\..\frmCRM_Adm_Dashbord.xaml"
+>>>>>>> origin/master
+>>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnMassCampCancel;
 >>>>>>> origin/master
@@ -13234,9 +14466,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 3174 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
         #line 3432 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
 <<<<<<< HEAD
@@ -13249,7 +14478,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Grid grdCampCreateContact;
         
@@ -13257,9 +14485,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 3178 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 3436 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -13273,7 +14498,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Image imgDealerDetails22;
         
@@ -13281,9 +14505,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 3188 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 3446 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -13297,7 +14518,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtCampContactFirstName;
         
@@ -13305,9 +14525,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 3190 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 3448 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -13321,7 +14538,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DatePicker dtpCampContactDOB;
         
@@ -13329,9 +14545,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 3191 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 3449 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -13345,7 +14558,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label lblCampContactID;
         
@@ -13353,9 +14565,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 3193 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 3451 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -13369,7 +14578,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtCampContactLastName;
         
@@ -13377,9 +14585,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 3194 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 3452 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -13393,7 +14598,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnSavePhoto14;
         
@@ -13401,9 +14605,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 3195 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 3453 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -13417,7 +14618,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtMaxID14;
         
@@ -13425,9 +14625,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 3196 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 3454 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -13441,7 +14638,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtEmployeeID14;
         
@@ -13449,9 +14645,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 3198 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 3456 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -13465,7 +14658,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.ComboBox cmbCampContactOccupation;
         
@@ -13473,9 +14665,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 3200 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 3458 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -13489,7 +14678,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.ComboBox cmbCampContactEmployeeName;
         
@@ -13497,9 +14685,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 3201 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 3459 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -13513,7 +14698,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.ComboBox cmbCampContactTitle;
         
@@ -13521,9 +14705,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 3209 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 3467 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -13537,7 +14718,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtCampContactMobile;
         
@@ -13545,9 +14725,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 3210 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 3468 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -13561,7 +14738,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label Phone_No_8;
         
@@ -13569,9 +14745,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 3211 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 3469 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -13585,7 +14758,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtCampContactPhoneNo;
         
@@ -13593,9 +14765,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 3212 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 3470 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -13609,7 +14778,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label Phone_No_3_Copy14;
         
@@ -13617,9 +14785,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 3213 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 3471 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -13633,7 +14798,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtCampContactEmailid;
         
@@ -13641,9 +14805,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 3214 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 3472 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -13657,7 +14818,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label Phone_No_3_Copy15;
         
@@ -13665,9 +14825,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 3215 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 3473 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -13681,7 +14838,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtCampContactFaxNo;
         
@@ -13689,9 +14845,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 3216 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 3474 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -13705,7 +14858,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label Phone_No_3_Copy16;
         
@@ -13713,9 +14865,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 3217 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 3475 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -13729,7 +14878,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtCampContactWebsite;
         
@@ -13737,9 +14885,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 3219 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 3477 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -13753,7 +14898,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.ComboBox cmbCampContactSourceofEnq;
         
@@ -13761,9 +14905,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 3234 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 3492 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -13777,7 +14918,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtCampContactMailingAddress;
         
@@ -13785,9 +14925,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 3237 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 3495 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -13801,7 +14938,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtCampContactMailingZip;
         
@@ -13809,9 +14945,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 3240 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 3498 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -13825,7 +14958,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.ComboBox cmbCampContactMailingCity;
         
@@ -13833,9 +14965,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 3241 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 3499 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -13849,7 +14978,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.ComboBox cmbCampContactMailingState;
         
@@ -13857,9 +14985,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 3242 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 3500 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -13873,7 +14998,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.ComboBox cmbCampContactMailingCountrty;
         
@@ -13881,9 +15005,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 3244 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 3502 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -13897,7 +15018,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtCampContactOtherAddress;
         
@@ -13905,9 +15025,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 3247 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 3505 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -13921,7 +15038,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtCampContactOtherZip;
         
@@ -13929,9 +15045,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 3250 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 3508 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -13945,7 +15058,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.ComboBox cmbCampContactOtherCity;
         
@@ -13953,9 +15065,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 3251 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 3509 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -13969,7 +15078,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.ComboBox cmbCampContactOtherState;
         
@@ -13977,9 +15085,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 3252 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 3510 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -13993,7 +15098,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.ComboBox cmbCampContactOtherCountrty;
         
@@ -14001,9 +15105,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 3253 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 3511 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -14017,7 +15118,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnCampContactCopyAddress;
         
@@ -14025,9 +15125,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 3254 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 3512 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -14041,7 +15138,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtCampContactSystemPhotoPath;
         
@@ -14049,9 +15145,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 3255 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 3513 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -14065,7 +15158,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtCampContactActualPhotoPath;
         
@@ -14073,9 +15165,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 3256 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 3514 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -14089,7 +15178,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtContactMax_CustomerID;
         
@@ -14097,9 +15185,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 3257 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 3515 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -14113,7 +15198,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtContactCustomerID;
         
@@ -14121,9 +15205,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 3258 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 3516 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -14137,7 +15218,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox tctCampCCCampainID;
         
@@ -14145,9 +15225,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 3259 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 3517 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -14161,7 +15238,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtCampStatus;
         
@@ -14169,9 +15245,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 3263 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 3521 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -14185,7 +15258,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnCampContact_Save;
         
@@ -14193,9 +15265,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 3264 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 3522 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -14209,7 +15278,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnCampContact_Clear;
         
@@ -14217,9 +15285,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 3265 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 3523 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -14233,7 +15298,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button btnCampContact_Exit;
         
@@ -14241,9 +15305,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 3270 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 3528 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -14257,7 +15318,6 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox txtCampContactDescription;
         
@@ -14265,9 +15325,6 @@ namespace CRM_User_Interface {
         #line hidden
         
         
-<<<<<<< HEAD
-        #line 3277 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
 <<<<<<< HEAD
         #line 3535 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
@@ -14278,7 +15335,6 @@ namespace CRM_User_Interface {
         #line 3297 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
         #line 3279 "..\..\frmCRM_Adm_Dashbord.xaml"
->>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
@@ -17316,9 +18372,6 @@ namespace CRM_User_Interface {
             #line 1987 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
             #line 1983 "..\..\frmCRM_Adm_Dashbord.xaml"
-<<<<<<< HEAD
-=======
->>>>>>> origin/master
 >>>>>>> origin/master
             this.btnSavePhoto12.Click += new System.Windows.RoutedEventHandler(this.btnSavePhoto_Click);
             
@@ -17330,8 +18383,6 @@ namespace CRM_User_Interface {
             return;
             case 564:
             this.txtEmployeeID12 = ((System.Windows.Controls.TextBox)(target));
-<<<<<<< HEAD
-=======
             return;
             case 565:
             this.cmbContactOccupation = ((System.Windows.Controls.ComboBox)(target));
@@ -17438,7 +18489,6 @@ namespace CRM_User_Interface {
             return;
             case 564:
             this.txtEmployeeID12 = ((System.Windows.Controls.TextBox)(target));
->>>>>>> origin/master
             return;
             case 565:
             this.cmbContactOccupation = ((System.Windows.Controls.ComboBox)(target));
@@ -17529,9 +18579,6 @@ namespace CRM_User_Interface {
             #line 2040 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
             #line 2036 "..\..\frmCRM_Adm_Dashbord.xaml"
-<<<<<<< HEAD
-=======
->>>>>>> origin/master
 >>>>>>> origin/master
             this.txtContactOtherZip.PreviewTextInput += new System.Windows.Input.TextCompositionEventHandler(this.NumberValidationTextBox);
             
@@ -17551,13 +18598,9 @@ namespace CRM_User_Interface {
             this.btnContactCopyAddress = ((System.Windows.Controls.Button)(target));
             
 <<<<<<< HEAD
-            #line 2042 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
-<<<<<<< HEAD
             #line 2046 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
             #line 2042 "..\..\frmCRM_Adm_Dashbord.xaml"
->>>>>>> origin/master
 >>>>>>> origin/master
             this.btnContactCopyAddress.Click += new System.Windows.RoutedEventHandler(this.btnContactCopyAddress_Click);
             
@@ -17583,9 +18626,6 @@ namespace CRM_User_Interface {
             #line 2054 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
             #line 2050 "..\..\frmCRM_Adm_Dashbord.xaml"
-<<<<<<< HEAD
-=======
->>>>>>> origin/master
 >>>>>>> origin/master
             this.btnContact_Save.Click += new System.Windows.RoutedEventHandler(this.btnContact_Save_Click);
             
@@ -17599,9 +18639,6 @@ namespace CRM_User_Interface {
             #line 2055 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
             #line 2051 "..\..\frmCRM_Adm_Dashbord.xaml"
-<<<<<<< HEAD
-=======
->>>>>>> origin/master
 >>>>>>> origin/master
             this.btnContact_Clear.Click += new System.Windows.RoutedEventHandler(this.btnContact_Clear_Click);
             
@@ -17609,6 +18646,7 @@ namespace CRM_User_Interface {
             #line hidden
             return;
             case 595:
+<<<<<<< HEAD
             this.btnContact_Exit = ((System.Windows.Controls.Button)(target));
             
             #line 2056 "..\..\frmCRM_Adm_Dashbord.xaml"
@@ -17624,12 +18662,9 @@ namespace CRM_User_Interface {
             #line hidden
 <<<<<<< HEAD
 =======
-<<<<<<< HEAD
-=======
 =======
 <<<<<<< HEAD
             this.cmbInvoic_CH_BankName = ((System.Windows.Controls.ComboBox)(target));
->>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
             return;
@@ -17638,12 +18673,9 @@ namespace CRM_User_Interface {
             return;
             case 597:
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
             this.txtwarr_rem = ((System.Windows.Controls.TextBox)(target));
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
             this.grd_View_ContDetails_Info = ((System.Windows.Controls.Grid)(target));
             
             #line 2063 "..\..\frmCRM_Adm_Dashbord.xaml"
@@ -17678,8 +18710,6 @@ namespace CRM_User_Interface {
             
             #line 2078 "..\..\frmCRM_Adm_Dashbord.xaml"
             this.btnContactBrowse.Click += new System.Windows.RoutedEventHandler(this.btnContactBrowse_Click);
-<<<<<<< HEAD
-=======
 =======
             this.GRDInvoice_Finance = ((System.Windows.Controls.Grid)(target));
 >>>>>>> origin/master
@@ -17711,12 +18741,12 @@ namespace CRM_User_Interface {
             #line 2018 "..\..\frmCRM_Adm_Dashbord.xaml"
             this.rdoInvoice_rdo_Invoice_Monthlyinstallment.Checked += new System.Windows.RoutedEventHandler(this.rdoInvoice_rdo_Invoice_Monthlyinstallment_Checked);
 >>>>>>> origin/master
->>>>>>> origin/master
             
             #line default
             #line hidden
             return;
             case 604:
+<<<<<<< HEAD
             this.btnContactRemove = ((System.Windows.Controls.Button)(target));
             
             #line 2081 "..\..\frmCRM_Adm_Dashbord.xaml"
@@ -17742,8 +18772,6 @@ namespace CRM_User_Interface {
             
             #line 2091 "..\..\frmCRM_Adm_Dashbord.xaml"
             this.btnContactDetails_ViewInfor.Click += new System.Windows.RoutedEventHandler(this.btnContactDetails_ViewInfor_Click);
-<<<<<<< HEAD
-=======
 =======
             this.cmdInvoice_InstalYear = ((System.Windows.Controls.ComboBox)(target));
 >>>>>>> origin/master
@@ -17783,21 +18811,11 @@ namespace CRM_User_Interface {
             
             #line 2094 "..\..\frmCRM_Adm_Dashbord.xaml"
             this.btnInvoice_Installment1.Click += new System.Windows.RoutedEventHandler(this.PaymentMode_Button_Click);
->>>>>>> origin/master
             
             #line default
             #line hidden
             return;
             case 610:
-<<<<<<< HEAD
-            this.txtCContactPhotoPath = ((System.Windows.Controls.TextBox)(target));
-            return;
-            case 611:
-            this.btnCContactPhoto_Save = ((System.Windows.Controls.Button)(target));
-            
-            #line 2093 "..\..\frmCRM_Adm_Dashbord.xaml"
-            this.btnCContactPhoto_Save.Click += new System.Windows.RoutedEventHandler(this.btnCContactPhoto_Save_Click);
-=======
             this.grd_View_ContDetails_Info = ((System.Windows.Controls.Grid)(target));
             
             #line 2103 "..\..\frmCRM_Adm_Dashbord.xaml"
@@ -17814,24 +18832,11 @@ namespace CRM_User_Interface {
             
             #line 2113 "..\..\frmCRM_Adm_Dashbord.xaml"
             this.btnSavePhoto13.Click += new System.Windows.RoutedEventHandler(this.btnSavePhoto_Click);
->>>>>>> origin/master
             
             #line default
             #line hidden
             return;
-            case 612:
-            this.txtCContactID = ((System.Windows.Controls.TextBox)(target));
-            return;
             case 613:
-<<<<<<< HEAD
-            this.txtCContactActualPhotoPath = ((System.Windows.Controls.TextBox)(target));
-            return;
-            case 614:
-            this.btnContactDetails_ViewInfor_Close = ((System.Windows.Controls.Button)(target));
-            
-            #line 2097 "..\..\frmCRM_Adm_Dashbord.xaml"
-            this.btnContactDetails_ViewInfor_Close.Click += new System.Windows.RoutedEventHandler(this.btnContactDetails_ViewInfor_Close_Click);
-=======
             this.txtMaxID13 = ((System.Windows.Controls.TextBox)(target));
             return;
             case 614:
@@ -17854,50 +18859,11 @@ namespace CRM_User_Interface {
             
             #line 2121 "..\..\frmCRM_Adm_Dashbord.xaml"
             this.btnContactRemove.Click += new System.Windows.RoutedEventHandler(this.btnContactRemove_Click);
->>>>>>> origin/master
             
             #line default
             #line hidden
-            return;
-            case 615:
-            this.dgvContactNotes = ((System.Windows.Controls.DataGrid)(target));
-            return;
-            case 617:
-            this.grdFID2 = ((System.Windows.Controls.DataGridTextColumn)(target));
             return;
             case 618:
-<<<<<<< HEAD
-            this.grdContactNotes = ((System.Windows.Controls.DataGridTextColumn)(target));
-            return;
-            case 619:
-            this.grdContactDate = ((System.Windows.Controls.DataGridTextColumn)(target));
-            return;
-            case 620:
-            this.hlContactAcivities = ((System.Windows.Documents.Hyperlink)(target));
-            
-            #line 2116 "..\..\frmCRM_Adm_Dashbord.xaml"
-            this.hlContactAcivities.Click += new System.Windows.RoutedEventHandler(this.hlContactAcivities_Click);
-            
-            #line default
-            #line hidden
-            return;
-            case 621:
-            this.hlContactAddCampaign = ((System.Windows.Documents.Hyperlink)(target));
-            
-            #line 2117 "..\..\frmCRM_Adm_Dashbord.xaml"
-            this.hlContactAddCampaign.Click += new System.Windows.RoutedEventHandler(this.hlContactAddCampaign_Click);
-            
-            #line default
-            #line hidden
-            return;
-            case 622:
-            this.dgvFollowUp_Products1 = ((System.Windows.Controls.DataGrid)(target));
-            return;
-            case 623:
-            this.dgvContactActivities = ((System.Windows.Controls.DataGrid)(target));
-            return;
-            case 625:
-=======
             this.lblCContactInfoName = ((System.Windows.Controls.Label)(target));
             return;
             case 619:
@@ -18404,7 +19370,6 @@ namespace CRM_User_Interface {
             this.dgvContactActivities = ((System.Windows.Controls.DataGrid)(target));
             return;
             case 625:
->>>>>>> origin/master
             this.grdFAID1 = ((System.Windows.Controls.DataGridTextColumn)(target));
             return;
             case 626:
@@ -18567,10 +19532,8 @@ namespace CRM_User_Interface {
             this.grd_ContactInformation = ((System.Windows.Controls.Grid)(target));
             return;
             case 664:
-            this.lblCContactLeadOwner = ((System.Windows.Controls.Label)(target));
 <<<<<<< HEAD
-            return;
-=======
+            this.lblCContactLeadOwner = ((System.Windows.Controls.Label)(target));
 =======
             this.grd_View_Campaign = ((System.Windows.Controls.Grid)(target));
 >>>>>>> origin/master
@@ -18602,15 +19565,12 @@ namespace CRM_User_Interface {
             #line 2286 "..\..\frmCRM_Adm_Dashbord.xaml"
             this.dgvCampaignNotes.SelectedCellsChanged += new System.Windows.Controls.SelectedCellsChangedEventHandler(this.dgvCampaignNotes_SelectedCellsChanged);
 =======
->>>>>>> origin/master
             case 665:
             this.lblCContactPhoneNo = ((System.Windows.Controls.Label)(target));
             return;
             case 666:
-            this.lblCCustomerMobileNo = ((System.Windows.Controls.Label)(target));
 <<<<<<< HEAD
-            return;
-=======
+            this.lblCCustomerMobileNo = ((System.Windows.Controls.Label)(target));
 =======
             this.txtSearch_CampaignName = ((System.Windows.Controls.TextBox)(target));
 >>>>>>> origin/master
@@ -18656,7 +19616,6 @@ namespace CRM_User_Interface {
             #line 2318 "..\..\frmCRM_Adm_Dashbord.xaml"
             this.btnFA_ActivitySave1.Click += new System.Windows.RoutedEventHandler(this.btnFA_ActivitySave_Click);
 =======
->>>>>>> origin/master
             case 667:
             this.lblCContactLeadSource = ((System.Windows.Controls.Label)(target));
             return;
@@ -18673,9 +19632,28 @@ namespace CRM_User_Interface {
             this.lblCContactEmail = ((System.Windows.Controls.Label)(target));
             return;
             case 672:
+<<<<<<< HEAD
             this.lblCCMailingStreet = ((System.Windows.Controls.Label)(target));
+=======
+            this.txtCampID = ((System.Windows.Controls.TextBox)(target));
+            
+            #line 2283 "..\..\frmCRM_Adm_Dashbord.xaml"
+            this.txtCampID.TextChanged += new System.Windows.Controls.TextChangedEventHandler(this.txtSearch_CampaignName_TextChanged);
+>>>>>>> origin/master
+            
+            #line default
+            #line hidden
+>>>>>>> origin/master
             return;
+<<<<<<< HEAD
+            case 687:
+            this.btnFA_ActivityCancel1 = ((System.Windows.Controls.Button)(target));
+            
+            #line 2319 "..\..\frmCRM_Adm_Dashbord.xaml"
+            this.btnFA_ActivityCancel1.Click += new System.Windows.RoutedEventHandler(this.btnFA_ActivityCancel_Click);
+=======
             case 673:
+<<<<<<< HEAD
             this.lblCCMailingCity = ((System.Windows.Controls.Label)(target));
             return;
             case 674:
@@ -18686,7 +19664,60 @@ namespace CRM_User_Interface {
             return;
             case 676:
             this.lblCCMailingCountry = ((System.Windows.Controls.Label)(target));
+=======
+            this.dgvCampaginsDetails = ((System.Windows.Controls.DataGrid)(target));
+            
+            #line 2287 "..\..\frmCRM_Adm_Dashbord.xaml"
+            this.dgvCampaginsDetails.SelectedCellsChanged += new System.Windows.Controls.SelectedCellsChangedEventHandler(this.dgvCampaginsDetails_SelectedCellsChanged);
+>>>>>>> origin/master
+            
+            #line default
+            #line hidden
             return;
+<<<<<<< HEAD
+            case 688:
+            this.lblFValidation3 = ((System.Windows.Controls.Label)(target));
+            return;
+            case 689:
+            this.cmbFASubject1 = ((System.Windows.Controls.ComboBox)(target));
+            return;
+            case 690:
+            this.dtpFADate1 = ((System.Windows.Controls.DatePicker)(target));
+            return;
+            case 691:
+            this.cmbFALeadOwner1 = ((System.Windows.Controls.ComboBox)(target));
+            return;
+            case 692:
+            this.txtFANote1 = ((System.Windows.Controls.TextBox)(target));
+            return;
+            case 693:
+            this.lblFAValidation2 = ((System.Windows.Controls.Label)(target));
+            return;
+            case 694:
+            this.hlCCampaignsNots = ((System.Windows.Documents.Hyperlink)(target));
+            
+            #line 2337 "..\..\frmCRM_Adm_Dashbord.xaml"
+            this.hlCCampaignsNots.Click += new System.Windows.RoutedEventHandler(this.hlCCampaignsNots_Click);
+            
+            #line default
+            #line hidden
+>>>>>>> origin/master
+            return;
+            case 695:
+            this.txtCampaignNotesID = ((System.Windows.Controls.TextBox)(target));
+            return;
+            case 696:
+            this.grdCampaignNotes = ((System.Windows.Controls.Grid)(target));
+            return;
+            case 697:
+            this.txtCCampaignNotes = ((System.Windows.Controls.TextBox)(target));
+            return;
+            case 698:
+            this.btnCCampaignNotes_Save = ((System.Windows.Controls.Button)(target));
+            
+            #line 2343 "..\..\frmCRM_Adm_Dashbord.xaml"
+            this.btnCCampaignNotes_Save.Click += new System.Windows.RoutedEventHandler(this.btnCCampaignNotes_Save_Click);
+=======
             case 677:
             this.lblCContactDesctiption = ((System.Windows.Controls.Label)(target));
             return;
@@ -18715,11 +19746,53 @@ namespace CRM_User_Interface {
             this.lblCCOtherCity = ((System.Windows.Controls.Label)(target));
             return;
             case 684:
+<<<<<<< HEAD
             this.lblCCOtherState = ((System.Windows.Controls.Label)(target));
+=======
+            this.btn_View_Campaign_AddNewCampaign = ((System.Windows.Controls.Button)(target));
+            
+            #line 2354 "..\..\frmCRM_Adm_Dashbord.xaml"
+            this.btn_View_Campaign_AddNewCampaign.Click += new System.Windows.RoutedEventHandler(this.btn_View_Campaign_AddNewCampaign_Click);
+>>>>>>> origin/master
+            
+            #line default
+            #line hidden
+>>>>>>> origin/master
             return;
+<<<<<<< HEAD
+            case 699:
+            this.btnCCampaignNotes_Cancel = ((System.Windows.Controls.Button)(target));
+            
+            #line 2344 "..\..\frmCRM_Adm_Dashbord.xaml"
+            this.btnCCampaignNotes_Cancel.Click += new System.Windows.RoutedEventHandler(this.btnCCampaignNotes_Cancel_Click);
+=======
             case 685:
+<<<<<<< HEAD
             this.lblCCOtherZipCode = ((System.Windows.Controls.Label)(target));
+=======
+            this.grdCreateCampaign = ((System.Windows.Controls.Grid)(target));
+            
+            #line 2377 "..\..\frmCRM_Adm_Dashbord.xaml"
+            this.grdCreateCampaign.Loaded += new System.Windows.RoutedEventHandler(this.grdCreateCampaign_Loaded);
+>>>>>>> origin/master
+            
+            #line default
+            #line hidden
+>>>>>>> origin/master
             return;
+<<<<<<< HEAD
+            case 700:
+            this.lblCampValidation = ((System.Windows.Controls.Label)(target));
+            return;
+            case 701:
+            this.grdFollup_Attachment1 = ((System.Windows.Controls.Grid)(target));
+            return;
+            case 702:
+            this.btnFA_Attached1 = ((System.Windows.Controls.Button)(target));
+            
+            #line 2350 "..\..\frmCRM_Adm_Dashbord.xaml"
+            this.btnFA_Attached1.Click += new System.Windows.RoutedEventHandler(this.btnFA_Attached_Click);
+=======
             case 686:
             this.lblCCOtherCountry = ((System.Windows.Controls.Label)(target));
             return;
@@ -18732,12 +19805,46 @@ namespace CRM_User_Interface {
             case 689:
             this.btnContactDetails_ViewInfor_Back = ((System.Windows.Controls.Button)(target));
             
+<<<<<<< HEAD
             #line 2268 "..\..\frmCRM_Adm_Dashbord.xaml"
             this.btnContactDetails_ViewInfor_Back.Click += new System.Windows.RoutedEventHandler(this.btnContactDetails_ViewInfor_Back_Click);
+=======
+            #line 2393 "..\..\frmCRM_Adm_Dashbord.xaml"
+            this.btnSavePhoto7.Click += new System.Windows.RoutedEventHandler(this.btnSavePhoto_Click);
+>>>>>>> origin/master
             
             #line default
             #line hidden
             return;
+<<<<<<< HEAD
+            case 703:
+            this.btnFA_AttachedCancel1 = ((System.Windows.Controls.Button)(target));
+            
+            #line 2351 "..\..\frmCRM_Adm_Dashbord.xaml"
+            this.btnFA_AttachedCancel1.Click += new System.Windows.RoutedEventHandler(this.btnFA_ActivityCancel_Click);
+>>>>>>> origin/master
+            
+            #line default
+            #line hidden
+            return;
+<<<<<<< HEAD
+=======
+            case 704:
+            this.lblFValidation5 = ((System.Windows.Controls.Label)(target));
+            return;
+            case 705:
+            this.lblFAValidation3 = ((System.Windows.Controls.Label)(target));
+            return;
+            case 706:
+            this.btnFA_AttachChoose1 = ((System.Windows.Controls.Button)(target));
+            
+            #line 2356 "..\..\frmCRM_Adm_Dashbord.xaml"
+            this.btnFA_AttachChoose1.Click += new System.Windows.RoutedEventHandler(this.btnFA_AttachChoose_Click);
+=======
+            case 689:
+            this.txtMaxID7 = ((System.Windows.Controls.TextBox)(target));
+            return;
+>>>>>>> origin/master
             case 690:
             this.tbCustNCustomers = ((System.Windows.Controls.TabItem)(target));
             return;
@@ -18745,11 +19852,69 @@ namespace CRM_User_Interface {
             this.tbCustSales = ((System.Windows.Controls.TabItem)(target));
             return;
             case 692:
+<<<<<<< HEAD
             this.txtSaleInvoiceNo = ((System.Windows.Controls.TextBox)(target));
             return;
             case 693:
             this.txtSaleEmployeeName = ((System.Windows.Controls.TextBox)(target));
             return;
+=======
+            this.cmbCampaignType = ((System.Windows.Controls.ComboBox)(target));
+            return;
+            case 693:
+            this.txtCampExpectedRevenue = ((System.Windows.Controls.TextBox)(target));
+            
+            #line 2413 "..\..\frmCRM_Adm_Dashbord.xaml"
+            this.txtCampExpectedRevenue.PreviewTextInput += new System.Windows.Input.TextCompositionEventHandler(this.NumberValidationTextBox);
+>>>>>>> origin/master
+            
+            #line default
+            #line hidden
+            return;
+<<<<<<< HEAD
+            case 707:
+            this.txt2 = ((System.Windows.Controls.TextBox)(target));
+            return;
+            case 708:
+            this.grd_CampaignInformation = ((System.Windows.Controls.Grid)(target));
+            return;
+            case 709:
+            this.lblCCampaignName = ((System.Windows.Controls.Label)(target));
+            return;
+            case 710:
+            this.lblCCStartDate = ((System.Windows.Controls.Label)(target));
+            return;
+            case 711:
+            this.lblCCRevenue = ((System.Windows.Controls.Label)(target));
+            return;
+            case 712:
+            this.lblCCStatus = ((System.Windows.Controls.Label)(target));
+            return;
+            case 713:
+            this.lblCCampaignType = ((System.Windows.Controls.Label)(target));
+            return;
+            case 714:
+            this.lblCCBudgetedCost = ((System.Windows.Controls.Label)(target));
+            return;
+            case 715:
+            this.lblCCExpectedResponse = ((System.Windows.Controls.Label)(target));
+            return;
+            case 716:
+            this.lblCCEndDate = ((System.Windows.Controls.Label)(target));
+            return;
+            case 717:
+            this.lblCDesctiption = ((System.Windows.Controls.Label)(target));
+            return;
+            case 718:
+            this.lblFCountry_Copy2 = ((System.Windows.Controls.Label)(target));
+            return;
+            case 719:
+            this.btnViewCampaigns_Close = ((System.Windows.Controls.Button)(target));
+            
+            #line 2380 "..\..\frmCRM_Adm_Dashbord.xaml"
+            this.btnViewCampaigns_Close.Click += new System.Windows.RoutedEventHandler(this.btnViewInfo_Close_Click);
+=======
+>>>>>>> origin/master
             case 694:
             this.btnSaleEmployeeNameFetch = ((System.Windows.Controls.Button)(target));
             return;
@@ -18784,11 +19949,68 @@ namespace CRM_User_Interface {
             this.txtInvoice_TotalPriceofQty = ((System.Windows.Controls.TextBox)(target));
             return;
             case 705:
+<<<<<<< HEAD
             this.txtInvoiceActualPrice = ((System.Windows.Controls.TextBox)(target));
+=======
+            this.btnCamp_Save = ((System.Windows.Controls.Button)(target));
+            
+            #line 2441 "..\..\frmCRM_Adm_Dashbord.xaml"
+            this.btnCamp_Save.Click += new System.Windows.RoutedEventHandler(this.btnCamp_Save_Click);
+>>>>>>> origin/master
+            
+            #line default
+            #line hidden
+>>>>>>> origin/master
             return;
+<<<<<<< HEAD
+            case 720:
+            this.hlCLeads = ((System.Windows.Documents.Hyperlink)(target));
+            
+            #line 2384 "..\..\frmCRM_Adm_Dashbord.xaml"
+            this.hlCLeads.Click += new System.Windows.RoutedEventHandler(this.hlCLeads_Click);
+=======
             case 706:
+<<<<<<< HEAD
             this.txtInvoice_Qty = ((System.Windows.Controls.TextBox)(target));
+=======
+            this.btnfCamp_Clear = ((System.Windows.Controls.Button)(target));
+            
+            #line 2442 "..\..\frmCRM_Adm_Dashbord.xaml"
+            this.btnfCamp_Clear.Click += new System.Windows.RoutedEventHandler(this.btnfCamp_Clear_Click);
+>>>>>>> origin/master
+            
+            #line default
+            #line hidden
+>>>>>>> origin/master
             return;
+<<<<<<< HEAD
+            case 721:
+            this.dgvCLeads = ((System.Windows.Controls.DataGrid)(target));
+            return;
+            case 724:
+            this.grdLeadID = ((System.Windows.Controls.DataGridTextColumn)(target));
+            return;
+            case 725:
+            this.grdLeadName = ((System.Windows.Controls.DataGridTextColumn)(target));
+            return;
+            case 726:
+            this.grdLeadSource = ((System.Windows.Controls.DataGridTextColumn)(target));
+            return;
+            case 727:
+            this.grdLeadMobileNo = ((System.Windows.Controls.DataGridTextColumn)(target));
+            return;
+            case 728:
+            this.grdLeadPhoneNo = ((System.Windows.Controls.DataGridTextColumn)(target));
+            return;
+            case 729:
+            this.grdLeadStatus = ((System.Windows.Controls.DataGridTextColumn)(target));
+            return;
+            case 730:
+            this.hlMassUpdateMbStatus = ((System.Windows.Documents.Hyperlink)(target));
+            
+            #line 2423 "..\..\frmCRM_Adm_Dashbord.xaml"
+            this.hlMassUpdateMbStatus.Click += new System.Windows.RoutedEventHandler(this.hlMassUpdateMbStatus_Click);
+=======
             case 707:
             this.txtInvoice_AvailabeQty = ((System.Windows.Controls.TextBox)(target));
             return;
@@ -18829,8 +20051,53 @@ namespace CRM_User_Interface {
             this.btnInvoice_Cash = ((System.Windows.Controls.Button)(target));
             return;
             case 718:
+<<<<<<< HEAD
             this.btnInvoice_Cheque = ((System.Windows.Controls.Button)(target));
+=======
+            this.btnCampaign_ViewInformation = ((System.Windows.Controls.Button)(target));
+            
+            #line 2476 "..\..\frmCRM_Adm_Dashbord.xaml"
+            this.btnCampaign_ViewInformation.Click += new System.Windows.RoutedEventHandler(this.btnCampaign_ViewInformation_Click);
+>>>>>>> origin/master
+            
+            #line default
+            #line hidden
+>>>>>>> origin/master
             return;
+<<<<<<< HEAD
+            case 731:
+            this.txtCampaignLeadID = ((System.Windows.Controls.TextBox)(target));
+            return;
+            case 732:
+            this.txtCampaignLeadFollowupID = ((System.Windows.Controls.TextBox)(target));
+            return;
+            case 733:
+            this.dgvCampLead = ((System.Windows.Controls.DataGrid)(target));
+            return;
+            case 736:
+            this.grdLeadID2 = ((System.Windows.Controls.DataGridTextColumn)(target));
+            return;
+            case 737:
+            this.grdCampLeadName = ((System.Windows.Controls.DataGridTextColumn)(target));
+            return;
+            case 738:
+            this.grdLeadSource2 = ((System.Windows.Controls.DataGridTextColumn)(target));
+            return;
+            case 739:
+            this.grdLeadMobileNo2 = ((System.Windows.Controls.DataGridTextColumn)(target));
+            return;
+            case 740:
+            this.grdLeadPhoneNo2 = ((System.Windows.Controls.DataGridTextColumn)(target));
+            return;
+            case 741:
+            this.grdLeadStatus2 = ((System.Windows.Controls.DataGridTextColumn)(target));
+            return;
+            case 742:
+            this.hlCampLeads = ((System.Windows.Documents.Hyperlink)(target));
+            
+            #line 2466 "..\..\frmCRM_Adm_Dashbord.xaml"
+            this.hlCampLeads.Click += new System.Windows.RoutedEventHandler(this.hlCampLeads_Click);
+=======
             case 719:
             this.btnInvoice_Finance = ((System.Windows.Controls.Button)(target));
             return;
@@ -18853,11 +20120,32 @@ namespace CRM_User_Interface {
             this.btnInvoice_C_SaveandPrint = ((System.Windows.Controls.Button)(target));
             return;
             case 726:
+<<<<<<< HEAD
             this.txtInvoice_C_Clear = ((System.Windows.Controls.Button)(target));
             return;
             case 727:
             this.txtInvoice_C_Exit = ((System.Windows.Controls.Button)(target));
+=======
+            this.dgvCampaignNotes = ((System.Windows.Controls.DataGrid)(target));
+            
+            #line 2487 "..\..\frmCRM_Adm_Dashbord.xaml"
+            this.dgvCampaignNotes.SelectedCellsChanged += new System.Windows.Controls.SelectedCellsChangedEventHandler(this.dgvCampaignNotes_SelectedCellsChanged);
+>>>>>>> origin/master
+            
+            #line default
+            #line hidden
+>>>>>>> origin/master
             return;
+<<<<<<< HEAD
+            case 743:
+            this.txtCContactCustID = ((System.Windows.Controls.TextBox)(target));
+            return;
+            case 744:
+            this.btnCampaignBack = ((System.Windows.Controls.Button)(target));
+            
+            #line 2468 "..\..\frmCRM_Adm_Dashbord.xaml"
+            this.btnCampaignBack.Click += new System.Windows.RoutedEventHandler(this.btnCampaignBack_Click);
+=======
             case 728:
             this.___No_Name_txtInvoice_C_Invoiceno = ((System.Windows.Controls.Label)(target));
             return;
@@ -18874,11 +20162,86 @@ namespace CRM_User_Interface {
             this.btnInvoice_CH_Amount = ((System.Windows.Controls.TextBox)(target));
             return;
             case 733:
+<<<<<<< HEAD
             this.lblInvoice_CH_Invcno = ((System.Windows.Controls.Label)(target));
+=======
+            this.btnFA_ActivitySave1 = ((System.Windows.Controls.Button)(target));
+            
+            #line 2519 "..\..\frmCRM_Adm_Dashbord.xaml"
+            this.btnFA_ActivitySave1.Click += new System.Windows.RoutedEventHandler(this.btnFA_ActivitySave_Click);
+>>>>>>> origin/master
+            
+            #line default
+            #line hidden
+>>>>>>> origin/master
             return;
+<<<<<<< HEAD
+            case 745:
+            this.grd_LeadCampain = ((System.Windows.Controls.Grid)(target));
+            
+            #line 2477 "..\..\frmCRM_Adm_Dashbord.xaml"
+            this.grd_LeadCampain.Loaded += new System.Windows.RoutedEventHandler(this.grd_LeadCampain_Loaded);
+=======
             case 734:
+<<<<<<< HEAD
             this.btnInvoice_CH_SaveandPrint = ((System.Windows.Controls.Button)(target));
+=======
+            this.btnFA_ActivityCancel1 = ((System.Windows.Controls.Button)(target));
+            
+            #line 2520 "..\..\frmCRM_Adm_Dashbord.xaml"
+            this.btnFA_ActivityCancel1.Click += new System.Windows.RoutedEventHandler(this.btnFA_ActivityCancel_Click);
+>>>>>>> origin/master
+            
+            #line default
+            #line hidden
             return;
+<<<<<<< HEAD
+            case 746:
+            this.imgDealerDetails17 = ((System.Windows.Controls.Image)(target));
+            return;
+            case 747:
+            this.txtLeadFollowupFirstName = ((System.Windows.Controls.TextBox)(target));
+            return;
+            case 748:
+            this.dp_LeadDob = ((System.Windows.Controls.DatePicker)(target));
+            return;
+            case 749:
+            this.lblLeadWalkin = ((System.Windows.Controls.Label)(target));
+            return;
+            case 750:
+            this.txtLeadFollowupLastName = ((System.Windows.Controls.TextBox)(target));
+            return;
+            case 751:
+            this.btnSavePhoto9 = ((System.Windows.Controls.Button)(target));
+            
+            #line 2497 "..\..\frmCRM_Adm_Dashbord.xaml"
+            this.btnSavePhoto9.Click += new System.Windows.RoutedEventHandler(this.btnSavePhoto_Click);
+            
+            #line default
+            #line hidden
+>>>>>>> origin/master
+            return;
+            case 752:
+            this.txtMaxID9 = ((System.Windows.Controls.TextBox)(target));
+            return;
+            case 753:
+            this.txtEmployeeID9 = ((System.Windows.Controls.TextBox)(target));
+            return;
+            case 754:
+            this.cmbLeadFollowup_Occupation = ((System.Windows.Controls.ComboBox)(target));
+            return;
+            case 755:
+            this.cmbLeadEmployeename = ((System.Windows.Controls.ComboBox)(target));
+            return;
+            case 756:
+            this.cmbLeadFollowpTitle = ((System.Windows.Controls.ComboBox)(target));
+            return;
+            case 757:
+            this.txtLeadMobile = ((System.Windows.Controls.TextBox)(target));
+            
+            #line 2512 "..\..\frmCRM_Adm_Dashbord.xaml"
+            this.txtLeadMobile.PreviewTextInput += new System.Windows.Input.TextCompositionEventHandler(this.NumberValidationTextBox);
+=======
             case 735:
             this.btnInvoice_CH_Clear = ((System.Windows.Controls.Button)(target));
             return;
@@ -18898,8 +20261,29 @@ namespace CRM_User_Interface {
             this.GRDInvoice_Installment = ((System.Windows.Controls.Grid)(target));
             return;
             case 741:
+<<<<<<< HEAD
             this.txtInvoice_InstalTotalAmount = ((System.Windows.Controls.TextBox)(target));
+=======
+            this.hlCCampaignsNots = ((System.Windows.Documents.Hyperlink)(target));
+            
+            #line 2538 "..\..\frmCRM_Adm_Dashbord.xaml"
+            this.hlCCampaignsNots.Click += new System.Windows.RoutedEventHandler(this.hlCCampaignsNots_Click);
+>>>>>>> origin/master
+            
+            #line default
+            #line hidden
+>>>>>>> origin/master
             return;
+<<<<<<< HEAD
+            case 758:
+            this.Phone_No_6 = ((System.Windows.Controls.Label)(target));
+            return;
+            case 759:
+            this.txtLeadFollowup_PhoneNo = ((System.Windows.Controls.TextBox)(target));
+            
+            #line 2514 "..\..\frmCRM_Adm_Dashbord.xaml"
+            this.txtLeadFollowup_PhoneNo.PreviewTextInput += new System.Windows.Input.TextCompositionEventHandler(this.NumberValidationTextBox);
+=======
             case 742:
             this.txtInvoice_InstalPaidAmount = ((System.Windows.Controls.TextBox)(target));
             return;
@@ -18910,8 +20294,35 @@ namespace CRM_User_Interface {
             this.rdo_Invoice_Yearlyinstallment = ((System.Windows.Controls.RadioButton)(target));
             return;
             case 745:
+<<<<<<< HEAD
             this.rdoInvoice_rdo_Invoice_Monthlyinstallment = ((System.Windows.Controls.RadioButton)(target));
+=======
+            this.btnCCampaignNotes_Save = ((System.Windows.Controls.Button)(target));
+            
+            #line 2544 "..\..\frmCRM_Adm_Dashbord.xaml"
+            this.btnCCampaignNotes_Save.Click += new System.Windows.RoutedEventHandler(this.btnCCampaignNotes_Save_Click);
+>>>>>>> origin/master
+            
+            #line default
+            #line hidden
+>>>>>>> origin/master
             return;
+<<<<<<< HEAD
+            case 760:
+            this.Phone_No_3_Copy5 = ((System.Windows.Controls.Label)(target));
+            return;
+            case 761:
+            this.txtLeadEmailid = ((System.Windows.Controls.TextBox)(target));
+            return;
+            case 762:
+            this.Phone_No_3_Copy8 = ((System.Windows.Controls.Label)(target));
+            return;
+            case 763:
+            this.txtLeadFollowFaxNo = ((System.Windows.Controls.TextBox)(target));
+            
+            #line 2518 "..\..\frmCRM_Adm_Dashbord.xaml"
+            this.txtLeadFollowFaxNo.PreviewTextInput += new System.Windows.Input.TextCompositionEventHandler(this.NumberValidationTextBox);
+=======
             case 746:
             this.cmdInvoice_InstalYear = ((System.Windows.Controls.ComboBox)(target));
             return;
@@ -18922,8 +20333,41 @@ namespace CRM_User_Interface {
             this.txtInvoice_InstalAmountPermonth = ((System.Windows.Controls.TextBox)(target));
             return;
             case 749:
+<<<<<<< HEAD
             this.dpInvoice_Instalpermonth = ((System.Windows.Controls.DatePicker)(target));
+=======
+            this.btnFA_Attached1 = ((System.Windows.Controls.Button)(target));
+            
+            #line 2551 "..\..\frmCRM_Adm_Dashbord.xaml"
+            this.btnFA_Attached1.Click += new System.Windows.RoutedEventHandler(this.btnFA_Attached_Click);
+>>>>>>> origin/master
+            
+            #line default
+            #line hidden
+>>>>>>> origin/master
             return;
+<<<<<<< HEAD
+            case 764:
+            this.Phone_No_3_Copy9 = ((System.Windows.Controls.Label)(target));
+            return;
+            case 765:
+            this.txtLeadFollowWebsite = ((System.Windows.Controls.TextBox)(target));
+            return;
+            case 766:
+            this.cmbLeadSourceofEnq = ((System.Windows.Controls.ComboBox)(target));
+            return;
+            case 767:
+            this.Phone_No_3_Copy10 = ((System.Windows.Controls.Label)(target));
+            return;
+            case 768:
+            this.txtLeadFollowAnnualRevenue = ((System.Windows.Controls.TextBox)(target));
+            return;
+            case 769:
+            this.btnFollowCalc1 = ((System.Windows.Controls.Button)(target));
+            
+            #line 2535 "..\..\frmCRM_Adm_Dashbord.xaml"
+            this.btnFollowCalc1.Click += new System.Windows.RoutedEventHandler(this.btnFollowCalc_Click);
+=======
             case 750:
             this.btnInvoice_InstalSaveandPrint = ((System.Windows.Controls.Button)(target));
             return;
@@ -18934,8 +20378,71 @@ namespace CRM_User_Interface {
             this.btnInvoice_InstalExit = ((System.Windows.Controls.Button)(target));
             return;
             case 753:
+<<<<<<< HEAD
             this.lblInvoice_Instal = ((System.Windows.Controls.Label)(target));
+=======
+            this.btnFA_AttachChoose1 = ((System.Windows.Controls.Button)(target));
+            
+            #line 2557 "..\..\frmCRM_Adm_Dashbord.xaml"
+            this.btnFA_AttachChoose1.Click += new System.Windows.RoutedEventHandler(this.btnFA_AttachChoose_Click);
+>>>>>>> origin/master
+            
+            #line default
+            #line hidden
             return;
+<<<<<<< HEAD
+            case 770:
+            this.txtLeadCampainID = ((System.Windows.Controls.TextBox)(target));
+            return;
+            case 771:
+            this.txtLeadStatus = ((System.Windows.Controls.TextBox)(target));
+            return;
+            case 772:
+            this.txtLeadAddress = ((System.Windows.Controls.TextBox)(target));
+            return;
+            case 773:
+            this.txtLeadFollowup_Zip = ((System.Windows.Controls.TextBox)(target));
+            
+            #line 2545 "..\..\frmCRM_Adm_Dashbord.xaml"
+            this.txtLeadFollowup_Zip.PreviewTextInput += new System.Windows.Input.TextCompositionEventHandler(this.NumberValidationTextBox);
+            
+            #line default
+            #line hidden
+            return;
+            case 774:
+            this.cmbLeadFollowup_City = ((System.Windows.Controls.ComboBox)(target));
+            return;
+            case 775:
+            this.cmbLeadFollowup_State = ((System.Windows.Controls.ComboBox)(target));
+            return;
+            case 776:
+            this.cmbLeadFollowup_Country = ((System.Windows.Controls.ComboBox)(target));
+            return;
+            case 777:
+            this.btnLeadFollowup_Save = ((System.Windows.Controls.Button)(target));
+            
+            #line 2554 "..\..\frmCRM_Adm_Dashbord.xaml"
+            this.btnLeadFollowup_Save.Click += new System.Windows.RoutedEventHandler(this.btnLeadFollowup_Save_Click);
+            
+            #line default
+            #line hidden
+            return;
+            case 778:
+            this.btnLeadfFollowup_Clear = ((System.Windows.Controls.Button)(target));
+            
+            #line 2555 "..\..\frmCRM_Adm_Dashbord.xaml"
+            this.btnLeadfFollowup_Clear.Click += new System.Windows.RoutedEventHandler(this.btnLeadfFollowup_Clear_Click);
+            
+            #line default
+            #line hidden
+>>>>>>> origin/master
+            return;
+            case 779:
+            this.btnLeadFollowup_Exit = ((System.Windows.Controls.Button)(target));
+            
+            #line 2556 "..\..\frmCRM_Adm_Dashbord.xaml"
+            this.btnLeadFollowup_Exit.Click += new System.Windows.RoutedEventHandler(this.btnLeadFollowup_Exit_Click);
+=======
             case 754:
             this.tbCustCampaigns = ((System.Windows.Controls.TabItem)(target));
             return;
@@ -19014,12 +20521,36 @@ namespace CRM_User_Interface {
             case 765:
             this.txtCampID = ((System.Windows.Controls.TextBox)(target));
             
+<<<<<<< HEAD
             #line 2494 "..\..\frmCRM_Adm_Dashbord.xaml"
             this.txtCampID.TextChanged += new System.Windows.Controls.TextChangedEventHandler(this.txtSearch_CampaignName_TextChanged);
+=======
+            #line 2581 "..\..\frmCRM_Adm_Dashbord.xaml"
+            this.btnViewCampaigns_Close.Click += new System.Windows.RoutedEventHandler(this.btnViewInfo_Close_Click);
+>>>>>>> origin/master
             
             #line default
             #line hidden
             return;
+<<<<<<< HEAD
+            case 780:
+            this.hlLeadAddProducts = ((System.Windows.Documents.Hyperlink)(target));
+            
+            #line 2559 "..\..\frmCRM_Adm_Dashbord.xaml"
+            this.hlLeadAddProducts.Click += new System.Windows.RoutedEventHandler(this.hlLeadAddProducts_Click);
+=======
+            case 767:
+            this.hlCLeads = ((System.Windows.Documents.Hyperlink)(target));
+            
+            #line 2585 "..\..\frmCRM_Adm_Dashbord.xaml"
+            this.hlCLeads.Click += new System.Windows.RoutedEventHandler(this.hlCLeads_Click);
+>>>>>>> origin/master
+>>>>>>> origin/master
+            
+            #line default
+            #line hidden
+            return;
+<<<<<<< HEAD
             case 766:
             this.dgvCampaginsDetails = ((System.Windows.Controls.DataGrid)(target));
             
@@ -19031,8 +20562,6 @@ namespace CRM_User_Interface {
             return;
             case 770:
             this.grdFinalPro_ID12 = ((System.Windows.Controls.DataGridTextColumn)(target));
-<<<<<<< HEAD
-=======
 =======
 <<<<<<< HEAD
             case 781:
@@ -19106,7 +20635,6 @@ namespace CRM_User_Interface {
             case 768:
             this.dgvCLeads = ((System.Windows.Controls.DataGrid)(target));
 >>>>>>> origin/master
->>>>>>> origin/master
             return;
             case 771:
             this.grdCampaignName = ((System.Windows.Controls.DataGridTextColumn)(target));
@@ -19119,8 +20647,6 @@ namespace CRM_User_Interface {
             return;
             case 774:
             this.grdEndDate = ((System.Windows.Controls.DataGridTextColumn)(target));
-<<<<<<< HEAD
-=======
             return;
             case 775:
             this.grdStatus = ((System.Windows.Controls.DataGridTextColumn)(target));
@@ -19197,29 +20723,19 @@ namespace CRM_User_Interface {
             return;
             case 800:
             this.txtMassLeadID = ((System.Windows.Controls.TextBox)(target));
->>>>>>> origin/master
             return;
-            case 775:
-            this.grdStatus = ((System.Windows.Controls.DataGridTextColumn)(target));
+            case 801:
+            this.cmbLeadCampainStatus = ((System.Windows.Controls.ComboBox)(target));
             return;
-            case 776:
-            this.btn_View_Campaign_Delete = ((System.Windows.Controls.Button)(target));
-            
-            #line 2552 "..\..\frmCRM_Adm_Dashbord.xaml"
-            this.btn_View_Campaign_Delete.Click += new System.Windows.RoutedEventHandler(this.btn_View_Campaign_Delete_Click);
-            
-            #line default
-            #line hidden
+            case 802:
+            this.grdFollup_Activity2 = ((System.Windows.Controls.Grid)(target));
             return;
-            case 777:
-            this.btn_View_Campaign_AddNewCampaign = ((System.Windows.Controls.Button)(target));
+            case 803:
+            this.btnFA_ActivitySave2 = ((System.Windows.Controls.Button)(target));
             
-            #line 2565 "..\..\frmCRM_Adm_Dashbord.xaml"
-            this.btn_View_Campaign_AddNewCampaign.Click += new System.Windows.RoutedEventHandler(this.btn_View_Campaign_AddNewCampaign_Click);
-            
-            #line default
-            #line hidden
-            return;
+            #line 2639 "..\..\frmCRM_Adm_Dashbord.xaml"
+            this.btnFA_ActivitySave2.Click += new System.Windows.RoutedEventHandler(this.btnFA_ActivitySave_Click);
+=======
             case 778:
             this.grdCreateCampaign = ((System.Windows.Controls.Grid)(target));
             
@@ -19274,20 +20790,31 @@ namespace CRM_User_Interface {
             case 789:
             this.txtCampBudgetedCost = ((System.Windows.Controls.TextBox)(target));
             
+<<<<<<< HEAD
             #line 2627 "..\..\frmCRM_Adm_Dashbord.xaml"
             this.txtCampBudgetedCost.PreviewTextInput += new System.Windows.Input.TextCompositionEventHandler(this.NumberValidationTextBox);
+=======
+            #line 2667 "..\..\frmCRM_Adm_Dashbord.xaml"
+            this.hlCampLeads.Click += new System.Windows.RoutedEventHandler(this.hlCampLeads_Click);
+>>>>>>> origin/master
+>>>>>>> origin/master
             
             #line default
             #line hidden
             return;
+<<<<<<< HEAD
+            case 804:
+            this.btnFA_ActivityCancel2 = ((System.Windows.Controls.Button)(target));
+            
+            #line 2640 "..\..\frmCRM_Adm_Dashbord.xaml"
+            this.btnFA_ActivityCancel2.Click += new System.Windows.RoutedEventHandler(this.btnFA_ActivityCancel_Click);
+=======
             case 790:
             this.Phone_No_3_Copy7 = ((System.Windows.Controls.Label)(target));
             return;
             case 791:
-            this.txtCampExpectedResponse = ((System.Windows.Controls.TextBox)(target));
 <<<<<<< HEAD
-            return;
-=======
+            this.txtCampExpectedResponse = ((System.Windows.Controls.TextBox)(target));
 =======
             this.btnCampaignBack = ((System.Windows.Controls.Button)(target));
             
@@ -19340,7 +20867,6 @@ namespace CRM_User_Interface {
             #line 2661 "..\..\frmCRM_Adm_Dashbord.xaml"
             this.btnCCampaignNotes_Save1.Click += new System.Windows.RoutedEventHandler(this.btnCCampaignNotes_Save_Click);
 =======
->>>>>>> origin/master
             case 792:
             this.btnCampBudgCalc = ((System.Windows.Controls.Button)(target));
             
@@ -19385,10 +20911,9 @@ namespace CRM_User_Interface {
             case 798:
             this.btnCamp_Save = ((System.Windows.Controls.Button)(target));
             
+<<<<<<< HEAD
             #line 2652 "..\..\frmCRM_Adm_Dashbord.xaml"
             this.btnCamp_Save.Click += new System.Windows.RoutedEventHandler(this.btnCamp_Save_Click);
-<<<<<<< HEAD
-=======
 =======
             #line 2698 "..\..\frmCRM_Adm_Dashbord.xaml"
             this.btnSavePhoto9.Click += new System.Windows.RoutedEventHandler(this.btnSavePhoto_Click);
@@ -19409,13 +20934,10 @@ namespace CRM_User_Interface {
             this.btnCCampaignNotes_Cancel1.Click += new System.Windows.RoutedEventHandler(this.btnCCampaignNotes_Cancel_Click);
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
             
             #line default
             #line hidden
             return;
-<<<<<<< HEAD
-=======
             case 745:
             this.txtInvoice_C_Exit = ((System.Windows.Controls.Button)(target));
             
@@ -19456,7 +20978,6 @@ namespace CRM_User_Interface {
             #line 2669 "..\..\frmCRM_Adm_Dashbord.xaml"
             this.btnFA_AttachedCancel2.Click += new System.Windows.RoutedEventHandler(this.btnFA_ActivityCancel_Click);
 =======
->>>>>>> origin/master
             case 799:
             this.btnfCamp_Clear = ((System.Windows.Controls.Button)(target));
             
@@ -19484,10 +21005,9 @@ namespace CRM_User_Interface {
             case 803:
             this.grd_View_Campaigns = ((System.Windows.Controls.Grid)(target));
             
+<<<<<<< HEAD
             #line 2669 "..\..\frmCRM_Adm_Dashbord.xaml"
             this.grd_View_Campaigns.Loaded += new System.Windows.RoutedEventHandler(this.grd_View_Campaigns_Loaded);
-<<<<<<< HEAD
-=======
 =======
             #line 2713 "..\..\frmCRM_Adm_Dashbord.xaml"
             this.txtLeadMobile.PreviewTextInput += new System.Windows.Input.TextCompositionEventHandler(this.NumberValidationTextBox);
@@ -19504,13 +21024,10 @@ namespace CRM_User_Interface {
             
             #line 2457 "..\..\frmCRM_Adm_Dashbord.xaml"
             this.btnInvoice_CH_Clear.Click += new System.Windows.RoutedEventHandler(this.btnInvoice_CH_Clear_Click);
->>>>>>> origin/master
             
             #line default
             #line hidden
             return;
-<<<<<<< HEAD
-=======
             case 754:
             this.btnInvoice_CH_Exit = ((System.Windows.Controls.Button)(target));
             
@@ -19518,21 +21035,35 @@ namespace CRM_User_Interface {
             this.btnInvoice_CH_Exit.Click += new System.Windows.RoutedEventHandler(this.btnInvoice_CH_Exit_Click);
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
             case 804:
             this.imgDealerDetails16 = ((System.Windows.Controls.Image)(target));
+=======
+<<<<<<< HEAD
+            case 819:
+            this.lblFValidation6 = ((System.Windows.Controls.Label)(target));
+            return;
+            case 820:
+            this.lblFAValidation5 = ((System.Windows.Controls.Label)(target));
+            return;
+            case 821:
+            this.btnFA_AttachChoose2 = ((System.Windows.Controls.Button)(target));
+            
+            #line 2674 "..\..\frmCRM_Adm_Dashbord.xaml"
+            this.btnFA_AttachChoose2.Click += new System.Windows.RoutedEventHandler(this.btnFA_AttachChoose_Click);
+=======
+            case 805:
+            this.Phone_No_6 = ((System.Windows.Controls.Label)(target));
+>>>>>>> origin/master
             return;
             case 805:
             this.btnSavePhoto8 = ((System.Windows.Controls.Button)(target));
             
+<<<<<<< HEAD
             #line 2679 "..\..\frmCRM_Adm_Dashbord.xaml"
             this.btnSavePhoto8.Click += new System.Windows.RoutedEventHandler(this.btnSavePhoto_Click);
-<<<<<<< HEAD
-=======
 =======
             #line 2715 "..\..\frmCRM_Adm_Dashbord.xaml"
             this.txtLeadFollowup_PhoneNo.PreviewTextInput += new System.Windows.Input.TextCompositionEventHandler(this.NumberValidationTextBox);
->>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
@@ -19540,11 +21071,6 @@ namespace CRM_User_Interface {
             #line default
             #line hidden
             return;
-<<<<<<< HEAD
-            case 806:
-            this.txtMaxID8 = ((System.Windows.Controls.TextBox)(target));
-            return;
-=======
 <<<<<<< HEAD
             case 755:
             this.cmbInvoic_CH_BankName = ((System.Windows.Controls.ComboBox)(target));
@@ -19639,7 +21165,6 @@ namespace CRM_User_Interface {
             this.btnViewCampaigns_Close1.Click += new System.Windows.RoutedEventHandler(this.btnViewInfo_Close_Click);
 =======
 >>>>>>> origin/master
->>>>>>> origin/master
             case 807:
             this.txtEmployeeID8 = ((System.Windows.Controls.TextBox)(target));
             return;
@@ -19732,14 +21257,12 @@ namespace CRM_User_Interface {
             case 819:
             this.dgvCampaignNotes = ((System.Windows.Controls.DataGrid)(target));
             
+<<<<<<< HEAD
             #line 2698 "..\..\frmCRM_Adm_Dashbord.xaml"
             this.dgvCampaignNotes.SelectedCellsChanged += new System.Windows.Controls.SelectedCellsChangedEventHandler(this.dgvCampaignNotes_SelectedCellsChanged);
-<<<<<<< HEAD
-=======
 =======
             #line 2746 "..\..\frmCRM_Adm_Dashbord.xaml"
             this.txtLeadFollowup_Zip.PreviewTextInput += new System.Windows.Input.TextCompositionEventHandler(this.NumberValidationTextBox);
->>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
@@ -19747,8 +21270,6 @@ namespace CRM_User_Interface {
             #line default
             #line hidden
             return;
-<<<<<<< HEAD
-=======
             case 778:
             this.btn_View_Campaign_Refresh = ((System.Windows.Controls.Button)(target));
             
@@ -19765,7 +21286,6 @@ namespace CRM_User_Interface {
             #line 2701 "..\..\frmCRM_Adm_Dashbord.xaml"
             this.btnMassCampCancel_Close.Click += new System.Windows.RoutedEventHandler(this.btnMassCampCancel_Close_Click);
 =======
->>>>>>> origin/master
             case 821:
             this.grdFID1 = ((System.Windows.Controls.DataGridTextColumn)(target));
             return;
@@ -19774,20 +21294,6 @@ namespace CRM_User_Interface {
             return;
             case 823:
             this.grdFCommentsDate = ((System.Windows.Controls.DataGridTextColumn)(target));
-<<<<<<< HEAD
-            return;
-            case 824:
-            this.dgvCAttachments = ((System.Windows.Controls.DataGrid)(target));
-            return;
-            case 825:
-            this.grdFollup_Activity1 = ((System.Windows.Controls.Grid)(target));
-            return;
-            case 826:
-            this.btnFA_ActivitySave1 = ((System.Windows.Controls.Button)(target));
-            
-            #line 2730 "..\..\frmCRM_Adm_Dashbord.xaml"
-            this.btnFA_ActivitySave1.Click += new System.Windows.RoutedEventHandler(this.btnFA_ActivitySave_Click);
-=======
             return;
             case 824:
 <<<<<<< HEAD
@@ -19929,18 +21435,10 @@ namespace CRM_User_Interface {
             
             #line 2633 "..\..\frmCRM_Adm_Dashbord.xaml"
             this.grdCreateCampaign.Loaded += new System.Windows.RoutedEventHandler(this.grdCreateCampaign_Loaded);
->>>>>>> origin/master
             
             #line default
             #line hidden
             return;
-<<<<<<< HEAD
-            case 827:
-            this.btnFA_ActivityCancel1 = ((System.Windows.Controls.Button)(target));
-            
-            #line 2731 "..\..\frmCRM_Adm_Dashbord.xaml"
-            this.btnFA_ActivityCancel1.Click += new System.Windows.RoutedEventHandler(this.btnFA_ActivityCancel_Click);
-=======
             case 797:
             this.imgDealerDetails14 = ((System.Windows.Controls.Image)(target));
             return;
@@ -19958,13 +21456,10 @@ namespace CRM_User_Interface {
             this.txtSearch_ContactName.TextChanged += new System.Windows.Controls.TextChangedEventHandler(this.txtSearch_ContactName_TextChanged);
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
             
             #line default
             #line hidden
             return;
-<<<<<<< HEAD
-=======
 <<<<<<< HEAD
             case 800:
             this.txtMaxID7 = ((System.Windows.Controls.TextBox)(target));
@@ -20020,7 +21515,6 @@ namespace CRM_User_Interface {
             #line 2774 "..\..\frmCRM_Adm_Dashbord.xaml"
             this.btn_View_Contact_Exit.Click += new System.Windows.RoutedEventHandler(this.btn_View_Contact_Exit_Click);
 =======
->>>>>>> origin/master
             case 828:
             this.lblFValidation3 = ((System.Windows.Controls.Label)(target));
             return;
@@ -20080,10 +21574,9 @@ namespace CRM_User_Interface {
             case 839:
             this.btnCCampaignNotes_Cancel = ((System.Windows.Controls.Button)(target));
             
+<<<<<<< HEAD
             #line 2756 "..\..\frmCRM_Adm_Dashbord.xaml"
             this.btnCCampaignNotes_Cancel.Click += new System.Windows.RoutedEventHandler(this.btnCCampaignNotes_Cancel_Click);
-<<<<<<< HEAD
-=======
 =======
             #line 2805 "..\..\frmCRM_Adm_Dashbord.xaml"
             this.grd_LeadUPMSCampaigns.Loaded += new System.Windows.RoutedEventHandler(this.grd_LeadUPMSCampaigns_Loaded);
@@ -20113,13 +21606,10 @@ namespace CRM_User_Interface {
             this.txtAdm_EmployeeID5.TextChanged += new System.Windows.Controls.TextChangedEventHandler(this.txtAdm_EmployeeMN_Search_TextChanged);
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
             
             #line default
             #line hidden
             return;
-<<<<<<< HEAD
-=======
 <<<<<<< HEAD
             case 817:
             this.btnfCamp_Clear = ((System.Windows.Controls.Button)(target));
@@ -20137,20 +21627,26 @@ namespace CRM_User_Interface {
             this.btnCamp_Exit.Click += new System.Windows.RoutedEventHandler(this.btnCamp_Exit_Click);
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
             case 840:
             this.lblCampValidation = ((System.Windows.Controls.Label)(target));
             return;
+=======
+            case 856:
+            this.txtContactID = ((System.Windows.Controls.TextBox)(target));
+            
+            #line 2777 "..\..\frmCRM_Adm_Dashbord.xaml"
+            this.txtContactID.TextChanged += new System.Windows.Controls.TextChangedEventHandler(this.txtSearch_CampaignName_TextChanged);
+=======
+>>>>>>> origin/master
             case 841:
             this.grdFollup_Attachment1 = ((System.Windows.Controls.Grid)(target));
             return;
             case 842:
             this.btnFA_Attached1 = ((System.Windows.Controls.Button)(target));
             
+<<<<<<< HEAD
             #line 2762 "..\..\frmCRM_Adm_Dashbord.xaml"
             this.btnFA_Attached1.Click += new System.Windows.RoutedEventHandler(this.btnFA_Attached_Click);
-<<<<<<< HEAD
-=======
 =======
             #line 2815 "..\..\frmCRM_Adm_Dashbord.xaml"
             this.btnSavePhoto10.Click += new System.Windows.RoutedEventHandler(this.btnSavePhoto_Click);
@@ -20189,13 +21685,10 @@ namespace CRM_User_Interface {
             this.dgvContactDetails.SelectedCellsChanged += new System.Windows.Controls.SelectedCellsChangedEventHandler(this.dgvCampaginsDetails_SelectedCellsChanged);
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
             
             #line default
             #line hidden
             return;
-<<<<<<< HEAD
-=======
             case 824:
             this.txtMaxID8 = ((System.Windows.Controls.TextBox)(target));
             return;
@@ -20221,7 +21714,6 @@ namespace CRM_User_Interface {
             #line 2828 "..\..\frmCRM_Adm_Dashbord.xaml"
             this.txtAdm_EmployeeID6.TextChanged += new System.Windows.Controls.TextChangedEventHandler(this.txtAdm_EmployeeMN_Search_TextChanged);
 =======
->>>>>>> origin/master
             case 843:
             this.btnFA_AttachedCancel1 = ((System.Windows.Controls.Button)(target));
             
@@ -20279,10 +21771,8 @@ namespace CRM_User_Interface {
             this.lblCCampaignName = ((System.Windows.Controls.Label)(target));
             return;
             case 850:
-            this.lblCCStartDate = ((System.Windows.Controls.Label)(target));
 <<<<<<< HEAD
-            return;
-=======
+            this.lblCCStartDate = ((System.Windows.Controls.Label)(target));
 =======
             this.btnFA_ActivitySave2 = ((System.Windows.Controls.Button)(target));
 >>>>>>> origin/master
@@ -20305,11 +21795,9 @@ namespace CRM_User_Interface {
             #line 2829 "..\..\frmCRM_Adm_Dashbord.xaml"
             this.btn_View_ContactDetails_Delete.Click += new System.Windows.RoutedEventHandler(this.btn_View_ContactDetails_Delete_Click);
 =======
->>>>>>> origin/master
             case 851:
-            this.lblCCRevenue = ((System.Windows.Controls.Label)(target));
 <<<<<<< HEAD
-=======
+            this.lblCCRevenue = ((System.Windows.Controls.Label)(target));
 =======
             this.btnFA_ActivityCancel2 = ((System.Windows.Controls.Button)(target));
 >>>>>>> origin/master
@@ -20393,8 +21881,13 @@ namespace CRM_User_Interface {
             return;
             case 876:
             this.txtContactLastName = ((System.Windows.Controls.TextBox)(target));
->>>>>>> origin/master
             return;
+            case 877:
+            this.btnSavePhoto12 = ((System.Windows.Controls.Button)(target));
+            
+            #line 2899 "..\..\frmCRM_Adm_Dashbord.xaml"
+            this.btnSavePhoto12.Click += new System.Windows.RoutedEventHandler(this.btnSavePhoto_Click);
+=======
             case 852:
             this.lblCCStatus = ((System.Windows.Controls.Label)(target));
             return;
@@ -20452,12 +21945,8 @@ namespace CRM_User_Interface {
             this.dgvCLeads = ((System.Windows.Controls.DataGrid)(target));
             return;
             case 864:
-            this.grdLeadID = ((System.Windows.Controls.DataGridTextColumn)(target));
 <<<<<<< HEAD
-            return;
-            case 865:
-            this.grdLeadName = ((System.Windows.Controls.DataGridTextColumn)(target));
-=======
+            this.grdLeadID = ((System.Windows.Controls.DataGridTextColumn)(target));
 =======
             this.btnFA_Attached2 = ((System.Windows.Controls.Button)(target));
 >>>>>>> origin/master
@@ -20587,7 +22076,6 @@ namespace CRM_User_Interface {
             return;
             case 874:
             this.lblCCEndDate = ((System.Windows.Controls.Label)(target));
->>>>>>> origin/master
             return;
             case 875:
             this.lblCDesctiption = ((System.Windows.Controls.Label)(target));
@@ -20595,12 +22083,6 @@ namespace CRM_User_Interface {
             case 876:
             this.lblFCountry_Copy2 = ((System.Windows.Controls.Label)(target));
             return;
-<<<<<<< HEAD
-            case 868:
-            this.grdLeadPhoneNo = ((System.Windows.Controls.DataGridTextColumn)(target));
-            return;
-            case 869:
-=======
             case 877:
             this.btnViewCampaigns_Close = ((System.Windows.Controls.Button)(target));
             
@@ -20643,7 +22125,6 @@ namespace CRM_User_Interface {
             case 888:
             this.hlMassUpdateMbStatus = ((System.Windows.Documents.Hyperlink)(target));
 =======
->>>>>>> origin/master
             this.grdLeadStatus = ((System.Windows.Controls.DataGridTextColumn)(target));
             return;
             case 870:
@@ -20680,10 +22161,8 @@ namespace CRM_User_Interface {
             this.grdLeadPhoneNo2 = ((System.Windows.Controls.DataGridTextColumn)(target));
             return;
             case 881:
-            this.grdLeadStatus2 = ((System.Windows.Controls.DataGridTextColumn)(target));
 <<<<<<< HEAD
-            return;
-=======
+            this.grdLeadStatus2 = ((System.Windows.Controls.DataGridTextColumn)(target));
 =======
             this.btnViewCampaigns_Close1 = ((System.Windows.Controls.Button)(target));
 >>>>>>> origin/master
@@ -20734,7 +22213,6 @@ namespace CRM_User_Interface {
             #line 2952 "..\..\frmCRM_Adm_Dashbord.xaml"
             this.txtContactOtherZip.PreviewTextInput += new System.Windows.Input.TextCompositionEventHandler(this.NumberValidationTextBox);
 =======
->>>>>>> origin/master
             case 882:
             this.hlCampLeads = ((System.Windows.Documents.Hyperlink)(target));
             
@@ -20750,13 +22228,6 @@ namespace CRM_User_Interface {
             case 884:
             this.btnCampaignBack = ((System.Windows.Controls.Button)(target));
             
-<<<<<<< HEAD
-            #line 2880 "..\..\frmCRM_Adm_Dashbord.xaml"
-            this.btnCampaignBack.Click += new System.Windows.RoutedEventHandler(this.btnCampaignBack_Click);
-            
-            #line default
-            #line hidden
-=======
 <<<<<<< HEAD
             #line 2880 "..\..\frmCRM_Adm_Dashbord.xaml"
             this.btnCampaignBack.Click += new System.Windows.RoutedEventHandler(this.btnCampaignBack_Click);
@@ -20803,8 +22274,8 @@ namespace CRM_User_Interface {
 =======
             case 884:
             this.grdLeadID1 = ((System.Windows.Controls.DataGridTextColumn)(target));
->>>>>>> origin/master
             return;
+>>>>>>> origin/master
             case 885:
             this.grd_LeadCampain = ((System.Windows.Controls.Grid)(target));
             
@@ -20832,10 +22303,9 @@ namespace CRM_User_Interface {
             case 891:
             this.btnSavePhoto9 = ((System.Windows.Controls.Button)(target));
             
+<<<<<<< HEAD
             #line 2909 "..\..\frmCRM_Adm_Dashbord.xaml"
             this.btnSavePhoto9.Click += new System.Windows.RoutedEventHandler(this.btnSavePhoto_Click);
-<<<<<<< HEAD
-=======
 =======
             #line 2933 "..\..\frmCRM_Adm_Dashbord.xaml"
             this.btnSavePhoto11.Click += new System.Windows.RoutedEventHandler(this.btnSavePhoto_Click);
@@ -20866,14 +22336,11 @@ namespace CRM_User_Interface {
             #line 2966 "..\..\frmCRM_Adm_Dashbord.xaml"
             this.btnContact_Save.Click += new System.Windows.RoutedEventHandler(this.btnContact_Save_Click);
 >>>>>>> origin/master
->>>>>>> origin/master
             
             #line default
             #line hidden
 >>>>>>> origin/master
             return;
-<<<<<<< HEAD
-=======
 <<<<<<< HEAD
 =======
             case 909:
@@ -20889,7 +22356,6 @@ namespace CRM_User_Interface {
             this.txtMaxID11 = ((System.Windows.Controls.TextBox)(target));
             return;
 >>>>>>> origin/master
->>>>>>> origin/master
             case 892:
             this.txtMaxID9 = ((System.Windows.Controls.TextBox)(target));
             return;
@@ -20903,10 +22369,8 @@ namespace CRM_User_Interface {
             this.cmbLeadEmployeename = ((System.Windows.Controls.ComboBox)(target));
             return;
             case 896:
-            this.cmbLeadFollowpTitle = ((System.Windows.Controls.ComboBox)(target));
 <<<<<<< HEAD
-            return;
-=======
+            this.cmbLeadFollowpTitle = ((System.Windows.Controls.ComboBox)(target));
 =======
             this.btnMassCampUpdate = ((System.Windows.Controls.Button)(target));
 >>>>>>> origin/master
@@ -20927,19 +22391,22 @@ namespace CRM_User_Interface {
             #line 2968 "..\..\frmCRM_Adm_Dashbord.xaml"
             this.btnContact_Exit.Click += new System.Windows.RoutedEventHandler(this.btnContact_Exit_Click);
 =======
->>>>>>> origin/master
             case 897:
             this.txtLeadMobile = ((System.Windows.Controls.TextBox)(target));
             
+<<<<<<< HEAD
             #line 2924 "..\..\frmCRM_Adm_Dashbord.xaml"
             this.txtLeadMobile.PreviewTextInput += new System.Windows.Input.TextCompositionEventHandler(this.NumberValidationTextBox);
+=======
+            #line 2950 "..\..\frmCRM_Adm_Dashbord.xaml"
+            this.btnMassCampCancel.Click += new System.Windows.RoutedEventHandler(this.btnMassCampCancel_Click);
+>>>>>>> origin/master
+>>>>>>> origin/master
             
             #line default
             #line hidden
 >>>>>>> origin/master
             return;
-<<<<<<< HEAD
-=======
             case 911:
             this.txtEmployeeID9 = ((System.Windows.Controls.TextBox)(target));
             return;
@@ -20951,8 +22418,8 @@ namespace CRM_User_Interface {
             
             #line 2979 "..\..\frmCRM_Adm_Dashbord.xaml"
 =======
->>>>>>> origin/master
             case 898:
+<<<<<<< HEAD
             this.Phone_No_6 = ((System.Windows.Controls.Label)(target));
             return;
             case 899:
@@ -20960,8 +22427,6 @@ namespace CRM_User_Interface {
             
             #line 2926 "..\..\frmCRM_Adm_Dashbord.xaml"
             this.txtLeadFollowup_PhoneNo.PreviewTextInput += new System.Windows.Input.TextCompositionEventHandler(this.NumberValidationTextBox);
-<<<<<<< HEAD
-=======
 =======
             this.grd_View_ContDetails_Info = ((System.Windows.Controls.Grid)(target));
             
@@ -20994,7 +22459,6 @@ namespace CRM_User_Interface {
             this.btnSavePhoto13.Click += new System.Windows.RoutedEventHandler(this.btnSavePhoto_Click);
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
             
             #line default
             #line hidden
@@ -21002,9 +22466,6 @@ namespace CRM_User_Interface {
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> origin/master
             case 900:
             this.Phone_No_3_Copy5 = ((System.Windows.Controls.Label)(target));
             return;
@@ -21019,8 +22480,6 @@ namespace CRM_User_Interface {
             
             #line 2930 "..\..\frmCRM_Adm_Dashbord.xaml"
             this.txtLeadFollowFaxNo.PreviewTextInput += new System.Windows.Input.TextCompositionEventHandler(this.NumberValidationTextBox);
-<<<<<<< HEAD
-=======
 =======
             case 915:
             this.txtMaxID13 = ((System.Windows.Controls.TextBox)(target));
@@ -21044,20 +22503,16 @@ namespace CRM_User_Interface {
             this.btnContactBrowse.Click += new System.Windows.RoutedEventHandler(this.btnContactBrowse_Click);
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
             
             #line default
             #line hidden
             return;
-<<<<<<< HEAD
-=======
 <<<<<<< HEAD
             case 918:
             this.Phone_No_3_Copy5 = ((System.Windows.Controls.Label)(target));
             return;
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
             case 904:
             this.Phone_No_3_Copy9 = ((System.Windows.Controls.Label)(target));
             return;
@@ -21078,8 +22533,6 @@ namespace CRM_User_Interface {
             
             #line 2947 "..\..\frmCRM_Adm_Dashbord.xaml"
             this.btnFollowCalc1.Click += new System.Windows.RoutedEventHandler(this.btnFollowCalc_Click);
-<<<<<<< HEAD
-=======
 =======
 >>>>>>> origin/master
             case 919:
@@ -21116,12 +22569,12 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
             this.btnContactDetails_ViewInfor.Click += new System.Windows.RoutedEventHandler(this.btnContactDetails_ViewInfor_Click);
 >>>>>>> origin/master
->>>>>>> origin/master
             
             #line default
             #line hidden
 >>>>>>> origin/master
             return;
+<<<<<<< HEAD
             case 910:
             this.txtLeadCampainID = ((System.Windows.Controls.TextBox)(target));
             return;
@@ -21136,8 +22589,6 @@ namespace CRM_User_Interface {
             
             #line 2957 "..\..\frmCRM_Adm_Dashbord.xaml"
             this.txtLeadFollowup_Zip.PreviewTextInput += new System.Windows.Input.TextCompositionEventHandler(this.NumberValidationTextBox);
-<<<<<<< HEAD
-=======
 =======
             case 925:
             this.Phone_No_3_Copy10 = ((System.Windows.Controls.Label)(target));
@@ -21156,7 +22607,6 @@ namespace CRM_User_Interface {
             this.btnCContactPhoto_Save.Click += new System.Windows.RoutedEventHandler(this.btnCContactPhoto_Save_Click);
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
             
             #line default
             #line hidden
@@ -21164,9 +22614,6 @@ namespace CRM_User_Interface {
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> origin/master
             case 914:
             this.cmbLeadFollowup_City = ((System.Windows.Controls.ComboBox)(target));
             return;
@@ -21181,8 +22628,6 @@ namespace CRM_User_Interface {
             
             #line 2966 "..\..\frmCRM_Adm_Dashbord.xaml"
             this.btnLeadFollowup_Save.Click += new System.Windows.RoutedEventHandler(this.btnLeadFollowup_Save_Click);
-<<<<<<< HEAD
-=======
 =======
             case 927:
             this.txtCContactID = ((System.Windows.Controls.TextBox)(target));
@@ -21211,11 +22656,11 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
             this.btnContactDetails_ViewInfor_Close.Click += new System.Windows.RoutedEventHandler(this.btnContactDetails_ViewInfor_Close_Click);
 >>>>>>> origin/master
->>>>>>> origin/master
             
             #line default
             #line hidden
             return;
+<<<<<<< HEAD
             case 918:
             this.btnLeadfFollowup_Clear = ((System.Windows.Controls.Button)(target));
             
@@ -21233,8 +22678,6 @@ namespace CRM_User_Interface {
             
             #line 2968 "..\..\frmCRM_Adm_Dashbord.xaml"
             this.btnLeadFollowup_Exit.Click += new System.Windows.RoutedEventHandler(this.btnLeadFollowup_Exit_Click);
-<<<<<<< HEAD
-=======
 =======
             case 930:
             this.dgvContactNotes = ((System.Windows.Controls.DataGrid)(target));
@@ -21264,18 +22707,16 @@ namespace CRM_User_Interface {
             this.hlContactAcivities.Click += new System.Windows.RoutedEventHandler(this.hlContactAcivities_Click);
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
             
             #line default
             #line hidden
             return;
+<<<<<<< HEAD
             case 920:
             this.hlLeadAddProducts = ((System.Windows.Documents.Hyperlink)(target));
             
             #line 2971 "..\..\frmCRM_Adm_Dashbord.xaml"
             this.hlLeadAddProducts.Click += new System.Windows.RoutedEventHandler(this.hlLeadAddProducts_Click);
-<<<<<<< HEAD
-=======
 =======
             case 936:
             this.btnLeadfFollowup_Clear = ((System.Windows.Controls.Button)(target));
@@ -21291,11 +22732,11 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
             this.hlContactAddCampaign.Click += new System.Windows.RoutedEventHandler(this.hlContactAddCampaign_Click);
 >>>>>>> origin/master
->>>>>>> origin/master
             
             #line default
             #line hidden
             return;
+<<<<<<< HEAD
             case 921:
             this.txtLeadProductID = ((System.Windows.Controls.TextBox)(target));
             return;
@@ -21380,8 +22821,6 @@ namespace CRM_User_Interface {
             
             #line 3051 "..\..\frmCRM_Adm_Dashbord.xaml"
             this.btnFA_ActivitySave2.Click += new System.Windows.RoutedEventHandler(this.btnFA_ActivitySave_Click);
-<<<<<<< HEAD
-=======
 =======
             case 937:
             this.btnLeadFollowup_Exit = ((System.Windows.Controls.Button)(target));
@@ -21477,19 +22916,17 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
             this.btnContact_ActivitySave.Click += new System.Windows.RoutedEventHandler(this.btnContact_ActivitySave_Click);
 >>>>>>> origin/master
->>>>>>> origin/master
             
             #line default
             #line hidden
 >>>>>>> origin/master
             return;
+<<<<<<< HEAD
             case 944:
             this.btnFA_ActivityCancel2 = ((System.Windows.Controls.Button)(target));
             
             #line 3052 "..\..\frmCRM_Adm_Dashbord.xaml"
             this.btnFA_ActivityCancel2.Click += new System.Windows.RoutedEventHandler(this.btnFA_ActivityCancel_Click);
-<<<<<<< HEAD
-=======
 =======
             case 957:
 <<<<<<< HEAD
@@ -21504,12 +22941,12 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
             this.btnContact_ActivityCancel.Click += new System.Windows.RoutedEventHandler(this.btnContact_ActivityCancel_Click);
 >>>>>>> origin/master
->>>>>>> origin/master
             
             #line default
             #line hidden
 >>>>>>> origin/master
             return;
+<<<<<<< HEAD
             case 945:
             this.lblFValidation4 = ((System.Windows.Controls.Label)(target));
             return;
@@ -21539,8 +22976,6 @@ namespace CRM_User_Interface {
             
             #line 3073 "..\..\frmCRM_Adm_Dashbord.xaml"
             this.btnCCampaignNotes_Save1.Click += new System.Windows.RoutedEventHandler(this.btnCCampaignNotes_Save_Click);
-<<<<<<< HEAD
-=======
 =======
             case 958:
             this.txtMassLeadID = ((System.Windows.Controls.TextBox)(target));
@@ -21594,19 +23029,17 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
             this.btnContactNotes_Save.Click += new System.Windows.RoutedEventHandler(this.btnContactNotes_Save_Click);
 >>>>>>> origin/master
->>>>>>> origin/master
             
             #line default
             #line hidden
 >>>>>>> origin/master
             return;
+<<<<<<< HEAD
             case 954:
             this.btnCCampaignNotes_Cancel1 = ((System.Windows.Controls.Button)(target));
             
             #line 3074 "..\..\frmCRM_Adm_Dashbord.xaml"
             this.btnCCampaignNotes_Cancel1.Click += new System.Windows.RoutedEventHandler(this.btnCCampaignNotes_Cancel_Click);
-<<<<<<< HEAD
-=======
 =======
             case 968:
 <<<<<<< HEAD
@@ -21621,25 +23054,17 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
             this.btnContactNotes_Cancel.Click += new System.Windows.RoutedEventHandler(this.btnContactNotes_Cancel_Click);
 >>>>>>> origin/master
->>>>>>> origin/master
             
             #line default
             #line hidden
 >>>>>>> origin/master
             return;
+<<<<<<< HEAD
             case 955:
             this.lblCampValidation1 = ((System.Windows.Controls.Label)(target));
             return;
             case 956:
             this.grdFollup_Attachment2 = ((System.Windows.Controls.Grid)(target));
-<<<<<<< HEAD
-            return;
-            case 957:
-            this.btnFA_Attached2 = ((System.Windows.Controls.Button)(target));
-            
-            #line 3080 "..\..\frmCRM_Adm_Dashbord.xaml"
-            this.btnFA_Attached2.Click += new System.Windows.RoutedEventHandler(this.btnFA_Attached_Click);
-=======
             return;
             case 957:
             this.btnFA_Attached2 = ((System.Windows.Controls.Button)(target));
@@ -21668,18 +23093,16 @@ namespace CRM_User_Interface {
             this.btnContactAttached.Click += new System.Windows.RoutedEventHandler(this.btnContactAttached_Click);
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
             
             #line default
             #line hidden
             return;
+<<<<<<< HEAD
             case 958:
             this.btnFA_AttachedCancel2 = ((System.Windows.Controls.Button)(target));
             
             #line 3081 "..\..\frmCRM_Adm_Dashbord.xaml"
             this.btnFA_AttachedCancel2.Click += new System.Windows.RoutedEventHandler(this.btnFA_ActivityCancel_Click);
-<<<<<<< HEAD
-=======
 =======
             case 972:
             this.btnCCampaignNotes_Cancel1 = ((System.Windows.Controls.Button)(target));
@@ -21696,11 +23119,11 @@ namespace CRM_User_Interface {
             this.btnFA_AttachedCancel3.Click += new System.Windows.RoutedEventHandler(this.btnFA_ActivityCancel_Click);
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
             
             #line default
             #line hidden
             return;
+<<<<<<< HEAD
             case 959:
             this.lblFValidation6 = ((System.Windows.Controls.Label)(target));
             return;
@@ -21712,8 +23135,6 @@ namespace CRM_User_Interface {
             
             #line 3086 "..\..\frmCRM_Adm_Dashbord.xaml"
             this.btnFA_AttachChoose2.Click += new System.Windows.RoutedEventHandler(this.btnFA_AttachChoose_Click);
-<<<<<<< HEAD
-=======
 =======
             case 973:
             this.lblCampValidation1 = ((System.Windows.Controls.Label)(target));
@@ -21735,11 +23156,11 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
             this.btnContactAttachChoose.Click += new System.Windows.RoutedEventHandler(this.btnContactAttachChoose_Click);
 >>>>>>> origin/master
->>>>>>> origin/master
             
             #line default
             #line hidden
             return;
+<<<<<<< HEAD
             case 962:
             this.txt3 = ((System.Windows.Controls.TextBox)(target));
             return;
@@ -21827,8 +23248,6 @@ namespace CRM_User_Interface {
             
             #line 3144 "..\..\frmCRM_Adm_Dashbord.xaml"
             this.btnSavePhoto11.Click += new System.Windows.RoutedEventHandler(this.btnSavePhoto_Click);
-<<<<<<< HEAD
-=======
 =======
             case 976:
             this.btnFA_AttachedCancel2 = ((System.Windows.Controls.Button)(target));
@@ -21922,11 +23341,11 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
             this.btnCContactViewInfo_Close.Click += new System.Windows.RoutedEventHandler(this.btnCContactViewInfo_Close_Click);
 >>>>>>> origin/master
->>>>>>> origin/master
             
             #line default
             #line hidden
             return;
+<<<<<<< HEAD
             case 984:
             this.txtMaxID11 = ((System.Windows.Controls.TextBox)(target));
             return;
@@ -21965,8 +23384,6 @@ namespace CRM_User_Interface {
             
             #line 3161 "..\..\frmCRM_Adm_Dashbord.xaml"
             this.btnMassCampCancel.Click += new System.Windows.RoutedEventHandler(this.btnMassCampCancel_Click);
-<<<<<<< HEAD
-=======
 =======
 >>>>>>> origin/master
             case 997:
@@ -22020,17 +23437,10 @@ namespace CRM_User_Interface {
             this.btnContactDetails_ViewInfor_Back.Click += new System.Windows.RoutedEventHandler(this.btnContactDetails_ViewInfor_Back_Click);
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
             
             #line default
             #line hidden
             return;
-<<<<<<< HEAD
-            case 991:
-            this.grdCampCreateContact = ((System.Windows.Controls.Grid)(target));
-            
-            #line 3174 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
             case 1008:
             this.btnMassCampCancel = ((System.Windows.Controls.Button)(target));
             
@@ -22056,33 +23466,11 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
             this.grdCampCreateContact.Loaded += new System.Windows.RoutedEventHandler(this.grdCampCreateContact_Loaded);
             
             #line default
             #line hidden
             return;
-<<<<<<< HEAD
-            case 992:
-            this.imgDealerDetails22 = ((System.Windows.Controls.Image)(target));
-            return;
-            case 993:
-            this.txtCampContactFirstName = ((System.Windows.Controls.TextBox)(target));
-            return;
-            case 994:
-            this.dtpCampContactDOB = ((System.Windows.Controls.DatePicker)(target));
-            return;
-            case 995:
-            this.lblCampContactID = ((System.Windows.Controls.Label)(target));
-            return;
-            case 996:
-            this.txtCampContactLastName = ((System.Windows.Controls.TextBox)(target));
-            return;
-            case 997:
-            this.btnSavePhoto14 = ((System.Windows.Controls.Button)(target));
-            
-            #line 3194 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
             case 1010:
             this.imgDealerDetails22 = ((System.Windows.Controls.Image)(target));
             return;
@@ -22114,33 +23502,11 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
             this.btnSavePhoto14.Click += new System.Windows.RoutedEventHandler(this.btnSavePhoto_Click);
             
             #line default
             #line hidden
             return;
-<<<<<<< HEAD
-            case 998:
-            this.txtMaxID14 = ((System.Windows.Controls.TextBox)(target));
-            return;
-            case 999:
-            this.txtEmployeeID14 = ((System.Windows.Controls.TextBox)(target));
-            return;
-            case 1000:
-            this.cmbCampContactOccupation = ((System.Windows.Controls.ComboBox)(target));
-            return;
-            case 1001:
-            this.cmbCampContactEmployeeName = ((System.Windows.Controls.ComboBox)(target));
-            return;
-            case 1002:
-            this.cmbCampContactTitle = ((System.Windows.Controls.ComboBox)(target));
-            return;
-            case 1003:
-            this.txtCampContactMobile = ((System.Windows.Controls.TextBox)(target));
-            
-            #line 3209 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
             case 1016:
             this.txtMaxID14 = ((System.Windows.Controls.TextBox)(target));
             return;
@@ -22172,21 +23538,11 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
             this.txtCampContactMobile.PreviewTextInput += new System.Windows.Input.TextCompositionEventHandler(this.NumberValidationTextBox);
             
             #line default
             #line hidden
             return;
-<<<<<<< HEAD
-            case 1004:
-            this.Phone_No_8 = ((System.Windows.Controls.Label)(target));
-            return;
-            case 1005:
-            this.txtCampContactPhoneNo = ((System.Windows.Controls.TextBox)(target));
-            
-            #line 3211 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
             case 1022:
             this.Phone_No_8 = ((System.Windows.Controls.Label)(target));
             return;
@@ -22206,27 +23562,11 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
             this.txtCampContactPhoneNo.PreviewTextInput += new System.Windows.Input.TextCompositionEventHandler(this.NumberValidationTextBox);
             
             #line default
             #line hidden
             return;
-<<<<<<< HEAD
-            case 1006:
-            this.Phone_No_3_Copy14 = ((System.Windows.Controls.Label)(target));
-            return;
-            case 1007:
-            this.txtCampContactEmailid = ((System.Windows.Controls.TextBox)(target));
-            return;
-            case 1008:
-            this.Phone_No_3_Copy15 = ((System.Windows.Controls.Label)(target));
-            return;
-            case 1009:
-            this.txtCampContactFaxNo = ((System.Windows.Controls.TextBox)(target));
-            
-            #line 3215 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
             case 1024:
             this.Phone_No_3_Copy14 = ((System.Windows.Controls.Label)(target));
             return;
@@ -22252,30 +23592,11 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
             this.txtCampContactFaxNo.PreviewTextInput += new System.Windows.Input.TextCompositionEventHandler(this.NumberValidationTextBox);
             
             #line default
             #line hidden
             return;
-<<<<<<< HEAD
-            case 1010:
-            this.Phone_No_3_Copy16 = ((System.Windows.Controls.Label)(target));
-            return;
-            case 1011:
-            this.txtCampContactWebsite = ((System.Windows.Controls.TextBox)(target));
-            return;
-            case 1012:
-            this.cmbCampContactSourceofEnq = ((System.Windows.Controls.ComboBox)(target));
-            return;
-            case 1013:
-            this.txtCampContactMailingAddress = ((System.Windows.Controls.TextBox)(target));
-            return;
-            case 1014:
-            this.txtCampContactMailingZip = ((System.Windows.Controls.TextBox)(target));
-            
-            #line 3237 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
             case 1028:
             this.Phone_No_3_Copy16 = ((System.Windows.Controls.Label)(target));
             return;
@@ -22304,30 +23625,11 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
             this.txtCampContactMailingZip.PreviewTextInput += new System.Windows.Input.TextCompositionEventHandler(this.NumberValidationTextBox);
             
             #line default
             #line hidden
             return;
-<<<<<<< HEAD
-            case 1015:
-            this.cmbCampContactMailingCity = ((System.Windows.Controls.ComboBox)(target));
-            return;
-            case 1016:
-            this.cmbCampContactMailingState = ((System.Windows.Controls.ComboBox)(target));
-            return;
-            case 1017:
-            this.cmbCampContactMailingCountrty = ((System.Windows.Controls.ComboBox)(target));
-            return;
-            case 1018:
-            this.txtCampContactOtherAddress = ((System.Windows.Controls.TextBox)(target));
-            return;
-            case 1019:
-            this.txtCampContactOtherZip = ((System.Windows.Controls.TextBox)(target));
-            
-            #line 3247 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
             case 1033:
             this.cmbCampContactMailingCity = ((System.Windows.Controls.ComboBox)(target));
             return;
@@ -22356,27 +23658,11 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
             this.txtCampContactOtherZip.PreviewTextInput += new System.Windows.Input.TextCompositionEventHandler(this.NumberValidationTextBox);
             
             #line default
             #line hidden
             return;
-<<<<<<< HEAD
-            case 1020:
-            this.cmbCampContactOtherCity = ((System.Windows.Controls.ComboBox)(target));
-            return;
-            case 1021:
-            this.cmbCampContactOtherState = ((System.Windows.Controls.ComboBox)(target));
-            return;
-            case 1022:
-            this.cmbCampContactOtherCountrty = ((System.Windows.Controls.ComboBox)(target));
-            return;
-            case 1023:
-            this.btnCampContactCopyAddress = ((System.Windows.Controls.Button)(target));
-            
-            #line 3253 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
             case 1038:
             this.cmbCampContactOtherCity = ((System.Windows.Controls.ComboBox)(target));
             return;
@@ -22402,36 +23688,11 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
             this.btnCampContactCopyAddress.Click += new System.Windows.RoutedEventHandler(this.btnCampContactCopyAddress_Click);
             
             #line default
             #line hidden
             return;
-<<<<<<< HEAD
-            case 1024:
-            this.txtCampContactSystemPhotoPath = ((System.Windows.Controls.TextBox)(target));
-            return;
-            case 1025:
-            this.txtCampContactActualPhotoPath = ((System.Windows.Controls.TextBox)(target));
-            return;
-            case 1026:
-            this.txtContactMax_CustomerID = ((System.Windows.Controls.TextBox)(target));
-            return;
-            case 1027:
-            this.txtContactCustomerID = ((System.Windows.Controls.TextBox)(target));
-            return;
-            case 1028:
-            this.tctCampCCCampainID = ((System.Windows.Controls.TextBox)(target));
-            return;
-            case 1029:
-            this.txtCampStatus = ((System.Windows.Controls.TextBox)(target));
-            return;
-            case 1030:
-            this.btnCampContact_Save = ((System.Windows.Controls.Button)(target));
-            
-            #line 3263 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
             case 1042:
             this.txtCampContactSystemPhotoPath = ((System.Windows.Controls.TextBox)(target));
             return;
@@ -22466,18 +23727,11 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
             this.btnCampContact_Save.Click += new System.Windows.RoutedEventHandler(this.btnCampContact_Save_Click);
             
             #line default
             #line hidden
             return;
-<<<<<<< HEAD
-            case 1031:
-            this.btnCampContact_Clear = ((System.Windows.Controls.Button)(target));
-            
-            #line 3264 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
             case 1049:
             this.btnCampContact_Clear = ((System.Windows.Controls.Button)(target));
             
@@ -22494,18 +23748,11 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
             this.btnCampContact_Clear.Click += new System.Windows.RoutedEventHandler(this.btnCampContact_Clear_Click);
             
             #line default
             #line hidden
             return;
-<<<<<<< HEAD
-            case 1032:
-            this.btnCampContact_Exit = ((System.Windows.Controls.Button)(target));
-            
-            #line 3265 "..\..\frmCRM_Adm_Dashbord.xaml"
-=======
             case 1050:
             this.btnCampContact_Exit = ((System.Windows.Controls.Button)(target));
             
@@ -22522,23 +23769,15 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
             this.btnCampContact_Exit.Click += new System.Windows.RoutedEventHandler(this.btnCampContact_Exit_Click);
             
             #line default
             #line hidden
             return;
-<<<<<<< HEAD
-            case 1033:
-            this.txtCampContactDescription = ((System.Windows.Controls.TextBox)(target));
-            return;
-            case 1034:
-=======
             case 1051:
             this.txtCampContactDescription = ((System.Windows.Controls.TextBox)(target));
             return;
             case 1052:
->>>>>>> origin/master
             this.txtContactActivityID = ((System.Windows.Controls.TextBox)(target));
             return;
             }
@@ -22699,21 +23938,16 @@ namespace CRM_User_Interface {
             #line hidden
             break;
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
             case 629:
             
             #line 2145 "..\..\frmCRM_Adm_Dashbord.xaml"
             ((System.Windows.Controls.Button)(target)).Click += new System.Windows.RoutedEventHandler(this.btndgv_ContactNotsDelete_Click);
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
             case 616:
             
             #line 2105 "..\..\frmCRM_Adm_Dashbord.xaml"
             ((System.Windows.Controls.Button)(target)).Click += new System.Windows.RoutedEventHandler(this.btndgv_ContactNotsDelete_Click);
-<<<<<<< HEAD
-=======
 =======
 <<<<<<< HEAD
             case 680:
@@ -22728,13 +23962,10 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
             
             #line default
             #line hidden
             break;
-<<<<<<< HEAD
-=======
 <<<<<<< HEAD
             case 637:
             
@@ -22742,13 +23973,10 @@ namespace CRM_User_Interface {
             ((System.Windows.Controls.Button)(target)).Click += new System.Windows.RoutedEventHandler(this.btndgv_ContactActivityDelete_Click);
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
             case 624:
             
             #line 2132 "..\..\frmCRM_Adm_Dashbord.xaml"
             ((System.Windows.Controls.Button)(target)).Click += new System.Windows.RoutedEventHandler(this.btndgv_ContactActivityDelete_Click);
-<<<<<<< HEAD
-=======
 =======
 <<<<<<< HEAD
             case 722:
@@ -22763,13 +23991,10 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
             
             #line default
             #line hidden
             break;
-<<<<<<< HEAD
-=======
 <<<<<<< HEAD
             case 646:
             
@@ -22777,13 +24002,10 @@ namespace CRM_User_Interface {
             ((System.Windows.Controls.Button)(target)).Click += new System.Windows.RoutedEventHandler(this.btndgv_ContactCampaignDelete_Click);
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
             case 633:
             
             #line 2156 "..\..\frmCRM_Adm_Dashbord.xaml"
             ((System.Windows.Controls.Button)(target)).Click += new System.Windows.RoutedEventHandler(this.btndgv_ContactCampaignDelete_Click);
-<<<<<<< HEAD
-=======
 =======
 <<<<<<< HEAD
             case 723:
@@ -22798,13 +24020,10 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
             
             #line default
             #line hidden
             break;
-<<<<<<< HEAD
-=======
 <<<<<<< HEAD
             case 785:
             
@@ -22812,13 +24031,10 @@ namespace CRM_User_Interface {
             ((System.Windows.Controls.Button)(target)).Click += new System.Windows.RoutedEventHandler(this.btndgv_Campaigns_ViewDetails_Click);
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
             case 767:
             
             #line 2503 "..\..\frmCRM_Adm_Dashbord.xaml"
             ((System.Windows.Controls.Button)(target)).Click += new System.Windows.RoutedEventHandler(this.btndgv_Campaigns_ViewDetails_Click);
-<<<<<<< HEAD
-=======
 =======
 <<<<<<< HEAD
             case 734:
@@ -22833,13 +24049,10 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
             
             #line default
             #line hidden
             break;
-<<<<<<< HEAD
-=======
 <<<<<<< HEAD
             case 786:
             
@@ -22847,13 +24060,10 @@ namespace CRM_User_Interface {
             ((System.Windows.Controls.Button)(target)).Click += new System.Windows.RoutedEventHandler(this.btndgv_Campaigns_Edit_Click);
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
             case 768:
             
             #line 2517 "..\..\frmCRM_Adm_Dashbord.xaml"
             ((System.Windows.Controls.Button)(target)).Click += new System.Windows.RoutedEventHandler(this.btndgv_Campaigns_Edit_Click);
-<<<<<<< HEAD
-=======
 =======
 <<<<<<< HEAD
             case 735:
@@ -22868,13 +24078,10 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
             
             #line default
             #line hidden
             break;
-<<<<<<< HEAD
-=======
 <<<<<<< HEAD
             case 787:
             
@@ -22882,13 +24089,10 @@ namespace CRM_User_Interface {
             ((System.Windows.Controls.Button)(target)).Click += new System.Windows.RoutedEventHandler(this.btndgv_Campaigns_Remove_Click);
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
             case 769:
             
             #line 2530 "..\..\frmCRM_Adm_Dashbord.xaml"
             ((System.Windows.Controls.Button)(target)).Click += new System.Windows.RoutedEventHandler(this.btndgv_Campaigns_Remove_Click);
-<<<<<<< HEAD
-=======
 =======
 <<<<<<< HEAD
             case 859:
@@ -22903,13 +24107,10 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
             
             #line default
             #line hidden
             break;
-<<<<<<< HEAD
-=======
 <<<<<<< HEAD
             case 838:
             
@@ -22917,13 +24118,10 @@ namespace CRM_User_Interface {
             ((System.Windows.Controls.Button)(target)).Click += new System.Windows.RoutedEventHandler(this.btndgv_CampaignNotes_Click);
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
             case 820:
             
             #line 2703 "..\..\frmCRM_Adm_Dashbord.xaml"
             ((System.Windows.Controls.Button)(target)).Click += new System.Windows.RoutedEventHandler(this.btndgv_CampaignNotes_Click);
-<<<<<<< HEAD
-=======
 =======
 <<<<<<< HEAD
             case 860:
@@ -22938,13 +24136,10 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
             
             #line default
             #line hidden
             break;
-<<<<<<< HEAD
-=======
 <<<<<<< HEAD
             case 880:
             
@@ -22952,13 +24147,10 @@ namespace CRM_User_Interface {
             ((System.Windows.Controls.Button)(target)).Click += new System.Windows.RoutedEventHandler(this.btndgv_CampaignLeadEdit_Click);
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
             case 862:
             
             #line 2803 "..\..\frmCRM_Adm_Dashbord.xaml"
             ((System.Windows.Controls.Button)(target)).Click += new System.Windows.RoutedEventHandler(this.btndgv_CampaignLeadEdit_Click);
-<<<<<<< HEAD
-=======
 =======
 <<<<<<< HEAD
             case 861:
@@ -22973,13 +24165,10 @@ namespace CRM_User_Interface {
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
             
             #line default
             #line hidden
             break;
-<<<<<<< HEAD
-=======
 <<<<<<< HEAD
             case 881:
             
@@ -22987,13 +24176,10 @@ namespace CRM_User_Interface {
             ((System.Windows.Controls.Button)(target)).Click += new System.Windows.RoutedEventHandler(this.btndgv_CampaignLeadRemove_Click);
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
             case 863:
             
             #line 2816 "..\..\frmCRM_Adm_Dashbord.xaml"
             ((System.Windows.Controls.Button)(target)).Click += new System.Windows.RoutedEventHandler(this.btndgv_CampaignLeadRemove_Click);
-<<<<<<< HEAD
-=======
 =======
             case 931:
             
@@ -23005,13 +24191,10 @@ namespace CRM_User_Interface {
             ((System.Windows.Controls.Button)(target)).Click += new System.Windows.RoutedEventHandler(this.btndgv_ContactNotsDelete_Click);
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
             
             #line default
             #line hidden
             break;
-<<<<<<< HEAD
-=======
 <<<<<<< HEAD
             case 892:
             
@@ -23019,13 +24202,10 @@ namespace CRM_User_Interface {
             ((System.Windows.Controls.Button)(target)).Click += new System.Windows.RoutedEventHandler(this.btndgv_CampCampaignLeadEdit_Click);
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
             case 874:
             
             #line 2844 "..\..\frmCRM_Adm_Dashbord.xaml"
             ((System.Windows.Controls.Button)(target)).Click += new System.Windows.RoutedEventHandler(this.btndgv_CampCampaignLeadEdit_Click);
-<<<<<<< HEAD
-=======
 =======
             case 939:
             
@@ -23037,13 +24217,10 @@ namespace CRM_User_Interface {
             ((System.Windows.Controls.Button)(target)).Click += new System.Windows.RoutedEventHandler(this.btndgv_ContactActivityDelete_Click);
 >>>>>>> origin/master
 >>>>>>> origin/master
->>>>>>> origin/master
             
             #line default
             #line hidden
             break;
-<<<<<<< HEAD
-=======
 <<<<<<< HEAD
             case 893:
             
@@ -23051,13 +24228,10 @@ namespace CRM_User_Interface {
             ((System.Windows.Controls.Button)(target)).Click += new System.Windows.RoutedEventHandler(this.btndgv_CampCampaignLeadRemove_Click);
 =======
 <<<<<<< HEAD
->>>>>>> origin/master
             case 875:
             
             #line 2857 "..\..\frmCRM_Adm_Dashbord.xaml"
             ((System.Windows.Controls.Button)(target)).Click += new System.Windows.RoutedEventHandler(this.btndgv_CampCampaignLeadRemove_Click);
-<<<<<<< HEAD
-=======
 =======
             case 948:
             
@@ -23067,7 +24241,6 @@ namespace CRM_User_Interface {
             #line 3055 "..\..\frmCRM_Adm_Dashbord.xaml"
 >>>>>>> origin/master
             ((System.Windows.Controls.Button)(target)).Click += new System.Windows.RoutedEventHandler(this.btndgv_ContactCampaignDelete_Click);
->>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
             
